@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f3ad6191c4bd9b459be18ca60df94de, type: 3}
+  m_Name: Tilapia
+  m_EditorClassIdentifier: 
+  fishType: Tilapia
+  displayName: Tilapia
+  difficulty: 1
+  educationalInfo: Tilapia is a popular freshwater fish. When deboning, start by
+    making a careful cut along the spine with a knife, then use tweezers to remove
+    the pin bones carefully. The pin bones along the sides must be removed for a
+    clean fillet.
+  description: A freshwater fish perfect for beginners. Has a simple bone structure
+    with clearly visible ribs.
+  timeLimitSeconds: 90
+  spineBoneCount: 1
+  ribBoneCount: 3
+  pinBoneCount: 2
+  habitat: Freshwater lakes and rivers
+  cookingTips: Tilapia is versatile and can be grilled, fried, or baked. Make sure
+    all bones are removed for safe eating.
+  fishSprite: {fileID: 1826620295, guid: e0be83fed0a7bf841877f79216f97cfa, type: 3}
+  fishIcon: {fileID: 1826620295, guid: e0be83fed0a7bf841877f79216f97cfa, type: 3}
+  fishPrefab: {fileID: 7434062677667821415, guid: ec63b68bb7321cc4f9b6d05be2a89dfa, type: 3}
+  sharedCatalogEntry: {fileID: 11400000, guid: c946b4999e42069478e14b08a2fff1ec, type: 2}
+  sharedFishId: t
+  bones:
+  - name: Main Spine
+    x: 300
+    y: 200
+    width: 20
+    height: 300
+    boneType: 0
+    isRemoved: 0
+  - name: Rib 1
+    x: 280
+    y: 150
+    width: 15
+    height: 80
+    boneType: 1
+    isRemoved: 0
+  - name: Rib 2
+    x: 320
+    y: 150
+    width: 15
+    height: 80
+    boneType: 1
+    isRemoved: 0
+  - name: Rib 3
+    x: 270
+    y: 120
+    width: 15
+    height: 60
+    boneType: 1
+    isRemoved: 0
+  - name: Pin Bone 1
+    x: 250
+    y: 180
+    width: 8
+    height: 15
+    boneType: 2
+    isRemoved: 0
+  - name: Pin Bone 2
+    x: 350
+    y: 180
+    width: 8
+    height: 15
+    boneType: 2
+    isRemoved: 0

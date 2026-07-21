@@ -1,0 +1,175 @@
+
+{
+  "npcDialogs": [
+    {
+      "npcName": "mr_clam",
+      "dialogs": [
+        {
+          "key": "first_meetingniggs",
+          "value": {
+            "speakerName": "Mr Clam",
+            "text": "Mornin'! Nice day for fishin', ain't it?\n\nHu hah!\n\nAhh, just look at the sky… water's glistening, birds are singin', and the fish are probably gossipin' about us already.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [
+              "RecordTalkedToNPC:mr_clam"
+            ],
+            "choices": [
+              {
+                "choiceText": "Haha, it really is a beautiful day.",
+                "resultDialogId": "beautiful_day",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "You seem really cheerful!",
+                "resultDialogId": "cheerful_response",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "beautiful_day",
+          "value": {
+            "speakerName": "Mr Clam",
+            "text": "Oh, absolutely!\n\nDays like this don't just *happen* — they're earned.\n\nClean water, happy fish, gentle winds… that's the sea sayin' \"thank you.\"",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "I never thought of it that way.",
+                "resultDialogId": "thoughtful_followup",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Guess I should fish responsibly then!",
+                "resultDialogId": "responsible_fishing",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "cheerful_response",
+          "value": {
+            "speakerName": "Mr Clam",
+            "text": "Heheh! Hard not to be!\n\nWhen the sun's out and the tide's just right, even a clam like me can't help but smile.\n\nBesides… fish can *sense* grumpy fishers. Totally scientific.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "I'll try to stay positive too.",
+                "resultDialogId": "positive_vibes",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "responsible_fishing",
+          "value": {
+            "speakerName": "Mr Clam",
+            "text": "That's the spirit!\n\nTake only what you need, let the little ones grow, and the sea will keep welcoming you back.\n\nFishin' ain't about takin' — it's about visitin'.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "Thanks, Mr Clam.",
+                "resultDialogId": "clam_end",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "positive_vibes",
+          "value": {
+            "speakerName": "Mr Clam",
+            "text": "That's all the sea ever asks!\n\nSmile, breathe, cast your line… and if you don't catch anything, well — you still caught a good day.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "I like that way of thinking.",
+                "resultDialogId": "clam_end",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "thoughtful_followup",
+          "value": {
+            "speakerName": "Mr Clam",
+            "text": "Most folks rush past days like this.\n\nBut if you slow down — even just a little — you'll notice the sea's always talkin' back.\n\nNot in words… more like vibes.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "I'll remember that.",
+                "resultDialogId": "clam_end",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "clam_end",
+          "value": {
+            "speakerName": "Mr Clam",
+            "text": "Alrighty then!\n\nGo enjoy the day, friend.\n\nAnd remember — nice day for fishin', ain't it? Hu hah!",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "default",
+          "value": {
+            "speakerName": "Mr Clam",
+            "text": "Ahh, there you are!\n\nBeautiful day's still holding strong.\n\nNice day for fishin', ain't it? Hu hah!",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 10,
+                "conditionKey": "mr_clam",
+                "conditionValue": "true"
+              }
+            ],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "Just enjoying the view.",
+                "resultDialogId": "clam_end",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        }
+      ]
+    }
+  ]
+}

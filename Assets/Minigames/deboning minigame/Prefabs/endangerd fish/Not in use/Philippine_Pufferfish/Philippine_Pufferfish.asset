@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94ffd712ae9ff5542987662196fc462b, type: 3}
+  m_Name: Philippine_Pufferfish
+  m_EditorClassIdentifier: Assembly-CSharp::EndangeredFishDefinition
+  fishName: Philippine Pufferfish
+  scientificName: Tetraodontidae family
+  description: Unique reef fish that can inflate when threatened. Multiple species
+    found in Philippines, some highly toxic.
+  status: 1
+  iucnStatus: Vulnerable
+  populationTrend: Stable to Decreasing
+  habitat: Coral reefs, seagrass beds, and sandy areas
+  distribution: Tropical and subtropical waters worldwide, abundant in Philippines
+  threats: Overfishing (some species for food), habitat destruction, coral reef degradation,
+    pollution
+  importance: Important reef species, maintains ecosystem balance, some species important
+    for local fisheries, indicator of reef health
+  conservationEfforts: Marine protected areas, fishing regulations, reef conservation,
+    sustainable fishing practices
+  fishImage: {fileID: -3568999148374115261, guid: 6c1bf6fcc648acc468d9ee46c3a14e53, type: 3}
+  fishIcon: {fileID: -3568999148374115261, guid: 6c1bf6fcc648acc468d9ee46c3a14e53, type: 3}
+  learnMoreHeadline: 
+  learnMoreCopy: 
+  learnMoreAction: 

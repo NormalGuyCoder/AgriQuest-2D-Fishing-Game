@@ -1,0 +1,43 @@
+Update 2021-03-23: if you go with option #1 ("terrain-map" below), check out Taffer's revised version here, which reshapes the texture atlas to 4096x4096 : https://opengameart.org/content/lpc-terrains-repacked 
+
+A big set of ground (terrain) tiles in LPC style. There are two ways to use this set: 
+
+With the 'terrain-map' tileset, you can seamlessly tile a bunch of different terrains (sand, dirt, rock, stone, grass, water, snow, ice, etc.) in a single layer; using the Tiled "Terrain" tool, it's very easy to paint terrains onto one another. (Recommended)
+With the 'terrain' tileset, you have to use multiple layers to overlay different terrains, but you can put any combination of these terrains or other terrains together. 
+This is part of my series of LPC-styled outdoor tiles. See the other entries for deciduous trees, conifers, plants and flowers, stuff for your jungle, junk for your beach, cliffs (soon), rocks (soon), etc.
+
+There are a number of similar submissions already, but I had a few specific goals when putting this together:
+
+1) Create a cohesive set of tiles spanning as many environments/biomes as possible, without having TOO big a set
+
+2) Include tiles which could be readily assembled with the Tiled terraingenerator tool into a single tileset which could be used to paint tiles on one layer
+
+3) Choose a sensible set of tiles which are allowed to overlap, rather than creating every combination of tiles (for instance, I don't need to have grass, lava, and snow all intersecting on the same tile; on the other hand, it makes sense to have sand, dirt, grass, and water all overlap so that's possible). 
+
+ 
+
+There were a few really nice textures which weren't included in some of the other submissions and that I wanted to incorporate: 
+
+- ZaPaper's frozen lake had really nice frozen water texture with two different borders to the existing snow; the images had a really high color count though, so I trimmed them down and edited them to fit better with the rest of the set. Same for ZaPaper's "Animated Water and Waterfalls," which I've adapted to use as a shallow water texture (either for sand or dirt) 
+
+- I fell in love with Jetrel/Zabin's cobblestone paths (originally here), as well as the root-y dirt texture. 
+
+- There's a lumpier, grassier cobblestone texture in Zabin's newer ZRPG tiles which I have stupidly called "Mudstone" because it looks kind of like cobblestone, but also kind of like mud... maybe Zabin or Jetrel can tell me what it should actually be called :p. There's also a nice gravel texture there. 
+
+ 
+
+Things I made the deliberate decision to omit:
+
+- Anything that would look good pasted over the top of existing tiles; in particular, I am planning a separate submission with just bricks, pavers, etc. Same with taller grass, crops, etc.
+
+- Weird alternative colors; I made the allowance of the green and purple water because I think it could be used for a swampy/boggy area or for the sewers of a steampunk setting I'm envisioning. But I decided not to include the pink sand from here (or Daneeklu's original yellow sand for that matter), nor the various cold/ice water textures that were just recolors of the original water texture, because I liked ZaPaper's better. 
+
+ 
+
+A few other random notes:
+
+- There's still some space in the 'terrain' tileset, so other stuff could be added, but I think there's value in keeping things simple. I envisioned if you wanted to really be minimalist, you could cut the entire set in half and not lose much. The 'terrain-map' tileset is getting pretty large, although it's still smaller than a full 4096x4096 texture, which should be readily handled by modern GPUs.
+
+- There's a script included ('terrain-v7.sh') which you can use to generate your own 'terrain-map' tileset with different combinations of textures, priorities, etc. if you don't like my choices. However, since the Tiled terraingenerator tool only copies on "middle" tile of a terrain, you may need to manually edit the 'terrain-map' file to include the variations. My script does this for my selection of terrains, but if you add or remove combinations, then tile indices won't line up right and you'll need to edit it. Let me know if you have questions.
+
+I want to particularly thank Zabin; his ZRPG submissions motivated me to finally put this together. I hope to use this submission to showcase some of the other stuff I'm working on

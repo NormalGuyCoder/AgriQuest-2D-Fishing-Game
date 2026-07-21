@@ -1,0 +1,526 @@
+{
+  "fish": [
+    {
+      "fishType": "Tilapia",
+      "displayName": "Tilapia",
+      "difficulty": 1,
+      "educationalInfo": "Tilapia is a popular freshwater fish. When deboning, start by making a careful cut along the spine with a knife, then use tweezers to remove the pin bones carefully. The pin bones along the sides must be removed for a clean fillet.",
+      "description": "A freshwater fish perfect for beginners. Has a simple bone structure with clearly visible ribs.",
+      "timeLimitSeconds": 90,
+      "spineBoneCount": 1,
+      "ribBoneCount": 3,
+      "pinBoneCount": 2,
+      "habitat": "Freshwater lakes and rivers",
+      "cookingTips": "Tilapia is versatile and can be grilled, fried, or baked. Make sure all bones are removed for safe eating.",
+      "bones": [
+        {
+          "name": "Main Spine",
+          "x": 300,
+          "y": 200,
+          "width": 20,
+          "height": 300,
+          "boneType": "Spine"
+        },
+        {
+          "name": "Rib 1",
+          "x": 280,
+          "y": 150,
+          "width": 15,
+          "height": 80,
+          "boneType": "Rib"
+        },
+        {
+          "name": "Rib 2",
+          "x": 320,
+          "y": 150,
+          "width": 15,
+          "height": 80,
+          "boneType": "Rib"
+        },
+        {
+          "name": "Rib 3",
+          "x": 270,
+          "y": 120,
+          "width": 15,
+          "height": 60,
+          "boneType": "Rib"
+        },
+        {
+          "name": "Pin Bone 1",
+          "x": 250,
+          "y": 180,
+          "width": 8,
+          "height": 15,
+          "boneType": "Pin"
+        },
+        {
+          "name": "Pin Bone 2",
+          "x": 350,
+          "y": 180,
+          "width": 8,
+          "height": 15,
+          "boneType": "Pin"
+        }
+      ]
+    },
+    {
+      "fishType": "Salmon",
+      "displayName": "Salmon",
+      "difficulty": 2,
+      "educationalInfo": "Salmon has a distinctive spine and numerous pin bones that need careful removal. The pin bones run along the lateral line and must be pulled out gently with tweezers to avoid breaking them.",
+      "description": "Popular fish known for its rich flavor and omega-3 content. Moderate bone complexity.",
+      "timeLimitSeconds": 110,
+      "spineBoneCount": 1,
+      "ribBoneCount": 4,
+      "pinBoneCount": 3,
+      "habitat": "Both freshwater and saltwater environments",
+      "cookingTips": "Salmon is best grilled or baked. Remove all pin bones before cooking for the best experience. The rich oil content makes it very flavorful.",
+      "bones": [
+        {
+          "name": "Main Spine",
+          "x": 300,
+          "y": 200,
+          "width": 25,
+          "height": 320,
+          "boneType": "Spine"
+        },
+        {
+          "name": "Rib 1",
+          "x": 275,
+          "y": 140,
+          "width": 18,
+          "height": 90,
+          "boneType": "Rib"
+        },
+        {
+          "name": "Rib 2",
+          "x": 325,
+          "y": 140,
+          "width": 18,
+          "height": 90,
+          "boneType": "Rib"
+        },
+        {
+          "name": "Rib 3",
+          "x": 265,
+          "y": 110,
+          "width": 18,
+          "height": 70,
+          "boneType": "Rib"
+        },
+        {
+          "name": "Rib 4",
+          "x": 335,
+          "y": 110,
+          "width": 18,
+          "height": 70,
+          "boneType": "Rib"
+        },
+        {
+          "name": "Pin Bone 1",
+          "x": 245,
+          "y": 170,
+          "width": 10,
+          "height": 18,
+          "boneType": "Pin"
+        },
+        {
+          "name": "Pin Bone 2",
+          "x": 355,
+          "y": 170,
+          "width": 10,
+          "height": 18,
+          "boneType": "Pin"
+        },
+        {
+          "name": "Pin Bone 3",
+          "x": 235,
+          "y": 150,
+          "width": 10,
+          "height": 18,
+          "boneType": "Pin"
+        }
+      ]
+    },
+    {
+      "fishType": "Bangus",
+      "displayName": "Bangus (Milkfish)",
+      "difficulty": 2,
+      "educationalInfo": "National fish of the Philippines. Known for its many small bones that require careful attention. Deboning bangus is a skill that requires patience and precision.",
+      "description": "National fish of the Philippines. Known for its many small bones that require careful attention.",
+      "timeLimitSeconds": 120,
+      "spineBoneCount": 1,
+      "ribBoneCount": 4,
+      "pinBoneCount": 4,
+      "habitat": "Coastal waters and brackish lagoons",
+      "cookingTips": "Traditional Filipino preparation includes stuffing and grilling. Deboning is essential for enjoyable eating. Often served with vinegar dipping sauce.",
+      "bones": [
+        {
+          "name": "Main Spine",
+          "x": 300,
+          "y": 200,
+          "width": 22,
+          "height": 310,
+          "boneType": "Spine"
+        },
+        {
+          "name": "Rib 1",
+          "x": 278,
+          "y": 145,
+          "width": 17,
+          "height": 85,
+          "boneType": "Rib"
+        },
+        {
+          "name": "Rib 2",
+          "x": 322,
+          "y": 145,
+          "width": 17,
+          "height": 85,
+          "boneType": "Rib"
+        },
+        {
+          "name": "Rib 3",
+          "x": 268,
+          "y": 115,
+          "width": 17,
+          "height": 65,
+          "boneType": "Rib"
+        },
+        {
+          "name": "Rib 4",
+          "x": 332,
+          "y": 115,
+          "width": 17,
+          "height": 65,
+          "boneType": "Rib"
+        },
+        {
+          "name": "Pin Bone 1",
+          "x": 248,
+          "y": 175,
+          "width": 9,
+          "height": 16,
+          "boneType": "Pin"
+        },
+        {
+          "name": "Pin Bone 2",
+          "x": 352,
+          "y": 175,
+          "width": 9,
+          "height": 16,
+          "boneType": "Pin"
+        },
+        {
+          "name": "Pin Bone 3",
+          "x": 238,
+          "y": 155,
+          "width": 9,
+          "height": 16,
+          "boneType": "Pin"
+        },
+        {
+          "name": "Pin Bone 4",
+          "x": 362,
+          "y": 155,
+          "width": 9,
+          "height": 16,
+          "boneType": "Pin"
+        }
+      ]
+    },
+    {
+      "fishType": "Tuna",
+      "displayName": "Tuna",
+      "difficulty": 3,
+      "educationalInfo": "Large ocean fish with complex bone structure. Advanced deboning skills required. Tuna has a strong central spine and many rib bones.",
+      "description": "Large ocean fish with complex bone structure. Advanced deboning skills required.",
+      "timeLimitSeconds": 150,
+      "spineBoneCount": 1,
+      "ribBoneCount": 5,
+      "pinBoneCount": 6,
+      "habitat": "Open ocean waters worldwide",
+      "cookingTips": "Tuna is excellent for grilling and searing. Remove all bones carefully as they are larger and more prominent. Best served medium-rare.",
+      "bones": [
+        {
+          "name": "Main Spine",
+          "x": 300,
+          "y": 200,
+          "width": 28,
+          "height": 340,
+          "boneType": "Spine"
+        },
+        {
+          "name": "Rib 1",
+          "x": 270,
+          "y": 135,
+          "width": 20,
+          "height": 95,
+          "boneType": "Rib"
+        },
+        {
+          "name": "Rib 2",
+          "x": 330,
+          "y": 135,
+          "width": 20,
+          "height": 95,
+          "boneType": "Rib"
+        },
+        {
+          "name": "Rib 3",
+          "x": 260,
+          "y": 105,
+          "width": 20,
+          "height": 75,
+          "boneType": "Rib"
+        },
+        {
+          "name": "Rib 4",
+          "x": 340,
+          "y": 105,
+          "width": 20,
+          "height": 75,
+          "boneType": "Rib"
+        },
+        {
+          "name": "Rib 5",
+          "x": 250,
+          "y": 80,
+          "width": 20,
+          "height": 60,
+          "boneType": "Rib"
+        },
+        {
+          "name": "Pin Bone 1",
+          "x": 242,
+          "y": 165,
+          "width": 12,
+          "height": 20,
+          "boneType": "Pin"
+        },
+        {
+          "name": "Pin Bone 2",
+          "x": 358,
+          "y": 165,
+          "width": 12,
+          "height": 20,
+          "boneType": "Pin"
+        },
+        {
+          "name": "Pin Bone 3",
+          "x": 232,
+          "y": 145,
+          "width": 12,
+          "height": 20,
+          "boneType": "Pin"
+        },
+        {
+          "name": "Pin Bone 4",
+          "x": 368,
+          "y": 145,
+          "width": 12,
+          "height": 20,
+          "boneType": "Pin"
+        },
+        {
+          "name": "Pin Bone 5",
+          "x": 227,
+          "y": 125,
+          "width": 12,
+          "height": 20,
+          "boneType": "Pin"
+        },
+        {
+          "name": "Pin Bone 6",
+          "x": 373,
+          "y": 125,
+          "width": 12,
+          "height": 20,
+          "boneType": "Pin"
+        }
+      ]
+    },
+    {
+      "fishType": "Mackerel",
+      "displayName": "Mackerel",
+      "difficulty": 3,
+      "educationalInfo": "Oily fish with many small bones. Requires expert-level deboning skills. The pin bones are numerous and must be removed carefully.",
+      "description": "Oily fish with many small bones. Requires expert-level deboning skills.",
+      "timeLimitSeconds": 140,
+      "spineBoneCount": 1,
+      "ribBoneCount": 5,
+      "pinBoneCount": 5,
+      "habitat": "Temperate and tropical seas",
+      "cookingTips": "Mackerel is best grilled or smoked. The oily flesh is rich in flavor. Remove all small pin bones before cooking.",
+      "bones": [
+        {
+          "name": "Main Spine",
+          "x": 300,
+          "y": 200,
+          "width": 24,
+          "height": 315,
+          "boneType": "Spine"
+        },
+        {
+          "name": "Rib 1",
+          "x": 276,
+          "y": 138,
+          "width": 19,
+          "height": 88,
+          "boneType": "Rib"
+        },
+        {
+          "name": "Rib 2",
+          "x": 324,
+          "y": 138,
+          "width": 19,
+          "height": 88,
+          "boneType": "Rib"
+        },
+        {
+          "name": "Rib 3",
+          "x": 266,
+          "y": 108,
+          "width": 19,
+          "height": 68,
+          "boneType": "Rib"
+        },
+        {
+          "name": "Rib 4",
+          "x": 334,
+          "y": 108,
+          "width": 19,
+          "height": 68,
+          "boneType": "Rib"
+        },
+        {
+          "name": "Rib 5",
+          "x": 256,
+          "y": 83,
+          "width": 19,
+          "height": 58,
+          "boneType": "Rib"
+        },
+        {
+          "name": "Pin Bone 1",
+          "x": 246,
+          "y": 168,
+          "width": 11,
+          "height": 19,
+          "boneType": "Pin"
+        },
+        {
+          "name": "Pin Bone 2",
+          "x": 354,
+          "y": 168,
+          "width": 11,
+          "height": 19,
+          "boneType": "Pin"
+        },
+        {
+          "name": "Pin Bone 3",
+          "x": 236,
+          "y": 148,
+          "width": 11,
+          "height": 19,
+          "boneType": "Pin"
+        },
+        {
+          "name": "Pin Bone 4",
+          "x": 364,
+          "y": 148,
+          "width": 11,
+          "height": 19,
+          "boneType": "Pin"
+        },
+        {
+          "name": "Pin Bone 5",
+          "x": 231,
+          "y": 128,
+          "width": 11,
+          "height": 19,
+          "boneType": "Pin"
+        }
+      ]
+    },
+    {
+      "fishType": "RedSnapper",
+      "displayName": "Red Snapper",
+      "difficulty": 2,
+      "educationalInfo": "Prized reef fish with firm, white meat. Moderate bone structure with distinctive ribs. Popular in many cuisines.",
+      "description": "Prized reef fish with firm, white meat. Moderate bone structure with distinctive ribs.",
+      "timeLimitSeconds": 105,
+      "spineBoneCount": 1,
+      "ribBoneCount": 4,
+      "pinBoneCount": 3,
+      "habitat": "Tropical and subtropical reefs",
+      "cookingTips": "Red snapper is excellent for whole fish preparation or fillets. The firm texture holds up well to grilling and steaming.",
+      "bones": [
+        {
+          "name": "Main Spine",
+          "x": 300,
+          "y": 200,
+          "width": 23,
+          "height": 305,
+          "boneType": "Spine"
+        },
+        {
+          "name": "Rib 1",
+          "x": 277,
+          "y": 142,
+          "width": 18,
+          "height": 82,
+          "boneType": "Rib"
+        },
+        {
+          "name": "Rib 2",
+          "x": 323,
+          "y": 142,
+          "width": 18,
+          "height": 82,
+          "boneType": "Rib"
+        },
+        {
+          "name": "Rib 3",
+          "x": 267,
+          "y": 112,
+          "width": 18,
+          "height": 62,
+          "boneType": "Rib"
+        },
+        {
+          "name": "Rib 4",
+          "x": 333,
+          "y": 112,
+          "width": 18,
+          "height": 62,
+          "boneType": "Rib"
+        },
+        {
+          "name": "Pin Bone 1",
+          "x": 247,
+          "y": 172,
+          "width": 10,
+          "height": 17,
+          "boneType": "Pin"
+        },
+        {
+          "name": "Pin Bone 2",
+          "x": 353,
+          "y": 172,
+          "width": 10,
+          "height": 17,
+          "boneType": "Pin"
+        },
+        {
+          "name": "Pin Bone 3",
+          "x": 237,
+          "y": 152,
+          "width": 10,
+          "height": 17,
+          "boneType": "Pin"
+        }
+      ]
+    }
+  ]
+}

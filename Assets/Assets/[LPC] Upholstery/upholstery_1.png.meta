@@ -1,0 +1,1703 @@
+fileFormatVersion: 2
+guid: 52b7f8f096958c9408154b7a69757d4d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5487133566479191049
+    second: upholstery_1_0
+  - first:
+      213: 6677362260441508936
+    second: upholstery_1_1
+  - first:
+      213: -3564899246998102391
+    second: upholstery_1_2
+  - first:
+      213: -7577331176812890962
+    second: upholstery_1_3
+  - first:
+      213: 3222013904348612016
+    second: upholstery_1_4
+  - first:
+      213: -7149090178347610501
+    second: upholstery_1_5
+  - first:
+      213: 5970121863568425484
+    second: upholstery_1_6
+  - first:
+      213: 7823925731838811446
+    second: upholstery_1_7
+  - first:
+      213: -6605666885142300077
+    second: upholstery_1_8
+  - first:
+      213: 1785270824881339608
+    second: upholstery_1_9
+  - first:
+      213: -4290887235898032185
+    second: upholstery_1_10
+  - first:
+      213: 55045442272861008
+    second: upholstery_1_11
+  - first:
+      213: -3608038650304065378
+    second: upholstery_1_12
+  - first:
+      213: 3551622787649082592
+    second: upholstery_1_13
+  - first:
+      213: 6551396168557709882
+    second: upholstery_1_14
+  - first:
+      213: -5434617235482901012
+    second: upholstery_1_15
+  - first:
+      213: -726032344375509035
+    second: upholstery_1_16
+  - first:
+      213: -5443622550019534286
+    second: upholstery_1_17
+  - first:
+      213: 4773364402457580691
+    second: upholstery_1_18
+  - first:
+      213: 1221835638379814383
+    second: upholstery_1_19
+  - first:
+      213: 4504563327332332145
+    second: upholstery_1_20
+  - first:
+      213: -339149584150091034
+    second: upholstery_1_21
+  - first:
+      213: 1686698599533052108
+    second: upholstery_1_22
+  - first:
+      213: -4518846972800346864
+    second: upholstery_1_23
+  - first:
+      213: -7883386042118791898
+    second: upholstery_1_24
+  - first:
+      213: -3431593816372789186
+    second: upholstery_1_25
+  - first:
+      213: 6070961114867724908
+    second: upholstery_1_26
+  - first:
+      213: 1843530677643202476
+    second: upholstery_1_27
+  - first:
+      213: 4889341911923322570
+    second: upholstery_1_28
+  - first:
+      213: -2378124904644479804
+    second: upholstery_1_29
+  - first:
+      213: 789621080525040873
+    second: upholstery_1_30
+  - first:
+      213: -6733206971396550264
+    second: upholstery_1_31
+  - first:
+      213: 5040438311406472611
+    second: upholstery_1_32
+  - first:
+      213: 3820898724867567611
+    second: upholstery_1_33
+  - first:
+      213: 4098395579025844944
+    second: upholstery_1_34
+  - first:
+      213: -7863418788917118634
+    second: upholstery_1_35
+  - first:
+      213: 8983559328972068499
+    second: upholstery_1_36
+  - first:
+      213: -1744586799959470168
+    second: upholstery_1_37
+  - first:
+      213: 3321048315650321417
+    second: upholstery_1_38
+  - first:
+      213: 5041103771369703738
+    second: upholstery_1_39
+  - first:
+      213: -8327806617874323737
+    second: upholstery_1_40
+  - first:
+      213: -8594091418291315353
+    second: upholstery_1_41
+  - first:
+      213: -6920959201923511366
+    second: upholstery_1_42
+  - first:
+      213: 3960575728450702257
+    second: upholstery_1_43
+  - first:
+      213: 6095190068040293003
+    second: upholstery_1_44
+  - first:
+      213: 4371716337509644037
+    second: upholstery_1_45
+  - first:
+      213: 5018846279321114594
+    second: upholstery_1_46
+  - first:
+      213: 2438381039144192079
+    second: upholstery_1_47
+  - first:
+      213: 5636292731558871727
+    second: upholstery_1_48
+  - first:
+      213: 4401792666403110284
+    second: upholstery_1_49
+  - first:
+      213: 3654323967487132126
+    second: upholstery_1_50
+  - first:
+      213: 5273334375352228945
+    second: upholstery_1_51
+  - first:
+      213: 3348920967940804806
+    second: upholstery_1_52
+  - first:
+      213: -7954556636936297228
+    second: upholstery_1_53
+  - first:
+      213: 6773767869554456853
+    second: upholstery_1_54
+  - first:
+      213: 7831741588400017426
+    second: upholstery_1_55
+  - first:
+      213: 3998395276817908237
+    second: upholstery_1_56
+  - first:
+      213: 471288030344380428
+    second: upholstery_1_57
+  - first:
+      213: 332913302908592960
+    second: upholstery_1_58
+  - first:
+      213: 6383790766962946742
+    second: upholstery_1_59
+  - first:
+      213: 2996562278504899233
+    second: upholstery_1_60
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: upholstery_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 959
+        width: 97
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c4d1918e6362c40800000000000000
+      internalID: 5487133566479191049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 928
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c27320991caac50800000000000000
+      internalID: 6677362260441508936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 927
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ede92c50fe68ec0800000000000000
+      internalID: -3564899246998102391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 960
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4339ce079e7d690800000000000000
+      internalID: -7577331176812890962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_4
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 895
+        width: 66
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b581163394e6bc20800000000000000
+      internalID: 3222013904348612016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_5
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 927
+        width: 56
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7e4b5c3c5459cc90800000000000000
+      internalID: -7149090178347610501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 928
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c020acf24322ad250800000000000000
+      internalID: 5970121863568425484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_7
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 928
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d5a4b000b249c60800000000000000
+      internalID: 7823925731838811446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_8
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 895
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a388e57f4f354a0800000000000000
+      internalID: -6605666885142300077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_9
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 831
+        width: 28
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dcbbe04b5e86c810800000000000000
+      internalID: 1785270824881339608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_10
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 831
+        width: 55
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cf3a050bc4b374c0800000000000000
+      internalID: -4290887235898032185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_11
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 903
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b9d21c98f83c000800000000000000
+      internalID: 55045442272861008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 863
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e901fb8b6fbadedc0800000000000000
+      internalID: -3608038650304065378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_13
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 703
+        width: 27
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4910aab16e94130800000000000000
+      internalID: 3551622787649082592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_14
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 703
+        width: 29
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3accb1ca1c3bea50800000000000000
+      internalID: 6551396168557709882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_15
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 872
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce583dc0b6c5494b0800000000000000
+      internalID: -5434617235482901012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_16
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 872
+        width: 19
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfbd02fd6d9ce5f0800000000000000
+      internalID: -726032344375509035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_17
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 703
+        width: 28
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23297ced12e5474b0800000000000000
+      internalID: -5443622550019534286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_18
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 831
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3949af732a56e3240800000000000000
+      internalID: 4773364402457580691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_19
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 800
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fed9a8f1a05d4f010800000000000000
+      internalID: 1221835638379814383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_20
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 831
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17235e1ea7c638e30800000000000000
+      internalID: 4504563327332332145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_21
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 800
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea230700491b4bf0800000000000000
+      internalID: -339149584150091034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_22
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 799
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc00154907b586710800000000000000
+      internalID: 1686698599533052108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_23
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 804
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 015d2efbe94d941c0800000000000000
+      internalID: -4518846972800346864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_24
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 767
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d9c34a926989290800000000000000
+      internalID: -7883386042118791898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_25
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 767
+        width: 66
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e304ca9fa978060d0800000000000000
+      internalID: -3431593816372789186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_26
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 735
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6276e8f7f2604450800000000000000
+      internalID: 6070961114867724908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_27
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 671
+        width: 34
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf45754269859910800000000000000
+      internalID: 1843530677643202476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_28
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 735
+        width: 29
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace6e95609e6ad340800000000000000
+      internalID: 4889341911923322570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_29
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 735
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c4f723cff33ffed0800000000000000
+      internalID: -2378124904644479804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_30
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 703
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eceadb603c45fa00800000000000000
+      internalID: 789621080525040873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_31
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 709
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88199befee7de82a0800000000000000
+      internalID: -6733206971396550264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_32
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 710
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad07a750fb33f540800000000000000
+      internalID: 5040438311406472611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_33
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 706
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff6972752f860530800000000000000
+      internalID: 3820898724867567611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 655
+        width: 64
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0daeddc901d60e830800000000000000
+      internalID: 4098395579025844944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_35
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 575
+        width: 64
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659767e06468fd290800000000000000
+      internalID: -7863418788917118634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_36
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 654
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396d60edc930cac70800000000000000
+      internalID: 8983559328972068499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_37
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 677
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af84947c8bf9c7e0800000000000000
+      internalID: -1744586799959470168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 607
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90c2f30f8dbb61e20800000000000000
+      internalID: 3321048315650321417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_39
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 608
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a398f50db2995f540800000000000000
+      internalID: 5041103771369703738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_40
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 575
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6247fe000bd6c80800000000000000
+      internalID: -8327806617874323737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_41
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 575
+        width: 60
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d53857367abb880800000000000000
+      internalID: -8594091418291315353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_42
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 640
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abbc0605640d3ff90800000000000000
+      internalID: -6920959201923511366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_43
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 490
+        width: 64
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb865814aac6f630800000000000000
+      internalID: 3960575728450702257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_44
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 576
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ad70cb217769450800000000000000
+      internalID: 6095190068040293003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_45
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 544
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507b80cb8d47bac30800000000000000
+      internalID: 4371716337509644037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_46
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 544
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7d93d991686a540800000000000000
+      internalID: 5018846279321114594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_47
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 544
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48cc31d2aed6d120800000000000000
+      internalID: 2438381039144192079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_48
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 544
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2cea28062283e40800000000000000
+      internalID: 5636292731558871727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_49
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 490
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d70efbb1f461d30800000000000000
+      internalID: 4401792666403110284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_50
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 544
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed144487944c6b230800000000000000
+      internalID: 3654323967487132126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_51
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 544
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15cd9b0dca5ae2940800000000000000
+      internalID: 5273334375352228945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_52
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 458
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c018f280e1c97e20800000000000000
+      internalID: 3348920967940804806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_53
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 481
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f4afad32ecbb9190800000000000000
+      internalID: -7954556636936297228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_54
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 447
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5197fb70df1410e50800000000000000
+      internalID: 6773767869554456853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_55
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 319
+        width: 82
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2109c35fa7fefac60800000000000000
+      internalID: 7831741588400017426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_56
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 385
+        width: 77
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d02c452e1572d7730800000000000000
+      internalID: 3998395276817908237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_57
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 383
+        width: 75
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c00029377f95a8600800000000000000
+      internalID: 471288030344380428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_58
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 321
+        width: 77
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0436ed892eebe9400800000000000000
+      internalID: 332913302908592960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_59
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 319
+        width: 75
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b2be3931e7c79850800000000000000
+      internalID: 6383790766962946742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery_1_60
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 255
+        width: 75
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2ae9d048de59920800000000000000
+      internalID: 2996562278504899233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      upholstery_1_0: 5487133566479191049
+      upholstery_1_1: 6677362260441508936
+      upholstery_1_10: -4290887235898032185
+      upholstery_1_11: 55045442272861008
+      upholstery_1_12: -3608038650304065378
+      upholstery_1_13: 3551622787649082592
+      upholstery_1_14: 6551396168557709882
+      upholstery_1_15: -5434617235482901012
+      upholstery_1_16: -726032344375509035
+      upholstery_1_17: -5443622550019534286
+      upholstery_1_18: 4773364402457580691
+      upholstery_1_19: 1221835638379814383
+      upholstery_1_2: -3564899246998102391
+      upholstery_1_20: 4504563327332332145
+      upholstery_1_21: -339149584150091034
+      upholstery_1_22: 1686698599533052108
+      upholstery_1_23: -4518846972800346864
+      upholstery_1_24: -7883386042118791898
+      upholstery_1_25: -3431593816372789186
+      upholstery_1_26: 6070961114867724908
+      upholstery_1_27: 1843530677643202476
+      upholstery_1_28: 4889341911923322570
+      upholstery_1_29: -2378124904644479804
+      upholstery_1_3: -7577331176812890962
+      upholstery_1_30: 789621080525040873
+      upholstery_1_31: -6733206971396550264
+      upholstery_1_32: 5040438311406472611
+      upholstery_1_33: 3820898724867567611
+      upholstery_1_34: 4098395579025844944
+      upholstery_1_35: -7863418788917118634
+      upholstery_1_36: 8983559328972068499
+      upholstery_1_37: -1744586799959470168
+      upholstery_1_38: 3321048315650321417
+      upholstery_1_39: 5041103771369703738
+      upholstery_1_4: 3222013904348612016
+      upholstery_1_40: -8327806617874323737
+      upholstery_1_41: -8594091418291315353
+      upholstery_1_42: -6920959201923511366
+      upholstery_1_43: 3960575728450702257
+      upholstery_1_44: 6095190068040293003
+      upholstery_1_45: 4371716337509644037
+      upholstery_1_46: 5018846279321114594
+      upholstery_1_47: 2438381039144192079
+      upholstery_1_48: 5636292731558871727
+      upholstery_1_49: 4401792666403110284
+      upholstery_1_5: -7149090178347610501
+      upholstery_1_50: 3654323967487132126
+      upholstery_1_51: 5273334375352228945
+      upholstery_1_52: 3348920967940804806
+      upholstery_1_53: -7954556636936297228
+      upholstery_1_54: 6773767869554456853
+      upholstery_1_55: 7831741588400017426
+      upholstery_1_56: 3998395276817908237
+      upholstery_1_57: 471288030344380428
+      upholstery_1_58: 332913302908592960
+      upholstery_1_59: 6383790766962946742
+      upholstery_1_6: 5970121863568425484
+      upholstery_1_60: 2996562278504899233
+      upholstery_1_7: 7823925731838811446
+      upholstery_1_8: -6605666885142300077
+      upholstery_1_9: 1785270824881339608
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,318 @@
+{
+  "npcDialogs": [
+    {
+      "npcName": "Nash",
+      "dialogs": [
+        {
+          "key": "first_meeting",
+          "value": {
+            "speakerName": "Nash",
+            "text": "I'm Nash—warden and gear seller. I watch these waters closely.\n\nFish responsibly, or you'll answer to me.\n\nSo, which one do you need today: warden advice or fishing tips?",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 10,
+                "conditionKey": "Nash",
+                "conditionValue": "false",
+                "expectedBool": true
+              }
+            ],
+            "triggersOnShow": [
+              "RecordTalkedToNPC:Nash"
+            ],
+            "choices": [
+              {
+                "choiceText": "Vincent sent me. I want to learn about responsible fishing.",
+                "resultDialogId": "health_check",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "I heard you're the warden. What should I know?",
+                "resultDialogId": "health_check",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "health_check",
+          "value": {
+            "speakerName": "Nash",
+            "text": "Let me check the ledgers...",
+            "showAsAction": false,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "[Wait for Nash to check the population health]",
+                "resultDialogId": "",
+                "triggersOnChoose": ["CheckPopulationHealth"],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "health_high",
+          "value": {
+            "speakerName": "Nash",
+            "text": "Well, I'll be. The charts don't lie.\n\nYou've been treating Safeport like a garden, not a quarry. Vincent taught you well.\n\n(Achievement Unlocked: Warden's Trust)",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 7,
+                "conditionKey": "SafeportHealth",
+                "conditionValue": "70",
+                "comparison": "GREATER_THAN"
+              }
+            ],
+            "triggersOnShow": [
+              "UnlockAchievement:Warden's Trust"
+            ],
+            "choices": [
+              {
+                "choiceText": "What's your best advice?",
+                "resultDialogId": "qa_advice",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Thanks, I'll keep it up.",
+                "resultDialogId": "qa_end",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "health_medium",
+          "value": {
+            "speakerName": "Nash",
+            "text": "Hmm. The numbers are... acceptable. Stable.\n\nYou're taking your share, but the sea's still breathing.\n\nDon't get complacent. The meter is a lagging indicator.",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 7,
+                "conditionKey": "SafeportHealth",
+                "conditionValue": "40",
+                "comparison": "GREATER_OR_EQUAL"
+              },
+              {
+                "conditionType": 7,
+                "conditionKey": "SafeportHealth",
+                "conditionValue": "70",
+                "comparison": "LESS_OR_EQUAL"
+              }
+            ],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "What's your best advice?",
+                "resultDialogId": "qa_advice",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "I'll be careful.",
+                "resultDialogId": "qa_end",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "health_low",
+          "value": {
+            "speakerName": "Nash",
+            "text": "We need to talk. Now.\n\nYour catch logs tell a short, greedy story. You're overfishing.\n\nThat's a 500-gold fine. And you're on catch limits until Safeport recovers.",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 7,
+                "conditionKey": "SafeportHealth",
+                "conditionValue": "40",
+                "comparison": "LESS_THAN"
+              }
+            ],
+            "triggersOnShow": [
+              "DeductGold:500",
+              "ApplyDebuff:CatchLimit"
+            ],
+            "choices": [
+              {
+                "choiceText": "What should I do?",
+                "resultDialogId": "qa_recovery",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "qa_recovery",
+          "value": {
+            "speakerName": "Nash",
+            "text": "Fish smarter, not harder. Let the population recover.\n\nPractice catch-and-release, or focus on freshwater for a while.\n\nProve to me—and to the water—that you understand 'enough'.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "I'll do better.",
+                "resultDialogId": "qa_end",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "qa_advice",
+          "value": {
+            "speakerName": "Nash",
+            "text": "The fish you release today is the fish you'll catch tomorrow.\n\nIt's not a slogan. It's arithmetic. Ignore it, and you're mining a finite resource.\n\nFollow it, and you're tending a renewable one.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "How do you watch the waters so closely?",
+                "resultDialogId": "qa_watching",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Thanks for the advice.",
+                "resultDialogId": "qa_end",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "qa_watching",
+          "value": {
+            "speakerName": "Nash",
+            "text": "A little bird told me. Actually, a lot of birds, tides, water clarity reports...\n\nAnd these eyes. I don't just see a boat; I see its wake.\n\nI'm always watching. But if you're doing it right, you'll never even see me.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "Thanks for the advice.",
+                "resultDialogId": "qa_end",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "qa_end",
+          "value": {
+            "speakerName": "Nash",
+            "text": "Alright, enough jawing. You've got my scrutiny.\n\nGo use it wisely. And remember...\n\nI'm watching. But if you're doing it right, you'll never even see me.",
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "post_fine_recovery",
+          "value": {
+            "speakerName": "Nash",
+            "text": "I see you've been fishing smarter. The waters are recovering.\n\nKeep it up, and maybe you'll earn back my trust.\n\nRemember: sustainable fishing is the only fishing that lasts.",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 1,
+                "conditionKey": "RecentlyFined",
+                "conditionValue": "true"
+              },
+              {
+                "conditionType": 7,
+                "conditionKey": "SafeportHealth",
+                "conditionValue": "50",
+                "comparison": "GREATER_THAN"
+              }
+            ],
+            "triggersOnShow": [
+              "RemoveDebuff:CatchLimit"
+            ],
+            "choices": [
+              {
+                "choiceText": "I will. Thank you.",
+                "resultDialogId": "qa_end",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "default",
+          "value": {
+            "speakerName": "Nash",
+            "text": "Back for more wisdom, or just checking if I'm watching?\n\nWhat do you need today?",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 10,
+                "conditionKey": "Nash",
+                "conditionValue": "true"
+              }
+            ],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "Check the population health.",
+                "resultDialogId": "health_check",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "What's your best advice?",
+                "resultDialogId": "qa_advice",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Just wanted to say hello.",
+                "resultDialogId": "hello_response",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "hello_response",
+          "value": {
+            "speakerName": "Nash",
+            "text": "Hello. Now go catch something worth catching responsibly.\n\nAnd remember: I'm always watching.",
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [],
+            "nextDialogId": ""
+          }
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f3ad6191c4bd9b459be18ca60df94de, type: 3}
+  m_Name: Tulingan
+  m_EditorClassIdentifier: Assembly-CSharp::FishDefinition
+  fishType: Tulingan
+  displayName: Mackarel
+  difficulty: 2
+  educationalInfo: Firm fish with a clear spine and ribs; teaches clean knife work
+    before pin bone removal.
+  description: Used for sinaing na tulingan; moderate bone complexity.
+  timeLimitSeconds: 110
+  spineBoneCount: 4
+  ribBoneCount: 14
+  pinBoneCount: 0
+  habitat: Open waters; coastal pelagic
+  cookingTips: Score along ribs with a knife first, then pull pins with tweezers.
+  fishSprite: {fileID: 87014562, guid: 191614ac33a50094b845e6c747df25ed, type: 3}
+  fishIcon: {fileID: 87014562, guid: 191614ac33a50094b845e6c747df25ed, type: 3}
+  fishPrefab: {fileID: 7434062677667821415, guid: ebfcd0a2c7f5ad24aafa99ed1d0e58a9, type: 3}
+  sharedCatalogEntry: {fileID: 0}
+  sharedFishId: tulingan
+  bones:
+  - name: spine
+    x: 8470
+    y: -4549
+    width: 620.3
+    height: 239.9
+    boneType: 0
+    isRemoved: 1
+  - name: Bone Upper
+    x: -14700
+    y: -10300
+    width: 54.5281
+    height: 120.1
+    boneType: 1
+    isRemoved: 0
+  - name: Bone 2 (2)
+    x: -9700
+    y: -11840
+    width: 49.2967
+    height: 89.6
+    boneType: 1
+    isRemoved: 0
+  - name: Bone 2 (4)
+    x: -4700
+    y: -10820
+    width: 50.8819
+    height: 97.6
+    boneType: 1
+    isRemoved: 0
+  - name: Bone 2 (6)
+    x: 300
+    y: -10210
+    width: 47.9209
+    height: 82.7
+    boneType: 1
+    isRemoved: 0
+  - name: Bone 2 (8)
+    x: 10300
+    y: -8670
+    width: 49.506
+    height: 91.1
+    boneType: 1
+    isRemoved: 1
+  - name: Bone 2 (10)
+    x: 5300
+    y: -9940
+    width: 47.4498
+    height: 89.4
+    boneType: 1
+    isRemoved: 1
+  - name: Bone 2 (12)
+    x: 15300
+    y: -7057.93
+    width: 36.4448
+    height: 75.3546
+    boneType: 1
+    isRemoved: 1
+  - name: Bone lower
+    x: -14700
+    y: 2050
+    width: 66.8572
+    height: 150.3
+    boneType: 1
+    isRemoved: 1
+  - name: Bone 2 (2)
+    x: -9700
+    y: 1286.5417
+    width: 61.8186
+    height: 143.4
+    boneType: 1
+    isRemoved: 1
+  - name: Bone 2 (4)
+    x: -4700
+    y: 1486.5417
+    width: 64.3598
+    height: 140.1
+    boneType: 1
+    isRemoved: 1
+  - name: Bone 2 (6)
+    x: 300
+    y: 1700
+    width: 61.1991
+    height: 127.9
+    boneType: 1
+    isRemoved: 1
+  - name: Bone 2 (8)
+    x: 5300
+    y: 639.5355
+    width: 58.5994
+    height: 119.1004
+    boneType: 1
+    isRemoved: 1
+  - name: Bone 2 (10)
+    x: 10300
+    y: -215.57884
+    width: 37.1008
+    height: 76.2738
+    boneType: 1
+    isRemoved: 1
+  - name: Bone 2 (12)
+    x: 15300
+    y: 62.960434
+    width: 30.2312
+    height: 60.2345
+    boneType: 1
+    isRemoved: 1
+  - name: Anal Fin
+    x: -19330.084
+    y: 4310
+    width: 101.9
+    height: 70.6
+    boneType: 0
+    isRemoved: 0
+  - name: Caudal Fin
+    x: 42720
+    y: -2720
+    width: 274.9
+    height: 82.3
+    boneType: 0
+    isRemoved: 1
+  - name: Pectoral fin
+    x: -17437.81
+    y: -4550
+    width: 479.1181
+    height: 203.9242
+    boneType: 0
+    isRemoved: 1

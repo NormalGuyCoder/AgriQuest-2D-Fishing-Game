@@ -1,0 +1,33 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94ffd712ae9ff5542987662196fc462b, type: 3}
+  m_Name: Banggus
+  m_EditorClassIdentifier: Assembly-CSharp::EndangeredFishDefinition
+  fishName: Banggus
+  scientificName: Chanos chanos
+  description: Also known as Milkfish. While not globally endangered, wild populations
+    in the Philippines face threats from habitat loss and overfishing.
+  status: 0
+  iucnStatus: Vulnerable (wild populations)
+  populationTrend: Decreasing (wild populations)
+  habitat: Coastal waters, lagoons, and estuaries. Spawns in open sea, juveniles
+    migrate to shallow waters
+  distribution: Indo-Pacific region, particularly important in Philippines, Indonesia,
+    and Taiwan
+  threats: Habitat destruction of spawning grounds, coastal development, pollution,
+    overfishing of wild stocks, climate change
+  importance: National fish of the Philippines, culturally and economically significant,
+    important food source, supports aquaculture industry
+  conservationEfforts: Marine protected areas for spawning grounds, sustainable fishing
+    practices, aquaculture to reduce wild catch pressure, habitat protection
+  fishImage: {fileID: 0}
+  fishIcon: {fileID: 0}

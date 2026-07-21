@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7651e250fea4e664396b28b6b87cf878, type: 3}
+  m_Name: Fish_Mackerel
+  m_EditorClassIdentifier: Assembly-CSharp::FishCatalogEntry
+  fishId: fish_mackerel
+  displayName: Fish_Mackerel
+  scientificName: 
+  description: Mackerel are fast-swimming, oily fish with a sleek, torpedo-shaped
+    body. They typically have a greenish-blue back with dark wavy lines and a silvery
+    belly. In the Philippines.
+  mainSprite: {fileID: -8407166883477379423, guid: b4f1573c0a0e4ed4bae1080ca9581808, type: 3}
+  iconSprite: {fileID: -8407166883477379423, guid: b4f1573c0a0e4ed4bae1080ca9581808, type: 3}
+  tags: []
+  aliases: []

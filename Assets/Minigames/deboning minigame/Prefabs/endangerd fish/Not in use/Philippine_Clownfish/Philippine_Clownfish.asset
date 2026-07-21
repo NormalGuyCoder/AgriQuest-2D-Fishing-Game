@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94ffd712ae9ff5542987662196fc462b, type: 3}
+  m_Name: Philippine_Clownfish
+  m_EditorClassIdentifier: Assembly-CSharp::EndangeredFishDefinition
+  fishName: Philippine Clownfish
+  scientificName: Amphiprion ocellaris
+  description: Colorful reef fish that lives in symbiosis with sea anemones. Popular
+    in aquarium trade, putting pressure on wild populations.
+  status: 0
+  iucnStatus: Vulnerable
+  populationTrend: Stable to Decreasing
+  habitat: Coral reefs with sea anemones, shallow lagoons and reef flats
+  distribution: Indo-Pacific region including Philippines, Indonesia, and Australia
+  threats: Collection for aquarium trade, habitat destruction of coral reefs, climate
+    change affecting coral health, pollution
+  importance: Important for reef ecosystem, popular in marine aquarium trade, indicator
+    of reef health, symbiotic relationship with anemones
+  conservationEfforts: Sustainable collection practices, captive breeding programs,
+    marine protected areas, reef conservation
+  fishImage: {fileID: -7945434253264772121, guid: 5e1810616df44b942a7f8544f1c6b7e4, type: 3}
+  fishIcon: {fileID: -7945434253264772121, guid: 5e1810616df44b942a7f8544f1c6b7e4, type: 3}
+  learnMoreHeadline: 
+  learnMoreCopy: 
+  learnMoreAction: 

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94ffd712ae9ff5542987662196fc462b, type: 3}
+  m_Name: Leopard_Coral_Grouper
+  m_EditorClassIdentifier: Assembly-CSharp::EndangeredFishDefinition
+  fishName: Leopard Coral Grouper
+  scientificName: Plectropomus leopardus
+  description: Beautiful spotted grouper found in Philippine coral reefs. Highly
+    valued in the live fish trade and local markets.
+  status: 1
+  iucnStatus: Vulnerable
+  populationTrend: Decreasing
+  habitat: Coral reefs, particularly outer reef slopes and channels
+  distribution: Indo-Pacific region including Philippines, from East Africa to Pacific
+    islands
+  threats: Overfishing for live fish trade, habitat destruction, cyanide fishing,
+    coral reef degradation
+  importance: Important reef predator, maintains fish population balance, valuable
+    commercial species, indicator of reef health
+  conservationEfforts: Marine protected areas, fishing regulations, reef conservation,
+    size limits, seasonal closures
+  fishImage: {fileID: -5282063785117870446, guid: ec15307228859d04c827015ec991bf4a, type: 3}
+  fishIcon: {fileID: 3293915492472752992, guid: 123a34486cd83014fb913fb35c9ae190, type: 3}
+  learnMoreHeadline: 
+  learnMoreCopy: 
+  learnMoreAction: 

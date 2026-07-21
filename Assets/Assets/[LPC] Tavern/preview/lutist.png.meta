@@ -1,0 +1,4901 @@
+fileFormatVersion: 2
+guid: 22080937b788c334f9593e2d905b8c25
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1721964969806493511
+    second: lutist_0
+  - first:
+      213: -6130908546868517457
+    second: lutist_1
+  - first:
+      213: 9022017135276645947
+    second: lutist_2
+  - first:
+      213: 6625265032313370220
+    second: lutist_3
+  - first:
+      213: 218919154931211734
+    second: lutist_4
+  - first:
+      213: 3371155772134271401
+    second: lutist_5
+  - first:
+      213: -6269216358869740521
+    second: lutist_6
+  - first:
+      213: 6198257832222727937
+    second: lutist_7
+  - first:
+      213: -9120294158355922000
+    second: lutist_8
+  - first:
+      213: 3658952324008237072
+    second: lutist_9
+  - first:
+      213: -1544916845829055783
+    second: lutist_10
+  - first:
+      213: -7404103620179544410
+    second: lutist_11
+  - first:
+      213: 7425684634476224829
+    second: lutist_12
+  - first:
+      213: -1917594191572886824
+    second: lutist_13
+  - first:
+      213: -1756670433495050578
+    second: lutist_14
+  - first:
+      213: 5070773141871653239
+    second: lutist_15
+  - first:
+      213: -1976216794439832637
+    second: lutist_16
+  - first:
+      213: 4215294354684235097
+    second: lutist_17
+  - first:
+      213: 4413169943985913243
+    second: lutist_18
+  - first:
+      213: -2991706007818093164
+    second: lutist_19
+  - first:
+      213: -195550093549068649
+    second: lutist_20
+  - first:
+      213: -5032989756172897543
+    second: lutist_21
+  - first:
+      213: 5121190255638083454
+    second: lutist_22
+  - first:
+      213: -3068739082886562222
+    second: lutist_23
+  - first:
+      213: 4063585004959526179
+    second: lutist_24
+  - first:
+      213: 1798094264216465286
+    second: lutist_25
+  - first:
+      213: -7001931178202548997
+    second: lutist_26
+  - first:
+      213: 336381713578551301
+    second: lutist_27
+  - first:
+      213: -3283999015226695448
+    second: lutist_28
+  - first:
+      213: -3314376547675099330
+    second: lutist_29
+  - first:
+      213: 7779940718284126072
+    second: lutist_30
+  - first:
+      213: 7604895577642915604
+    second: lutist_31
+  - first:
+      213: 4730664039619819912
+    second: lutist_32
+  - first:
+      213: 8696216632222536610
+    second: lutist_33
+  - first:
+      213: -2798771406133332759
+    second: lutist_34
+  - first:
+      213: 8201956854914361361
+    second: lutist_35
+  - first:
+      213: -5355677529929080242
+    second: lutist_36
+  - first:
+      213: -1449051000763400250
+    second: lutist_37
+  - first:
+      213: -3482305057075138302
+    second: lutist_38
+  - first:
+      213: -816022550935682507
+    second: lutist_39
+  - first:
+      213: 8412313548709234743
+    second: lutist_40
+  - first:
+      213: -4938370016885244497
+    second: lutist_41
+  - first:
+      213: 5323393952478102238
+    second: lutist_42
+  - first:
+      213: 8538274564741816571
+    second: lutist_43
+  - first:
+      213: 7550293126444421742
+    second: lutist_44
+  - first:
+      213: 122620849932128346
+    second: lutist_45
+  - first:
+      213: 4784282809695341399
+    second: lutist_46
+  - first:
+      213: 8300950142232071972
+    second: lutist_47
+  - first:
+      213: -2461493189691117029
+    second: lutist_48
+  - first:
+      213: -905180391712492661
+    second: lutist_49
+  - first:
+      213: 5850661674371200728
+    second: lutist_50
+  - first:
+      213: -7021763413442696325
+    second: lutist_51
+  - first:
+      213: -2185805957428150913
+    second: lutist_52
+  - first:
+      213: -4956597008863460455
+    second: lutist_53
+  - first:
+      213: 5355587749580014739
+    second: lutist_54
+  - first:
+      213: -6800097416586799580
+    second: lutist_55
+  - first:
+      213: 8750829202480841128
+    second: lutist_56
+  - first:
+      213: 208153117849301461
+    second: lutist_57
+  - first:
+      213: 94588707425865754
+    second: lutist_58
+  - first:
+      213: -5503473502012056876
+    second: lutist_59
+  - first:
+      213: 5875682926883511137
+    second: lutist_60
+  - first:
+      213: 1846744640298938211
+    second: lutist_61
+  - first:
+      213: 7838472107026687299
+    second: lutist_62
+  - first:
+      213: 3424139053368155127
+    second: lutist_63
+  - first:
+      213: -8588188934542045982
+    second: lutist_64
+  - first:
+      213: -8968255017951116699
+    second: lutist_65
+  - first:
+      213: -3010256961262072698
+    second: lutist_66
+  - first:
+      213: 1112973531582824673
+    second: lutist_67
+  - first:
+      213: -3607550608678752033
+    second: lutist_68
+  - first:
+      213: -4700258298511833198
+    second: lutist_69
+  - first:
+      213: -164880543691269785
+    second: lutist_70
+  - first:
+      213: -8331999906180992962
+    second: lutist_71
+  - first:
+      213: 1349874669125320847
+    second: lutist_72
+  - first:
+      213: 8989020446340368555
+    second: lutist_73
+  - first:
+      213: 5707418860927151879
+    second: lutist_74
+  - first:
+      213: 7971306276120573782
+    second: lutist_75
+  - first:
+      213: 7345575953719600356
+    second: lutist_76
+  - first:
+      213: 1581381322096696498
+    second: lutist_77
+  - first:
+      213: 2676920144069822577
+    second: lutist_78
+  - first:
+      213: -7329110737092560738
+    second: lutist_79
+  - first:
+      213: 2976470085805556360
+    second: lutist_80
+  - first:
+      213: -5579237627853972344
+    second: lutist_81
+  - first:
+      213: -1414640619864523675
+    second: lutist_82
+  - first:
+      213: 4221075148995175261
+    second: lutist_83
+  - first:
+      213: 188656976606363896
+    second: lutist_84
+  - first:
+      213: -4627481623746209540
+    second: lutist_85
+  - first:
+      213: -8875307994951061230
+    second: lutist_86
+  - first:
+      213: -6651603339970628895
+    second: lutist_87
+  - first:
+      213: 6252689018709057035
+    second: lutist_88
+  - first:
+      213: -8897950136791628023
+    second: lutist_89
+  - first:
+      213: 2198545194975108195
+    second: lutist_90
+  - first:
+      213: 3477169457972910111
+    second: lutist_91
+  - first:
+      213: -305406799740382061
+    second: lutist_92
+  - first:
+      213: -5353571188431798745
+    second: lutist_93
+  - first:
+      213: -5465791112626716892
+    second: lutist_94
+  - first:
+      213: 2519936348479705316
+    second: lutist_95
+  - first:
+      213: 4135370456172917589
+    second: lutist_96
+  - first:
+      213: -647564408323004628
+    second: lutist_97
+  - first:
+      213: -5936617509631408761
+    second: lutist_98
+  - first:
+      213: 6535141222433462360
+    second: lutist_99
+  - first:
+      213: 4026883440289634913
+    second: lutist_100
+  - first:
+      213: 8062965285761264112
+    second: lutist_101
+  - first:
+      213: 889501169071254782
+    second: lutist_102
+  - first:
+      213: 185183058995232287
+    second: lutist_103
+  - first:
+      213: 1450276660909768139
+    second: lutist_104
+  - first:
+      213: 1131776081175949845
+    second: lutist_105
+  - first:
+      213: -2374832344583891396
+    second: lutist_106
+  - first:
+      213: 6183617798127552542
+    second: lutist_107
+  - first:
+      213: -5505476167010624119
+    second: lutist_108
+  - first:
+      213: -6827032811219799499
+    second: lutist_109
+  - first:
+      213: 6729176051714645673
+    second: lutist_110
+  - first:
+      213: -1658371506921415830
+    second: lutist_111
+  - first:
+      213: 1671569549977119755
+    second: lutist_112
+  - first:
+      213: 8648175659627227567
+    second: lutist_113
+  - first:
+      213: 6385435628886721937
+    second: lutist_114
+  - first:
+      213: -9221428737731034329
+    second: lutist_115
+  - first:
+      213: 9209224838575916837
+    second: lutist_116
+  - first:
+      213: -1324358039732043011
+    second: lutist_117
+  - first:
+      213: -4502727788269569862
+    second: lutist_118
+  - first:
+      213: 1351817605056244046
+    second: lutist_119
+  - first:
+      213: 5898058394179725142
+    second: lutist_120
+  - first:
+      213: 1702244520550023019
+    second: lutist_121
+  - first:
+      213: -3195275027528547822
+    second: lutist_122
+  - first:
+      213: 7739547115285026176
+    second: lutist_123
+  - first:
+      213: -5459529519053387736
+    second: lutist_124
+  - first:
+      213: 8939349619416290305
+    second: lutist_125
+  - first:
+      213: 692531828908596408
+    second: lutist_126
+  - first:
+      213: 7510951114065179401
+    second: lutist_127
+  - first:
+      213: 1912131361999190517
+    second: lutist_128
+  - first:
+      213: 1137406714725199196
+    second: lutist_129
+  - first:
+      213: -4798642796886730346
+    second: lutist_130
+  - first:
+      213: -3261690636163604754
+    second: lutist_131
+  - first:
+      213: 4945179308589393074
+    second: lutist_132
+  - first:
+      213: -2281722360253885402
+    second: lutist_133
+  - first:
+      213: -4253411646134585796
+    second: lutist_134
+  - first:
+      213: -558173480035271698
+    second: lutist_135
+  - first:
+      213: 6433844742923466843
+    second: lutist_136
+  - first:
+      213: 3080448826622148295
+    second: lutist_137
+  - first:
+      213: 1303685053119509253
+    second: lutist_138
+  - first:
+      213: -7237706202390309553
+    second: lutist_139
+  - first:
+      213: -8545215763746276911
+    second: lutist_140
+  - first:
+      213: -6277729901545963117
+    second: lutist_141
+  - first:
+      213: 2024046712423273811
+    second: lutist_142
+  - first:
+      213: -4467686786341040372
+    second: lutist_143
+  - first:
+      213: -6568044161710491820
+    second: lutist_144
+  - first:
+      213: 5535335726627346385
+    second: lutist_145
+  - first:
+      213: -2639300388353833277
+    second: lutist_146
+  - first:
+      213: -6473518648589272111
+    second: lutist_147
+  - first:
+      213: 2797205059314676176
+    second: lutist_148
+  - first:
+      213: 6168775281379972181
+    second: lutist_149
+  - first:
+      213: 5542489796191209380
+    second: lutist_150
+  - first:
+      213: 2869749591302303834
+    second: lutist_151
+  - first:
+      213: 5427865684209089541
+    second: lutist_152
+  - first:
+      213: 1240826285926860864
+    second: lutist_153
+  - first:
+      213: 5915354905457252616
+    second: lutist_154
+  - first:
+      213: 7317247160412724244
+    second: lutist_155
+  - first:
+      213: 5087618995400860146
+    second: lutist_156
+  - first:
+      213: -2617474356231436539
+    second: lutist_157
+  - first:
+      213: -2382806313840273010
+    second: lutist_158
+  - first:
+      213: -2971289707107382563
+    second: lutist_159
+  - first:
+      213: -8901872942775851032
+    second: lutist_160
+  - first:
+      213: -2183980204728749788
+    second: lutist_161
+  - first:
+      213: 8391374265284408556
+    second: lutist_162
+  - first:
+      213: -5598564408098844857
+    second: lutist_163
+  - first:
+      213: 6667014281780438096
+    second: lutist_164
+  - first:
+      213: -7866957369771898215
+    second: lutist_165
+  - first:
+      213: -3547330437757673126
+    second: lutist_166
+  - first:
+      213: 2196069455650633171
+    second: lutist_167
+  - first:
+      213: -7088478597346369078
+    second: lutist_168
+  - first:
+      213: 6542549774487516308
+    second: lutist_169
+  - first:
+      213: -2925512795562893306
+    second: lutist_170
+  - first:
+      213: -1144966187271922682
+    second: lutist_171
+  - first:
+      213: -3288550159337956732
+    second: lutist_172
+  - first:
+      213: -434785288672852957
+    second: lutist_173
+  - first:
+      213: -2823808873447907228
+    second: lutist_174
+  - first:
+      213: -6822630430432871898
+    second: lutist_175
+  - first:
+      213: 1095724533030959133
+    second: lutist_176
+  - first:
+      213: -7834637100029958649
+    second: lutist_177
+  - first:
+      213: -999389813818788463
+    second: lutist_178
+  - first:
+      213: -805375205068686468
+    second: lutist_179
+  - first:
+      213: 2923154608786439726
+    second: lutist_180
+  - first:
+      213: 4285366385424248331
+    second: lutist_181
+  - first:
+      213: 5382767634503723972
+    second: lutist_182
+  - first:
+      213: -2680388199829165987
+    second: lutist_183
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: lutist_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1281
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7477bf44406a5e710800000000000000
+      internalID: 1721964969806493511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1281
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5ee79d823aaeaa0800000000000000
+      internalID: -6130908546868517457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_2
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1281
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ed6a9a8c4a43d70800000000000000
+      internalID: 9022017135276645947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1281
+        width: 38
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66fad9d17ba1fb50800000000000000
+      internalID: 6625265032313370220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_4
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1281
+        width: 52
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd1430cfc1c90300800000000000000
+      internalID: 218919154931211734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_5
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1281
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a922984050c8ce20800000000000000
+      internalID: 3371155772134271401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_6
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1281
+        width: 61
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7145085ffe44ff8a0800000000000000
+      internalID: -6269216358869740521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1217
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f1beb98a2a40650800000000000000
+      internalID: 6198257832222727937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_8
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1217
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b3002cc8c43e6180800000000000000
+      internalID: -9120294158355922000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_9
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1217
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 018d992b0c537c230800000000000000
+      internalID: 3658952324008237072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_10
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1217
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da97d4605a5f8ae0800000000000000
+      internalID: -1544916845829055783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_11
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1217
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a6b30f6cf65f3990800000000000000
+      internalID: -7404103620179544410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_12
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 1217
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d31280405d45d0760800000000000000
+      internalID: 7425684634476224829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1217
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da12fb1e365365e0800000000000000
+      internalID: -1917594191572886824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_14
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1153
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea698184c8d0f97e0800000000000000
+      internalID: -1756670433495050578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_15
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 1153
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 771f9d17e410f5640800000000000000
+      internalID: 5070773141871653239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_16
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 1153
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cba040cb411394e0800000000000000
+      internalID: -1976216794439832637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_17
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 1153
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95dc9aac1ebbf7a30800000000000000
+      internalID: 4215294354684235097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_18
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1153
+        width: 52
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9df5bc9eaabe3d30800000000000000
+      internalID: 4413169943985913243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1153
+        width: 50
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49db9939c335b76d0800000000000000
+      internalID: -2991706007818093164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_20
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1153
+        width: 36
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e963ad934494df0800000000000000
+      internalID: -195550093549068649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_21
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 1162
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f272219b7a372ab0800000000000000
+      internalID: -5032989756172897543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_22
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1162
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77ff7e776f121740800000000000000
+      internalID: 5121190255638083454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_23
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1162
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e30302016a965d0800000000000000
+      internalID: -3068739082886562222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_24
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 1162
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d673f3801c46830800000000000000
+      internalID: 4063585004959526179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_25
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 1162
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f2a43e43d14f810800000000000000
+      internalID: 1798094264216465286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_26
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1089
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf43185f0b424de90800000000000000
+      internalID: -7001931178202548997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_27
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 1089
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50869c2e2611ba400800000000000000
+      internalID: 336381713578551301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_28
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1089
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e02ea68b44ec62d0800000000000000
+      internalID: -3283999015226695448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_29
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1089
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3fa0f71718f002d0800000000000000
+      internalID: -3314376547675099330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_30
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1089
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8773ce60dd6e7fb60800000000000000
+      internalID: 7779940718284126072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_31
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1089
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41758534c340a8960800000000000000
+      internalID: 7604895577642915604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_32
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1089
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 889f04141e1b6a140800000000000000
+      internalID: 4730664039619819912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_33
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1025
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a3d775d3fa2fa870800000000000000
+      internalID: 8696216632222536610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_34
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1023
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4f6e11c34c829d0800000000000000
+      internalID: -2798771406133332759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_35
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1023
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1182040cd4433d170800000000000000
+      internalID: 8201956854914361361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_36
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 1023
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e42290189afcca5b0800000000000000
+      internalID: -5355677529929080242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_37
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 1023
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cfb21ecacfe3ebe0800000000000000
+      internalID: -1449051000763400250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_38
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1023
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2017d79200e5cafc0800000000000000
+      internalID: -3482305057075138302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_39
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1023
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53245ca30d7eca4f0800000000000000
+      internalID: -816022550935682507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_40
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1023
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738050a2a9a8eb470800000000000000
+      internalID: 8412313548709234743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_41
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 961
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fad7d1e52a2677bb0800000000000000
+      internalID: -4938370016885244497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_42
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 961
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed28be0689e70e940800000000000000
+      internalID: 5323393952478102238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_43
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 961
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf0603a9a7b0e7670800000000000000
+      internalID: 8538274564741816571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_44
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 961
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e621bc7689708c860800000000000000
+      internalID: 7550293126444421742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_45
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 961
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a50d24a6303a3b100800000000000000
+      internalID: 122620849932128346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_46
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 961
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b06e00edf256240800000000000000
+      internalID: 4784282809695341399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_47
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 961
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42f88fd8c26e23370800000000000000
+      internalID: 8300950142232071972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_48
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 961
+        width: 32
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12fa6b4cf407ddd0800000000000000
+      internalID: -2461493189691117029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_49
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 897
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b83f356ca372073f0800000000000000
+      internalID: -905180391712492661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_50
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 898
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d633e17bc9b13150800000000000000
+      internalID: 5850661674371200728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_51
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 898
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7be9ecd06fad8e90800000000000000
+      internalID: -7021763413442696325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_52
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 898
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7dff8700157aa1e0800000000000000
+      internalID: -2185805957428150913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_53
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 898
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9930ee71841a63bb0800000000000000
+      internalID: -4956597008863460455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_54
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 898
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3948621eeaed25a40800000000000000
+      internalID: 5355587749580014739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_55
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 898
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 426da469d6331a1a0800000000000000
+      internalID: -6800097416586799580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_56
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 898
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a14cf7bbc0317970800000000000000
+      internalID: 8750829202480841128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_57
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 833
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d13c48682283e200800000000000000
+      internalID: 208153117849301461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_58
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 833
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10d1e1adeb005100800000000000000
+      internalID: 94588707425865754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_59
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 833
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dadbc1320cbf93b0800000000000000
+      internalID: -5503473502012056876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_60
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 833
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b18b5cd7e9a8150800000000000000
+      internalID: 5875682926883511137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_61
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 833
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36fefd34774f0a910800000000000000
+      internalID: 1846744640298938211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_62
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 833
+        width: 33
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3452221f9d8d7cc60800000000000000
+      internalID: 7838472107026687299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_63
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 833
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb1d81c35cf48f20800000000000000
+      internalID: 3424139053368155127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_64
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 833
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec4eac8aaf90d880800000000000000
+      internalID: -8588188934542045982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_65
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 770
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 562c8e7b39b5a8380800000000000000
+      internalID: -8968255017951116699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_66
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 770
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cc3552e3b6936d0800000000000000
+      internalID: -3010256961262072698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_67
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 769
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e0086ab783127f00800000000000000
+      internalID: 1112973531582824673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_68
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 768
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd07574c5d76fedc0800000000000000
+      internalID: -3607550608678752033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_69
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 769
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297ce940bf355ceb0800000000000000
+      internalID: -4700258298511833198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_70
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 770
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76998e2e40a36bdf0800000000000000
+      internalID: -164880543691269785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_71
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 769
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e307e7bea3ace5c80800000000000000
+      internalID: -8331999906180992962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_72
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 768
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8043801cd7bbb210800000000000000
+      internalID: 1349874669125320847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_73
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 769
+        width: 32
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba847d6587a6fbc70800000000000000
+      internalID: 8989020446340368555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_74
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 705
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70f6dedf633d43f40800000000000000
+      internalID: 5707418860927151879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_75
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 705
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657320803d4cf9e60800000000000000
+      internalID: 7971306276120573782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_76
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 706
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e4ab10596ab0f560800000000000000
+      internalID: 7345575953719600356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_77
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 706
+        width: 30
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bcd2061fe132f510800000000000000
+      internalID: 1581381322096696498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_78
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 705
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1788e5720b4562520800000000000000
+      internalID: 2676920144069822577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_79
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 705
+        width: 33
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e98b81cad94c94a90800000000000000
+      internalID: -7329110737092560738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_80
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 705
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8824405e5cb8e4920800000000000000
+      internalID: 2976470085805556360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_81
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 705
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88c554200f09292b0800000000000000
+      internalID: -5579237627853972344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_82
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 705
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56cf220f9df2e5ce0800000000000000
+      internalID: -1414640619864523675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_83
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 641
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53261adb75449a30800000000000000
+      internalID: 4221075148995175261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_84
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 641
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0850b458e3e9200800000000000000
+      internalID: 188656976606363896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_85
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 640
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf895fb0bf1e7cfb0800000000000000
+      internalID: -4627481623746209540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_86
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 640
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 211f1c8e66294d480800000000000000
+      internalID: -8875307994951061230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_87
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 640
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2bf360102c0b3a0800000000000000
+      internalID: -6651603339970628895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_88
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 641
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e932bc88306c650800000000000000
+      internalID: 6252689018709057035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_89
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 640
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90785637e71248480800000000000000
+      internalID: -8897950136791628023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_90
+      rect:
+        serializedVersion: 2
+        x: 463
+        y: 640
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36c1229d43dc28e10800000000000000
+      internalID: 2198545194975108195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_91
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 640
+        width: 33
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f18105ef233614030800000000000000
+      internalID: 3477169457972910111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_92
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 577
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3945c7d322af2cbf0800000000000000
+      internalID: -305406799740382061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_93
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 577
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72eb1c95e5b44b5b0800000000000000
+      internalID: -5353571188431798745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_94
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 578
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42fb56b21fb9524b0800000000000000
+      internalID: -5465791112626716892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_95
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 578
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e05abbf1cc98f220800000000000000
+      internalID: 2519936348479705316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_96
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 577
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 553f4de0589c36930800000000000000
+      internalID: 4135370456172917589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_97
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 577
+        width: 32
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c27a8b00a936307f0800000000000000
+      internalID: -647564408323004628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_98
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 577
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7854e0b14d5ec9da0800000000000000
+      internalID: -5936617509631408761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_99
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 577
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8589820315c71ba50800000000000000
+      internalID: 6535141222433462360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_100
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 577
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16add52572d52e730800000000000000
+      internalID: 4026883440289634913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_101
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 513
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f92b1e353865ef60800000000000000
+      internalID: 8062965285761264112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_102
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 512
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efc69c9b994285c00800000000000000
+      internalID: 889501169071254782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_103
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 512
+        width: 31
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1eb4d1d207e19200800000000000000
+      internalID: 185183058995232287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_104
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 512
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcdf09f60fa602410800000000000000
+      internalID: 1450276660909768139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_105
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 512
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 512b6c37950e4bf00800000000000000
+      internalID: 1131776081175949845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_106
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 512
+        width: 41
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3618f3a096ea0fd0800000000000000
+      internalID: -2374832344583891396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_107
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 449
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e180d2c00af90d550800000000000000
+      internalID: 6183617798127552542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_108
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 449
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98dd3f9689e9893b0800000000000000
+      internalID: -5505476167010624119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_109
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 449
+        width: 31
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532be4154d18141a0800000000000000
+      internalID: -6827032811219799499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_110
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 449
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ae548167f5d26d50800000000000000
+      internalID: 6729176051714645673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_111
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 449
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6bd150a6e74cf8e0800000000000000
+      internalID: -1658371506921415830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_112
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 449
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ceebb36ab923710800000000000000
+      internalID: 1671569549977119755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_113
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 385
+        width: 34
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa9a24341fd740870800000000000000
+      internalID: 8648175659627227567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_114
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 385
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1958aeb7fdf9d9850800000000000000
+      internalID: 6385435628886721937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_115
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 385
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72386f59b67e60080800000000000000
+      internalID: -9221428737731034329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_116
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 385
+        width: 35
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5278508b23dbdcf70800000000000000
+      internalID: 9209224838575916837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_117
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 385
+        width: 41
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2c65e216fee9de0800000000000000
+      internalID: -1324358039732043011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_118
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 385
+        width: 45
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab879ebdee81381c0800000000000000
+      internalID: -4502727788269569862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_119
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 391
+        width: 34
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e492f7613fe92c210800000000000000
+      internalID: 1351817605056244046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_120
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 321
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657e7993cdc1ad150800000000000000
+      internalID: 5898058394179725142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_121
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 321
+        width: 29
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6f3d306f569f9710800000000000000
+      internalID: 1702244520550023019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_122
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 321
+        width: 30
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2120c70ba4a18a3d0800000000000000
+      internalID: -3195275027528547822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_123
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 321
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08596f07815686b60800000000000000
+      internalID: 7739547115285026176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_124
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 321
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 828401804dadb34b0800000000000000
+      internalID: -5459529519053387736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_125
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 321
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104d45cbd13fe0c70800000000000000
+      internalID: 8939349619416290305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_126
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 257
+        width: 32
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc9fb9770e5c9900800000000000000
+      internalID: 692531828908596408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_127
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 255
+        width: 31
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 903fd275e324c3860800000000000000
+      internalID: 7510951114065179401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_128
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 255
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f978d3c751498a10800000000000000
+      internalID: 1912131361999190517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_129
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 255
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5de65c7161e8cf00800000000000000
+      internalID: 1137406714725199196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_130
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 255
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699549feccbc76db0800000000000000
+      internalID: -4798642796886730346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_131
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 255
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee1048c5a52cb2d0800000000000000
+      internalID: -3261690636163604754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_132
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 255
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b42517616ec0a440800000000000000
+      internalID: 4945179308589393074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_133
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 255
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62450093a91b550e0800000000000000
+      internalID: -2281722360253885402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_134
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 255
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3673a4b4a8d8f4c0800000000000000
+      internalID: -4253411646134585796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_135
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 255
+        width: 32
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeb347f5d28f048f0800000000000000
+      internalID: -558173480035271698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_136
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 255
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58b7f9a4bb994950800000000000000
+      internalID: 6433844742923466843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_137
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 255
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cef49b03e3ffba20800000000000000
+      internalID: 3080448826622148295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_138
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 255
+        width: 31
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 503bc2a06ae971210800000000000000
+      internalID: 1303685053119509253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_139
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 193
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4552e15e808e8b90800000000000000
+      internalID: -7237706202390309553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_140
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 193
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d9b5d0998b496980800000000000000
+      internalID: -8545215763746276911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_141
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 193
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39141865ae501e8a0800000000000000
+      internalID: -6277729901545963117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_142
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 193
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35559c6d2cbd61c10800000000000000
+      internalID: 2024046712423273811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_143
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 193
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f8f64e9869ff1c0800000000000000
+      internalID: -4467686786341040372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_144
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 193
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457fa2842ae99d4a0800000000000000
+      internalID: -6568044161710491820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_145
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 193
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d7d622148671dc40800000000000000
+      internalID: 5535335726627346385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_146
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 193
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c68e98c7425f5bd0800000000000000
+      internalID: -2639300388353833277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_147
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 193
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db38f756117926a0800000000000000
+      internalID: -6473518648589272111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_148
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 193
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d170646e2ba1d620800000000000000
+      internalID: 2797205059314676176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_149
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 193
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5541dd15f64eb9550800000000000000
+      internalID: 6168775281379972181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_150
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 193
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a74431ba11eaec40800000000000000
+      internalID: 5542489796191209380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_151
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 193
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5075e77c0663d720800000000000000
+      internalID: 2869749591302303834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_152
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 129
+        width: 33
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cb0dbe417a35b40800000000000000
+      internalID: 5427865684209089541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_153
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 130
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04843a0deec483110800000000000000
+      internalID: 1240826285926860864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_154
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 130
+        width: 31
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 809d42412ff871250800000000000000
+      internalID: 5915354905457252616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_155
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 129
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41cd22226851c8560800000000000000
+      internalID: 7317247160412724244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_156
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 129
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1e56d558ada9640800000000000000
+      internalID: 5087618995400860146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_157
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 129
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5078124e0fcdcabd0800000000000000
+      internalID: -2617474356231436539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_158
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 129
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e891efe38429eeed0800000000000000
+      internalID: -2382806313840273010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_159
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 129
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda071301cbd3c6d0800000000000000
+      internalID: -2971289707107382563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_160
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 129
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e72f2209b1367480800000000000000
+      internalID: -8901872942775851032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_161
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 129
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42178a43391f0b1e0800000000000000
+      internalID: -2183980204728749788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_162
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 129
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce4b1a35f66247470800000000000000
+      internalID: 8391374265284408556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_163
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 129
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74f8f135557ed42b0800000000000000
+      internalID: -5598564408098844857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_164
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 129
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054aaf97a2ef58c50800000000000000
+      internalID: 6667014281780438096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_165
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 65
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99aca9ff3f3f2d290800000000000000
+      internalID: -7866957369771898215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_166
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 65
+        width: 29
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51e58ce2c955cec0800000000000000
+      internalID: -3547330437757673126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_167
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 65
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5342ed8810a7e10800000000000000
+      internalID: 2196069455650633171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_168
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 65
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1e537a54aa0ad90800000000000000
+      internalID: -7088478597346369078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_169
+      rect:
+        serializedVersion: 2
+        x: 271
+        y: 65
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 494f3a12b5ecbca50800000000000000
+      internalID: 6542549774487516308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_170
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 65
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6002d9acc9d7667d0800000000000000
+      internalID: -2925512795562893306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_171
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 65
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60cd2d7a1534c10f0800000000000000
+      internalID: -1144966187271922682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_172
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 65
+        width: 38
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a5b96bd09bc52d0800000000000000
+      internalID: -3288550159337956732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_173
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 65
+        width: 40
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324c613651557f9f0800000000000000
+      internalID: -434785288672852957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_174
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 65
+        width: 37
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460aa807ac0dfc8d0800000000000000
+      internalID: -2823808873447907228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_175
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 65
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a374875c52151a0800000000000000
+      internalID: -6822630430432871898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_176
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 65
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18bdfa48abc43f00800000000000000
+      internalID: 1095724533030959133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_177
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 65
+        width: 36
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7062e943117c54390800000000000000
+      internalID: -7834637100029958649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_178
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195ff2362447122f0800000000000000
+      internalID: -999389813818788463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_179
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 1
+        width: 33
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b39fe948bb2d4f0800000000000000
+      internalID: -805375205068686468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_180
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1
+        width: 33
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ef24011a1219820800000000000000
+      internalID: 2923154608786439726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_181
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2
+        width: 32
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0eac9fc50ea87b30800000000000000
+      internalID: 4285366385424248331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_182
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 2
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cb601bf4ae63ba40800000000000000
+      internalID: 5382767634503723972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: lutist_183
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 0
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d58a80132295dcad0800000000000000
+      internalID: -2680388199829165987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      lutist_0: 1721964969806493511
+      lutist_1: -6130908546868517457
+      lutist_10: -1544916845829055783
+      lutist_100: 4026883440289634913
+      lutist_101: 8062965285761264112
+      lutist_102: 889501169071254782
+      lutist_103: 185183058995232287
+      lutist_104: 1450276660909768139
+      lutist_105: 1131776081175949845
+      lutist_106: -2374832344583891396
+      lutist_107: 6183617798127552542
+      lutist_108: -5505476167010624119
+      lutist_109: -6827032811219799499
+      lutist_11: -7404103620179544410
+      lutist_110: 6729176051714645673
+      lutist_111: -1658371506921415830
+      lutist_112: 1671569549977119755
+      lutist_113: 8648175659627227567
+      lutist_114: 6385435628886721937
+      lutist_115: -9221428737731034329
+      lutist_116: 9209224838575916837
+      lutist_117: -1324358039732043011
+      lutist_118: -4502727788269569862
+      lutist_119: 1351817605056244046
+      lutist_12: 7425684634476224829
+      lutist_120: 5898058394179725142
+      lutist_121: 1702244520550023019
+      lutist_122: -3195275027528547822
+      lutist_123: 7739547115285026176
+      lutist_124: -5459529519053387736
+      lutist_125: 8939349619416290305
+      lutist_126: 692531828908596408
+      lutist_127: 7510951114065179401
+      lutist_128: 1912131361999190517
+      lutist_129: 1137406714725199196
+      lutist_13: -1917594191572886824
+      lutist_130: -4798642796886730346
+      lutist_131: -3261690636163604754
+      lutist_132: 4945179308589393074
+      lutist_133: -2281722360253885402
+      lutist_134: -4253411646134585796
+      lutist_135: -558173480035271698
+      lutist_136: 6433844742923466843
+      lutist_137: 3080448826622148295
+      lutist_138: 1303685053119509253
+      lutist_139: -7237706202390309553
+      lutist_14: -1756670433495050578
+      lutist_140: -8545215763746276911
+      lutist_141: -6277729901545963117
+      lutist_142: 2024046712423273811
+      lutist_143: -4467686786341040372
+      lutist_144: -6568044161710491820
+      lutist_145: 5535335726627346385
+      lutist_146: -2639300388353833277
+      lutist_147: -6473518648589272111
+      lutist_148: 2797205059314676176
+      lutist_149: 6168775281379972181
+      lutist_15: 5070773141871653239
+      lutist_150: 5542489796191209380
+      lutist_151: 2869749591302303834
+      lutist_152: 5427865684209089541
+      lutist_153: 1240826285926860864
+      lutist_154: 5915354905457252616
+      lutist_155: 7317247160412724244
+      lutist_156: 5087618995400860146
+      lutist_157: -2617474356231436539
+      lutist_158: -2382806313840273010
+      lutist_159: -2971289707107382563
+      lutist_16: -1976216794439832637
+      lutist_160: -8901872942775851032
+      lutist_161: -2183980204728749788
+      lutist_162: 8391374265284408556
+      lutist_163: -5598564408098844857
+      lutist_164: 6667014281780438096
+      lutist_165: -7866957369771898215
+      lutist_166: -3547330437757673126
+      lutist_167: 2196069455650633171
+      lutist_168: -7088478597346369078
+      lutist_169: 6542549774487516308
+      lutist_17: 4215294354684235097
+      lutist_170: -2925512795562893306
+      lutist_171: -1144966187271922682
+      lutist_172: -3288550159337956732
+      lutist_173: -434785288672852957
+      lutist_174: -2823808873447907228
+      lutist_175: -6822630430432871898
+      lutist_176: 1095724533030959133
+      lutist_177: -7834637100029958649
+      lutist_178: -999389813818788463
+      lutist_179: -805375205068686468
+      lutist_18: 4413169943985913243
+      lutist_180: 2923154608786439726
+      lutist_181: 4285366385424248331
+      lutist_182: 5382767634503723972
+      lutist_183: -2680388199829165987
+      lutist_19: -2991706007818093164
+      lutist_2: 9022017135276645947
+      lutist_20: -195550093549068649
+      lutist_21: -5032989756172897543
+      lutist_22: 5121190255638083454
+      lutist_23: -3068739082886562222
+      lutist_24: 4063585004959526179
+      lutist_25: 1798094264216465286
+      lutist_26: -7001931178202548997
+      lutist_27: 336381713578551301
+      lutist_28: -3283999015226695448
+      lutist_29: -3314376547675099330
+      lutist_3: 6625265032313370220
+      lutist_30: 7779940718284126072
+      lutist_31: 7604895577642915604
+      lutist_32: 4730664039619819912
+      lutist_33: 8696216632222536610
+      lutist_34: -2798771406133332759
+      lutist_35: 8201956854914361361
+      lutist_36: -5355677529929080242
+      lutist_37: -1449051000763400250
+      lutist_38: -3482305057075138302
+      lutist_39: -816022550935682507
+      lutist_4: 218919154931211734
+      lutist_40: 8412313548709234743
+      lutist_41: -4938370016885244497
+      lutist_42: 5323393952478102238
+      lutist_43: 8538274564741816571
+      lutist_44: 7550293126444421742
+      lutist_45: 122620849932128346
+      lutist_46: 4784282809695341399
+      lutist_47: 8300950142232071972
+      lutist_48: -2461493189691117029
+      lutist_49: -905180391712492661
+      lutist_5: 3371155772134271401
+      lutist_50: 5850661674371200728
+      lutist_51: -7021763413442696325
+      lutist_52: -2185805957428150913
+      lutist_53: -4956597008863460455
+      lutist_54: 5355587749580014739
+      lutist_55: -6800097416586799580
+      lutist_56: 8750829202480841128
+      lutist_57: 208153117849301461
+      lutist_58: 94588707425865754
+      lutist_59: -5503473502012056876
+      lutist_6: -6269216358869740521
+      lutist_60: 5875682926883511137
+      lutist_61: 1846744640298938211
+      lutist_62: 7838472107026687299
+      lutist_63: 3424139053368155127
+      lutist_64: -8588188934542045982
+      lutist_65: -8968255017951116699
+      lutist_66: -3010256961262072698
+      lutist_67: 1112973531582824673
+      lutist_68: -3607550608678752033
+      lutist_69: -4700258298511833198
+      lutist_7: 6198257832222727937
+      lutist_70: -164880543691269785
+      lutist_71: -8331999906180992962
+      lutist_72: 1349874669125320847
+      lutist_73: 8989020446340368555
+      lutist_74: 5707418860927151879
+      lutist_75: 7971306276120573782
+      lutist_76: 7345575953719600356
+      lutist_77: 1581381322096696498
+      lutist_78: 2676920144069822577
+      lutist_79: -7329110737092560738
+      lutist_8: -9120294158355922000
+      lutist_80: 2976470085805556360
+      lutist_81: -5579237627853972344
+      lutist_82: -1414640619864523675
+      lutist_83: 4221075148995175261
+      lutist_84: 188656976606363896
+      lutist_85: -4627481623746209540
+      lutist_86: -8875307994951061230
+      lutist_87: -6651603339970628895
+      lutist_88: 6252689018709057035
+      lutist_89: -8897950136791628023
+      lutist_9: 3658952324008237072
+      lutist_90: 2198545194975108195
+      lutist_91: 3477169457972910111
+      lutist_92: -305406799740382061
+      lutist_93: -5353571188431798745
+      lutist_94: -5465791112626716892
+      lutist_95: 2519936348479705316
+      lutist_96: 4135370456172917589
+      lutist_97: -647564408323004628
+      lutist_98: -5936617509631408761
+      lutist_99: 6535141222433462360
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

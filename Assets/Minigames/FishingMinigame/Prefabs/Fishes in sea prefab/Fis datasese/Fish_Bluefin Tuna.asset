@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59c33681772ad5641b8a2ebeadf7cb98, type: 3}
+  m_Name: Fish_Bluefin Tuna
+  m_EditorClassIdentifier: 
+  fishName: Bluefin Tuna
+  scientificName: "\u20B1400 \u2013 \u20B11,200+ per kilo"
+  description: 'Large, fast-swimming ocean fish known for their rich, red meat. Highly
+    prized in international markets for sushi and sashimi. Considered endangered
+    in some regions due to overfishing.
+
+
+'
+  fishSprite: {fileID: 1685498675508474843, guid: 2a16c63cd831b354aa910f2fb19ecd34, type: 3}
+  fishIcon: {fileID: 1685498675508474843, guid: 2a16c63cd831b354aa910f2fb19ecd34, type: 3}
+  rarity: 0
+  baseValue: 0
+  minSize: 0
+  maxSize: 0
+  swimSpeed: 0
+  catchDifficulty: 0
+  preferredBaits: []
+  habitats: []
+  preferredDepth: 0
+  seasons: []
+  possibleLocations: []
+  isDiscovered: 0
+  sharedCatalogEntry: {fileID: 11400000, guid: 315b5c6cc1293fe46a41e061240d197d, type: 2}
+  sharedFishId: bluefin_tuna

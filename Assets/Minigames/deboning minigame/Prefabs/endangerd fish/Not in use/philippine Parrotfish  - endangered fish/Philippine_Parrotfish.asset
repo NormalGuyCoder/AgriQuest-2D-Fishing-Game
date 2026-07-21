@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94ffd712ae9ff5542987662196fc462b, type: 3}
+  m_Name: Philippine_Parrotfish
+  m_EditorClassIdentifier: Assembly-CSharp::EndangeredFishDefinition
+  fishName: Philippine Parrotfish
+  scientificName: Scarus spp.
+  description: Colorful reef fish that plays crucial role in maintaining coral reef
+    health by eating algae. Multiple species found in Philippines.
+  status: 0
+  iucnStatus: Vulnerable
+  populationTrend: Decreasing
+  habitat: Coral reefs, seagrass beds, and rocky areas
+  distribution: Tropical and subtropical waters worldwide, abundant in Philippines
+  threats: Overfishing, habitat destruction of coral reefs, pollution, climate change
+    affecting coral health
+  importance: Critical for reef health (controls algae growth), important for coral
+    reef ecosystem balance, supports reef biodiversity
+  conservationEfforts: Marine protected areas, fishing regulations, reef conservation
+    programs, protection of key habitats
+  fishImage: {fileID: 5962689061485224524, guid: 822753d7b1f34b64bb86519f70518193, type: 3}
+  fishIcon: {fileID: 6406007137706226522, guid: a28f4d3bc08816446b2eb469407bded9, type: 3}
+  learnMoreHeadline: 
+  learnMoreCopy: 
+  learnMoreAction: 

@@ -1,0 +1,320 @@
+{
+  "npcDialogs": [
+    {
+      "npcName": "Christian",
+      "dialogs": [
+        {
+          "key": "first_meeting_no_mayor",
+          "value": {
+            "speakerName": "Christian",
+            "text": "This facility operates on appointment.\n\nGeneral inquiries should be directed to Mayor Andrew's office in Greenvale.\n\nGood day.",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 10,
+                "conditionKey": "Mayor Andrew",
+                "conditionValue": "false",
+                "expectedBool": true
+              }
+            ],
+            "triggersOnShow": [],
+            "choices": [],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "first_meeting_standard",
+          "value": {
+            "speakerName": "Christian",
+            "text": "Parameters stable... nitrate levels acceptable... biomass within optimal range...\n\nOh, a visitor. I'm Christian. I manage the Piscifield Hatchery.\n\nThe hatchery is currently undergoing maintenance. No training available.",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 10,
+                "conditionKey": "Mayor Andrew",
+                "conditionValue": "true"
+              },
+              {
+                "conditionType": 10,
+                "conditionKey": "Christian",
+                "conditionValue": "false",
+                "expectedBool": true
+              }
+            ],
+            "triggersOnShow": [
+              "RecordTalkedToNPC:Christian"
+            ],
+            "choices": [
+              {
+                "choiceText": "What happened to the hatchery?",
+                "resultDialogId": "hatchery_status",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Do you have any advice about fishing?",
+                "resultDialogId": "fishing_advice",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Just wanted to say hello.",
+                "resultDialogId": "hello_response",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "hatchery_status",
+          "value": {
+            "speakerName": "Christian",
+            "text": "The hatchery is temporarily closed for system upgrades.\n\nWe're recalibrating water filtration and breeding protocols.\n\nUntil then, focus on sustainable wild fishing with Vincent.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "Do you have any advice about fishing?",
+                "resultDialogId": "fishing_advice",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Thanks for the information.",
+                "resultDialogId": "end_conversation",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "fishing_advice",
+          "value": {
+            "speakerName": "Christian",
+            "text": "From a scientific perspective: monitor the Population Health Meter closely.\n\nIt's a direct indicator of ecosystem stress. Below 40% requires immediate action.\n\nRemember, sustainable fishing isn't just practice—it's data-driven responsibility.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "What about processing fish?",
+                "resultDialogId": "processing_advice",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Thanks for the advice.",
+                "resultDialogId": "end_conversation",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "processing_advice",
+          "value": {
+            "speakerName": "Christian",
+            "text": "Processing efficiency is measurable. Clean cuts reduce waste by approximately 15%.\n\nRuben can teach you proper technique. Waste reduction equals sustainability increase.\n\nIt's a simple equation with significant environmental impact.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "What about the hatchery's future?",
+                "resultDialogId": "hatchery_future",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Thanks for the advice.",
+                "resultDialogId": "end_conversation",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "hatchery_future",
+          "value": {
+            "speakerName": "Christian",
+            "text": "The hatchery will reopen once system integrity is verified.\n\nWe plan to reintroduce sustainable breeding programs for local species.\n\nBut for now, your focus should be on mastering wild fishing stewardship.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "Thanks for the information.",
+                "resultDialogId": "end_conversation",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "hello_response",
+          "value": {
+            "speakerName": "Christian",
+            "text": "Acknowledged. Hello.\n\nIf you require stewardship advice, I recommend consulting Vincent or Ruben.\n\nThe hatchery will resume operations at a future date.",
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "end_conversation",
+          "value": {
+            "speakerName": "Christian",
+            "text": "Conversation terminated. Return to your stewardship duties.\n\nRemember: sustainable practices are quantifiable. Measure your impact.",
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "post_fishing_tutorial",
+          "value": {
+            "speakerName": "Christian",
+            "text": "I've observed your fishing patterns. The data is promising.\n\nMaintaining population health above 70% indicates effective stewardship.\n\nContinue applying Vincent's methods. They're empirically sound.",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 3,
+                "conditionKey": "FISHING_TUTORIAL",
+                "conditionValue": "COMPLETED"
+              },
+              {
+                "conditionType": 7,
+                "conditionKey": "SafeportHealth",
+                "conditionValue": "70",
+                "comparison": "GREATER_THAN"
+              }
+            ],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "Any advice for maintaining this?",
+                "resultDialogId": "fishing_advice",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Thanks, I'll keep it up.",
+                "resultDialogId": "end_conversation",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "low_health_warning",
+          "value": {
+            "speakerName": "Christian",
+            "text": "Alert: Safeport Population Health is critically low.\n\nCurrent readings indicate unsustainable fishing pressure.\n\nImmediate conservation measures are required. Consult Nash.",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 7,
+                "conditionKey": "SafeportHealth",
+                "conditionValue": "40",
+                "comparison": "LESS_THAN"
+              }
+            ],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "What should I do?",
+                "resultDialogId": "recovery_advice",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "I understand.",
+                "resultDialogId": "end_conversation",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "recovery_advice",
+          "value": {
+            "speakerName": "Christian",
+            "text": "Recommendation: Reduce fishing frequency by 50%.\n\nFocus on processing existing catch rather than acquiring new.\n\nAllow the ecosystem time to regenerate. This is non-negotiable.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "Thanks for the advice.",
+                "resultDialogId": "end_conversation",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "default",
+          "value": {
+            "speakerName": "Christian",
+            "text": "Do you require information, or are you here for status updates?\n\nState your query concisely.",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 10,
+                "conditionKey": "Christian",
+                "conditionValue": "true"
+              }
+            ],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "What's the hatchery status?",
+                "resultDialogId": "hatchery_status",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Do you have fishing advice?",
+                "resultDialogId": "fishing_advice",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "How's the population health?",
+                "resultDialogId": "",
+                "triggersOnChoose": ["CheckPopulationHealth"],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Just saying hello.",
+                "resultDialogId": "hello_response",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        }
+      ]
+    }
+  ]
+}

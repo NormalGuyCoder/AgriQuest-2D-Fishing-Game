@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 6cb051b8f0ccf764199d24d47d0258ba
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7460219068578290842
+    second: Exterior Tiles_0
+  - first:
+      213: -4409431071886002369
+    second: Exterior Tiles_1
+  - first:
+      213: 1428610976883841338
+    second: Exterior Tiles_2
+  - first:
+      213: 2526444117933915491
+    second: Exterior Tiles_3
+  - first:
+      213: -4389383935575915533
+    second: Exterior Tiles_4
+  - first:
+      213: 8269896083796286885
+    second: Exterior Tiles_5
+  - first:
+      213: 1117668331616310400
+    second: Exterior Tiles_6
+  - first:
+      213: -6595925295186558602
+    second: Exterior Tiles_7
+  - first:
+      213: -4066759232645763193
+    second: Exterior Tiles_8
+  - first:
+      213: 6299339374749975178
+    second: Exterior Tiles_9
+  - first:
+      213: 5935085484580791001
+    second: Exterior Tiles_10
+  - first:
+      213: -5204313351320437964
+    second: Exterior Tiles_11
+  - first:
+      213: 4383571769344278429
+    second: Exterior Tiles_12
+  - first:
+      213: 327534349441073241
+    second: Exterior Tiles_13
+  - first:
+      213: -7072125123115615399
+    second: Exterior Tiles_14
+  - first:
+      213: -1798306982996417987
+    second: Exterior Tiles_15
+  - first:
+      213: 3275983793436628895
+    second: Exterior Tiles_16
+  - first:
+      213: 640247560300949765
+    second: Exterior Tiles_17
+  - first:
+      213: 1732557427350731572
+    second: Exterior Tiles_18
+  - first:
+      213: 7896867196196674568
+    second: Exterior Tiles_19
+  - first:
+      213: 2945777658717444135
+    second: Exterior Tiles_20
+  - first:
+      213: 6248770437770512396
+    second: Exterior Tiles_21
+  - first:
+      213: 7467302277621445849
+    second: Exterior Tiles_22
+  - first:
+      213: -8619410977108258996
+    second: Exterior Tiles_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Exterior Tiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 975
+        width: 65
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663abc6784af77890800000000000000
+      internalID: -7460219068578290842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exterior Tiles_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 911
+        width: 206
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f373aa26dcd8ec2c0800000000000000
+      internalID: -4409431071886002369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exterior Tiles_2
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1016
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3992674d1273d310800000000000000
+      internalID: 1428610976883841338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exterior Tiles_3
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1008
+        width: 17
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36d73522a8bbf0320800000000000000
+      internalID: 2526444117933915491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exterior Tiles_4
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 1004
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f301390196c513c0800000000000000
+      internalID: -4389383935575915533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exterior Tiles_5
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 991
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad52142ca294c270800000000000000
+      internalID: 8269896083796286885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exterior Tiles_6
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 938
+        width: 74
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08491ba0d61c28f00800000000000000
+      internalID: 1117668331616310400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exterior Tiles_7
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 927
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 671446704e09674a0800000000000000
+      internalID: -6595925295186558602
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exterior Tiles_8
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 964
+        width: 66
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78feb174608ff87c0800000000000000
+      internalID: -4066759232645763193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exterior Tiles_9
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 896
+        width: 188
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a828a9739cfbb6750800000000000000
+      internalID: 6299339374749975178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exterior Tiles_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 961
+        height: 961
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d2e3048dc8ad5250800000000000000
+      internalID: 5935085484580791001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exterior Tiles_11
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 959
+        width: 82
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43bf8b2a49096c7b0800000000000000
+      internalID: -5204313351320437964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exterior Tiles_12
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 895
+        width: 70
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9f323f8c4395dc30800000000000000
+      internalID: 4383571769344278429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exterior Tiles_13
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 896
+        width: 235
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9508c2661c2ab8400800000000000000
+      internalID: 327534349441073241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exterior Tiles_14
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 782
+        width: 233
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95bf3959ba3cadd90800000000000000
+      internalID: -7072125123115615399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exterior Tiles_15
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 560
+        width: 129
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32e469a3512b07e0800000000000000
+      internalID: -1798306982996417987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exterior Tiles_16
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 487
+        width: 98
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f971ab937e1a67d20800000000000000
+      internalID: 3275983793436628895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exterior Tiles_17
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 352
+        width: 24
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5017c0093cd92e800800000000000000
+      internalID: 640247560300949765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exterior Tiles_18
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 323
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43b743afcc74b0810800000000000000
+      internalID: 1732557427350731572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exterior Tiles_19
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 352
+        width: 24
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cdcb320ee479d60800000000000000
+      internalID: 7896867196196674568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exterior Tiles_20
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 323
+        width: 24
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72892275c2181e820800000000000000
+      internalID: 2945777658717444135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exterior Tiles_21
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 287
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0806421b9718b650800000000000000
+      internalID: 6248770437770512396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exterior Tiles_22
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 287
+        width: 27
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d47718abdf21a760800000000000000
+      internalID: 7467302277621445849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exterior Tiles_23
+      rect:
+        serializedVersion: 2
+        x: 930
+        y: 96
+        width: 94
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f0c584263b16880800000000000000
+      internalID: -8619410977108258996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Exterior Tiles_0: -7460219068578290842
+      Exterior Tiles_1: -4409431071886002369
+      Exterior Tiles_10: 5935085484580791001
+      Exterior Tiles_11: -5204313351320437964
+      Exterior Tiles_12: 4383571769344278429
+      Exterior Tiles_13: 327534349441073241
+      Exterior Tiles_14: -7072125123115615399
+      Exterior Tiles_15: -1798306982996417987
+      Exterior Tiles_16: 3275983793436628895
+      Exterior Tiles_17: 640247560300949765
+      Exterior Tiles_18: 1732557427350731572
+      Exterior Tiles_19: 7896867196196674568
+      Exterior Tiles_2: 1428610976883841338
+      Exterior Tiles_20: 2945777658717444135
+      Exterior Tiles_21: 6248770437770512396
+      Exterior Tiles_22: 7467302277621445849
+      Exterior Tiles_23: -8619410977108258996
+      Exterior Tiles_3: 2526444117933915491
+      Exterior Tiles_4: -4389383935575915533
+      Exterior Tiles_5: 8269896083796286885
+      Exterior Tiles_6: 1117668331616310400
+      Exterior Tiles_7: -6595925295186558602
+      Exterior Tiles_8: -4066759232645763193
+      Exterior Tiles_9: 6299339374749975178
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1209 @@
+fileFormatVersion: 2
+guid: 3e27ef038fcde0849813bd63c3bc482f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3268053101123740334
+    second: LPC Doors Animated_0
+  - first:
+      213: 7130863330547218082
+    second: LPC Doors Animated_1
+  - first:
+      213: -1961301277523452599
+    second: LPC Doors Animated_2
+  - first:
+      213: 8010755869430321646
+    second: LPC Doors Animated_3
+  - first:
+      213: 6923261612679046996
+    second: LPC Doors Animated_4
+  - first:
+      213: -5609581212009158920
+    second: LPC Doors Animated_5
+  - first:
+      213: -3958811706165026518
+    second: LPC Doors Animated_6
+  - first:
+      213: -3735316928232417791
+    second: LPC Doors Animated_7
+  - first:
+      213: -6895679385236661234
+    second: LPC Doors Animated_8
+  - first:
+      213: 4765439526044862573
+    second: LPC Doors Animated_9
+  - first:
+      213: 5605523116478902645
+    second: LPC Doors Animated_10
+  - first:
+      213: -1444446953681643833
+    second: LPC Doors Animated_11
+  - first:
+      213: -2238669814324810122
+    second: LPC Doors Animated_12
+  - first:
+      213: 7026434934324332628
+    second: LPC Doors Animated_13
+  - first:
+      213: -2696748818450604840
+    second: LPC Doors Animated_14
+  - first:
+      213: -8789719139835204322
+    second: LPC Doors Animated_15
+  - first:
+      213: -4451508494070909098
+    second: LPC Doors Animated_16
+  - first:
+      213: 4416093559214524365
+    second: LPC Doors Animated_17
+  - first:
+      213: -840168802386963792
+    second: LPC Doors Animated_18
+  - first:
+      213: -6383653611332773916
+    second: LPC Doors Animated_19
+  - first:
+      213: -75778286467780181
+    second: LPC Doors Animated_20
+  - first:
+      213: -6794670877440009353
+    second: LPC Doors Animated_21
+  - first:
+      213: 5124894349574538644
+    second: LPC Doors Animated_22
+  - first:
+      213: -5079416372090577633
+    second: LPC Doors Animated_23
+  - first:
+      213: 8494056510229540052
+    second: LPC Doors Animated_24
+  - first:
+      213: -3845101947761775925
+    second: LPC Doors Animated_25
+  - first:
+      213: 48777320939445800
+    second: LPC Doors Animated_26
+  - first:
+      213: 4903207696703635097
+    second: LPC Doors Animated_27
+  - first:
+      213: -637615740054073603
+    second: LPC Doors Animated_28
+  - first:
+      213: -7586440739630259092
+    second: LPC Doors Animated_29
+  - first:
+      213: -1733179368577241817
+    second: LPC Doors Animated_30
+  - first:
+      213: 1632212662373100822
+    second: LPC Doors Animated_31
+  - first:
+      213: 8924319825433437114
+    second: LPC Doors Animated_32
+  - first:
+      213: -3609780889521756705
+    second: LPC Doors Animated_33
+  - first:
+      213: 8846067705692873613
+    second: LPC Doors Animated_34
+  - first:
+      213: 3782016293733425802
+    second: LPC Doors Animated_35
+  - first:
+      213: 2047380486264312996
+    second: LPC Doors Animated_36
+  - first:
+      213: -1588331522366278117
+    second: LPC Doors Animated_37
+  - first:
+      213: -4348989820861979206
+    second: LPC Doors Animated_38
+  - first:
+      213: -6512389089129361969
+    second: LPC Doors Animated_39
+  - first:
+      213: 94212363453564492
+    second: LPC Doors Animated_40
+  - first:
+      213: -1016601892527505677
+    second: LPC Doors Animated_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LPC Doors Animated_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 463
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea228970bf47a5d20800000000000000
+      internalID: 3268053101123740334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC Doors Animated_1
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 463
+        width: 10
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6302f0b6ae5f260800000000000000
+      internalID: 7130863330547218082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC Doors Animated_2
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 463
+        width: 8
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94dd1b721ee08c4e0800000000000000
+      internalID: -1961301277523452599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC Doors Animated_3
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 463
+        width: 10
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee115cb350ceb2f60800000000000000
+      internalID: 8010755869430321646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC Doors Animated_4
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 463
+        width: 10
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45725d671cd541060800000000000000
+      internalID: 6923261612679046996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC Doors Animated_5
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 463
+        width: 8
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f62d77cb93c622b0800000000000000
+      internalID: -5609581212009158920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC Doors Animated_6
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 367
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2120695ab97f09c0800000000000000
+      internalID: -3958811706165026518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC Doors Animated_7
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 367
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10614395b0d792cc0800000000000000
+      internalID: -3735316928232417791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC Doors Animated_8
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 367
+        width: 21
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c1cfd4220ad40a0800000000000000
+      internalID: -6895679385236661234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC Doors Animated_9
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 367
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d688284200e322240800000000000000
+      internalID: 4765439526044862573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC Doors Animated_10
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 367
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57137f93391dacd40800000000000000
+      internalID: 5605523116478902645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC Doors Animated_11
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 367
+        width: 21
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c619ec062b44fbe0800000000000000
+      internalID: -1444446953681643833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC Doors Animated_12
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 271
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ea7c33aa5aee0e0800000000000000
+      internalID: -2238669814324810122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC Doors Animated_13
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 271
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4580cc95859e28160800000000000000
+      internalID: 7026434934324332628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC Doors Animated_14
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 271
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dc1cc3dc39339ad0800000000000000
+      internalID: -2696748818450604840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC Doors Animated_15
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 271
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1daba22305a40680800000000000000
+      internalID: -8789719139835204322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC Doors Animated_16
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 271
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657f4481c901932c0800000000000000
+      internalID: -4451508494070909098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC Doors Animated_17
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 271
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc74fd3d1bd194d30800000000000000
+      internalID: 4416093559214524365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC Doors Animated_18
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 207
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b21c56fcee1754f0800000000000000
+      internalID: -840168802386963792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC Doors Animated_19
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 207
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7de5fccd4b867a0800000000000000
+      internalID: -6383653611332773916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC Doors Animated_20
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 207
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba17669cc08c2fef0800000000000000
+      internalID: -75778286467780181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC Doors Animated_21
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 207
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b1f7036da74b1a0800000000000000
+      internalID: -6794670877440009353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC Doors Animated_22
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 207
+        width: 34
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4950cc112484f1740800000000000000
+      internalID: 5124894349574538644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC Doors Animated_23
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 207
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ddc33b8b94289b0800000000000000
+      internalID: -5079416372090577633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC Doors Animated_24
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 135
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dc63528463f0e570800000000000000
+      internalID: 8494056510229540052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC Doors Animated_25
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 135
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca2f76962473aac0800000000000000
+      internalID: -3845101947761775925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC Doors Animated_26
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 135
+        width: 31
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ed0b707ba4da000800000000000000
+      internalID: 48777320939445800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC Doors Animated_27
+      rect:
+        serializedVersion: 2
+        x: 222
+        y: 143
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e3bfdfb61bb0440800000000000000
+      internalID: 4903207696703635097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC Doors Animated_28
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 143
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe01e6dcdbb627f0800000000000000
+      internalID: -637615740054073603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC Doors Animated_29
+      rect:
+        serializedVersion: 2
+        x: 350
+        y: 143
+        width: 31
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6469cc875c87b690800000000000000
+      internalID: -7586440739630259092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC Doors Animated_30
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 66
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72deaeb0c8282f7e0800000000000000
+      internalID: -1733179368577241817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC Doors Animated_31
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 66
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61da4a2c4c8c6a610800000000000000
+      internalID: 1632212662373100822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC Doors Animated_32
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 66
+        width: 20
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab3afe0299d89db70800000000000000
+      internalID: 8924319825433437114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC Doors Animated_33
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 79
+        width: 20
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5ef0b086b77edc0800000000000000
+      internalID: -3609780889521756705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC Doors Animated_34
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 79
+        width: 20
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83e0e8b5bb83ca70800000000000000
+      internalID: 8846067705692873613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC Doors Animated_35
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 79
+        width: 20
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8268baf7cb6c7430800000000000000
+      internalID: 3782016293733425802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC Doors Animated_36
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 10
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a4d9db64b1c96c10800000000000000
+      internalID: 2047380486264312996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC Doors Animated_37
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 0
+        width: 10
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b167dcf45ec15f9e0800000000000000
+      internalID: -1588331522366278117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC Doors Animated_38
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 0
+        width: 8
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab56bb3ccc845a3c0800000000000000
+      internalID: -4348989820861979206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC Doors Animated_39
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 15
+        width: 10
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd8057a0a85f95a0800000000000000
+      internalID: -6512389089129361969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC Doors Animated_40
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 15
+        width: 10
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c46891935a5be4100800000000000000
+      internalID: 94212363453564492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LPC Doors Animated_41
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 15
+        width: 8
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe78e507fd44e1f0800000000000000
+      internalID: -1016601892527505677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      LPC Doors Animated_0: 3268053101123740334
+      LPC Doors Animated_1: 7130863330547218082
+      LPC Doors Animated_10: 5605523116478902645
+      LPC Doors Animated_11: -1444446953681643833
+      LPC Doors Animated_12: -2238669814324810122
+      LPC Doors Animated_13: 7026434934324332628
+      LPC Doors Animated_14: -2696748818450604840
+      LPC Doors Animated_15: -8789719139835204322
+      LPC Doors Animated_16: -4451508494070909098
+      LPC Doors Animated_17: 4416093559214524365
+      LPC Doors Animated_18: -840168802386963792
+      LPC Doors Animated_19: -6383653611332773916
+      LPC Doors Animated_2: -1961301277523452599
+      LPC Doors Animated_20: -75778286467780181
+      LPC Doors Animated_21: -6794670877440009353
+      LPC Doors Animated_22: 5124894349574538644
+      LPC Doors Animated_23: -5079416372090577633
+      LPC Doors Animated_24: 8494056510229540052
+      LPC Doors Animated_25: -3845101947761775925
+      LPC Doors Animated_26: 48777320939445800
+      LPC Doors Animated_27: 4903207696703635097
+      LPC Doors Animated_28: -637615740054073603
+      LPC Doors Animated_29: -7586440739630259092
+      LPC Doors Animated_3: 8010755869430321646
+      LPC Doors Animated_30: -1733179368577241817
+      LPC Doors Animated_31: 1632212662373100822
+      LPC Doors Animated_32: 8924319825433437114
+      LPC Doors Animated_33: -3609780889521756705
+      LPC Doors Animated_34: 8846067705692873613
+      LPC Doors Animated_35: 3782016293733425802
+      LPC Doors Animated_36: 2047380486264312996
+      LPC Doors Animated_37: -1588331522366278117
+      LPC Doors Animated_38: -4348989820861979206
+      LPC Doors Animated_39: -6512389089129361969
+      LPC Doors Animated_4: 6923261612679046996
+      LPC Doors Animated_40: 94212363453564492
+      LPC Doors Animated_41: -1016601892527505677
+      LPC Doors Animated_5: -5609581212009158920
+      LPC Doors Animated_6: -3958811706165026518
+      LPC Doors Animated_7: -3735316928232417791
+      LPC Doors Animated_8: -6895679385236661234
+      LPC Doors Animated_9: 4765439526044862573
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,590 @@
+{
+  "fish": [
+    {
+      "fishType": "Galunggong",
+      "displayName": "Galunggong (Round Scad)",
+      "difficulty": 1,
+      "educationalInfo": "Common Filipino staple fish. Simple rib and pin bones; great for learning deboning basics.",
+      "description": "Affordable and widely eaten. Straightforward bone structure.",
+      "timeLimitSeconds": 85,
+      "spineBoneCount": 1,
+      "ribBoneCount": 3,
+      "pinBoneCount": 2,
+      "habitat": "Coastal pelagic waters of the Philippines",
+      "cookingTips": "Fry whole or fillet and grill. Ensure pin bones are removed along the sides.",
+      "bones": [
+        { "name": "Main Spine", "x": 300, "y": 200, "width": 20, "height": 300, "boneType": "Spine" },
+        { "name": "Rib 1", "x": 280, "y": 150, "width": 16, "height": 80, "boneType": "Rib" },
+        { "name": "Rib 2", "x": 320, "y": 150, "width": 16, "height": 80, "boneType": "Rib" },
+        { "name": "Pin Bone 1", "x": 250, "y": 180, "width": 8, "height": 15, "boneType": "Pin" },
+        { "name": "Pin Bone 2", "x": 350, "y": 180, "width": 8, "height": 15, "boneType": "Pin" }
+      ]
+    },
+    {
+      "fishType": "Tamban",
+      "displayName": "Tamban (Sardine)",
+      "difficulty": 1,
+      "educationalInfo": "Small fish with delicate bones. Teaches careful tweezers work.",
+      "description": "Small oily fish used for ginataan or paksiw.",
+      "timeLimitSeconds": 80,
+      "spineBoneCount": 1,
+      "ribBoneCount": 2,
+      "pinBoneCount": 3,
+      "habitat": "Nearshore schooling fish",
+      "cookingTips": "Best cooked fresh; remove pin bones before canning-style recipes.",
+      "bones": [
+        { "name": "Main Spine", "x": 300, "y": 200, "width": 18, "height": 280, "boneType": "Spine" },
+        { "name": "Rib 1", "x": 285, "y": 150, "width": 14, "height": 70, "boneType": "Rib" },
+        { "name": "Rib 2", "x": 315, "y": 150, "width": 14, "height": 70, "boneType": "Rib" },
+        { "name": "Pin Bone 1", "x": 260, "y": 175, "width": 7, "height": 14, "boneType": "Pin" },
+        { "name": "Pin Bone 2", "x": 340, "y": 175, "width": 7, "height": 14, "boneType": "Pin" },
+        { "name": "Pin Bone 3", "x": 300, "y": 170, "width": 7, "height": 14, "boneType": "Pin" }
+      ]
+    },
+    {
+      "fishType": "Tulingan",
+      "displayName": "Tulingan (Mackerel Tuna)",
+      "difficulty": 2,
+      "educationalInfo": "Firm fish with a clear spine and ribs; teaches clean knife work before pin bone removal.",
+      "description": "Used for sinaing na tulingan; moderate bone complexity.",
+      "timeLimitSeconds": 110,
+      "spineBoneCount": 1,
+      "ribBoneCount": 4,
+      "pinBoneCount": 3,
+      "habitat": "Open waters; coastal pelagic",
+      "cookingTips": "Score along ribs with a knife first, then pull pins with tweezers.",
+      "bones": [
+        { "name": "Main Spine", "x": 300, "y": 200, "width": 24, "height": 320, "boneType": "Spine" },
+        { "name": "Rib 1", "x": 276, "y": 145, "width": 18, "height": 90, "boneType": "Rib" },
+        { "name": "Rib 2", "x": 324, "y": 145, "width": 18, "height": 90, "boneType": "Rib" },
+        { "name": "Rib 3", "x": 266, "y": 115, "width": 18, "height": 70, "boneType": "Rib" },
+        { "name": "Pin Bone 1", "x": 245, "y": 170, "width": 10, "height": 18, "boneType": "Pin" },
+        { "name": "Pin Bone 2", "x": 355, "y": 170, "width": 10, "height": 18, "boneType": "Pin" },
+        { "name": "Pin Bone 3", "x": 235, "y": 150, "width": 10, "height": 18, "boneType": "Pin" }
+      ]
+    },
+    {
+      "fishType": "Tanigue",
+      "displayName": "Tanigue (Spanish Mackerel)",
+      "difficulty": 2,
+      "educationalInfo": "Long spine and sturdy ribs; good for practicing long cuts and pin bone pulls.",
+      "description": "Popular for steaks and kinilaw.",
+      "timeLimitSeconds": 120,
+      "spineBoneCount": 1,
+      "ribBoneCount": 4,
+      "pinBoneCount": 4,
+      "habitat": "Open ocean, near reefs",
+      "cookingTips": "After filleting, run fingers along lateral line to find and pull pins.",
+      "bones": [
+        { "name": "Main Spine", "x": 300, "y": 200, "width": 24, "height": 330, "boneType": "Spine" },
+        { "name": "Rib 1", "x": 275, "y": 140, "width": 18, "height": 90, "boneType": "Rib" },
+        { "name": "Rib 2", "x": 325, "y": 140, "width": 18, "height": 90, "boneType": "Rib" },
+        { "name": "Rib 3", "x": 265, "y": 110, "width": 18, "height": 70, "boneType": "Rib" },
+        { "name": "Pin Bone 1", "x": 245, "y": 170, "width": 10, "height": 18, "boneType": "Pin" },
+        { "name": "Pin Bone 2", "x": 355, "y": 170, "width": 10, "height": 18, "boneType": "Pin" },
+        { "name": "Pin Bone 3", "x": 235, "y": 150, "width": 10, "height": 18, "boneType": "Pin" },
+        { "name": "Pin Bone 4", "x": 365, "y": 150, "width": 10, "height": 18, "boneType": "Pin" }
+      ]
+    },
+    {
+      "fishType": "LapuLapu",
+      "displayName": "Lapu-Lapu (Grouper)",
+      "difficulty": 2,
+      "educationalInfo": "Thick bones and firm flesh; emphasizes careful knife paths around ribs.",
+      "description": "Premium reef fish used in steamed whole preparations.",
+      "timeLimitSeconds": 115,
+      "spineBoneCount": 1,
+      "ribBoneCount": 4,
+      "pinBoneCount": 2,
+      "habitat": "Coral reefs and rocky areas",
+      "cookingTips": "Use long, shallow cuts to free rib bones before pulling smaller pins.",
+      "bones": [
+        { "name": "Main Spine", "x": 300, "y": 200, "width": 22, "height": 310, "boneType": "Spine" },
+        { "name": "Rib 1", "x": 278, "y": 145, "width": 17, "height": 85, "boneType": "Rib" },
+        { "name": "Rib 2", "x": 322, "y": 145, "width": 17, "height": 85, "boneType": "Rib" },
+        { "name": "Rib 3", "x": 268, "y": 115, "width": 17, "height": 65, "boneType": "Rib" },
+        { "name": "Pin Bone 1", "x": 248, "y": 175, "width": 9, "height": 16, "boneType": "Pin" },
+        { "name": "Pin Bone 2", "x": 352, "y": 175, "width": 9, "height": 16, "boneType": "Pin" }
+      ]
+    },
+    {
+      "fishType": "DalagangBukid",
+      "displayName": "Dalagang Bukid (Yellowtail Fusilier)",
+      "difficulty": 1,
+      "educationalInfo": "Light rib bones; great for introductory deboning.",
+      "description": "Popular fried whole; mild flavor.",
+      "timeLimitSeconds": 90,
+      "spineBoneCount": 1,
+      "ribBoneCount": 3,
+      "pinBoneCount": 2,
+      "habitat": "Reef edges and nearshore waters",
+      "cookingTips": "After fillet, sweep with tweezers along the lateral line for pins.",
+      "bones": [
+        { "name": "Main Spine", "x": 300, "y": 200, "width": 20, "height": 300, "boneType": "Spine" },
+        { "name": "Rib 1", "x": 282, "y": 148, "width": 15, "height": 78, "boneType": "Rib" },
+        { "name": "Rib 2", "x": 318, "y": 148, "width": 15, "height": 78, "boneType": "Rib" },
+        { "name": "Pin Bone 1", "x": 255, "y": 178, "width": 8, "height": 15, "boneType": "Pin" },
+        { "name": "Pin Bone 2", "x": 345, "y": 178, "width": 8, "height": 15, "boneType": "Pin" }
+      ]
+    },
+    {
+      "fishType": "Talakitok",
+      "displayName": "Talakitok (Giant Trevally)",
+      "difficulty": 3,
+      "educationalInfo": "Dense frame with strong ribs; advanced trimming and pin removal.",
+      "description": "Sport fish; meaty and flavorful.",
+      "timeLimitSeconds": 140,
+      "spineBoneCount": 1,
+      "ribBoneCount": 5,
+      "pinBoneCount": 5,
+      "habitat": "Reefs and open water",
+      "cookingTips": "Follow bone lines carefully; pins are thicker than small reef fish.",
+      "bones": [
+        { "name": "Main Spine", "x": 300, "y": 200, "width": 26, "height": 335, "boneType": "Spine" },
+        { "name": "Rib 1", "x": 274, "y": 140, "width": 19, "height": 92, "boneType": "Rib" },
+        { "name": "Rib 2", "x": 326, "y": 140, "width": 19, "height": 92, "boneType": "Rib" },
+        { "name": "Rib 3", "x": 264, "y": 110, "width": 19, "height": 72, "boneType": "Rib" },
+        { "name": "Pin Bone 1", "x": 244, "y": 168, "width": 11, "height": 19, "boneType": "Pin" },
+        { "name": "Pin Bone 2", "x": 356, "y": 168, "width": 11, "height": 19, "boneType": "Pin" },
+        { "name": "Pin Bone 3", "x": 234, "y": 148, "width": 11, "height": 19, "boneType": "Pin" },
+        { "name": "Pin Bone 4", "x": 366, "y": 148, "width": 11, "height": 19, "boneType": "Pin" },
+        { "name": "Pin Bone 5", "x": 300, "y": 160, "width": 11, "height": 19, "boneType": "Pin" }
+      ]
+    },
+    {
+      "fishType": "Danggit",
+      "displayName": "Danggit (Rabbitfish)",
+      "difficulty": 1,
+      "educationalInfo": "Flat fish often butterflied; simple rib/pin pattern.",
+      "description": "Common dried fish; also cooked fresh.",
+      "timeLimitSeconds": 85,
+      "spineBoneCount": 1,
+      "ribBoneCount": 3,
+      "pinBoneCount": 2,
+      "habitat": "Seagrass beds and reefs",
+      "cookingTips": "After butterflying, run along rib edges to free bones.",
+      "bones": [
+        { "name": "Main Spine", "x": 300, "y": 200, "width": 18, "height": 280, "boneType": "Spine" },
+        { "name": "Rib 1", "x": 286, "y": 152, "width": 14, "height": 76, "boneType": "Rib" },
+        { "name": "Rib 2", "x": 314, "y": 152, "width": 14, "height": 76, "boneType": "Rib" },
+        { "name": "Pin Bone 1", "x": 260, "y": 180, "width": 8, "height": 15, "boneType": "Pin" },
+        { "name": "Pin Bone 2", "x": 340, "y": 180, "width": 8, "height": 15, "boneType": "Pin" }
+      ]
+    },
+    {
+      "fishType": "Bisugo",
+      "displayName": "Bisugo (Threadfin Bream)",
+      "difficulty": 1,
+      "educationalInfo": "Slender body with neat rib lines; entry-level practice.",
+      "description": "Mild and versatile; great fried or steamed.",
+      "timeLimitSeconds": 90,
+      "spineBoneCount": 1,
+      "ribBoneCount": 3,
+      "pinBoneCount": 2,
+      "habitat": "Sandy bottoms near reefs",
+      "cookingTips": "Use shallow cuts to trace ribs, then remove pins.",
+      "bones": [
+        { "name": "Main Spine", "x": 300, "y": 200, "width": 20, "height": 300, "boneType": "Spine" },
+        { "name": "Rib 1", "x": 282, "y": 145, "width": 15, "height": 78, "boneType": "Rib" },
+        { "name": "Rib 2", "x": 318, "y": 145, "width": 15, "height": 78, "boneType": "Rib" },
+        { "name": "Pin Bone 1", "x": 255, "y": 178, "width": 8, "height": 15, "boneType": "Pin" },
+        { "name": "Pin Bone 2", "x": 345, "y": 178, "width": 8, "height": 15, "boneType": "Pin" }
+      ]
+    },
+    {
+      "fishType": "Kitang",
+      "displayName": "Kitang (Silver Batfish)",
+      "difficulty": 2,
+      "educationalInfo": "Wide body; emphasizes consistent pin bone checks after rib work.",
+      "description": "Distinct shape; firm flesh.",
+      "timeLimitSeconds": 105,
+      "spineBoneCount": 1,
+      "ribBoneCount": 4,
+      "pinBoneCount": 3,
+      "habitat": "Reefs and brackish waters",
+      "cookingTips": "After filleting, sweep across widest section for hidden pins.",
+      "bones": [
+        { "name": "Main Spine", "x": 300, "y": 200, "width": 22, "height": 310, "boneType": "Spine" },
+        { "name": "Rib 1", "x": 278, "y": 145, "width": 17, "height": 85, "boneType": "Rib" },
+        { "name": "Rib 2", "x": 322, "y": 145, "width": 17, "height": 85, "boneType": "Rib" },
+        { "name": "Rib 3", "x": 268, "y": 115, "width": 17, "height": 65, "boneType": "Rib" },
+        { "name": "Pin Bone 1", "x": 248, "y": 175, "width": 9, "height": 16, "boneType": "Pin" },
+        { "name": "Pin Bone 2", "x": 352, "y": 175, "width": 9, "height": 16, "boneType": "Pin" },
+        { "name": "Pin Bone 3", "x": 300, "y": 170, "width": 9, "height": 16, "boneType": "Pin" }
+      ]
+    },
+    {
+      "fishType": "HasaHasa",
+      "displayName": "Hasa-hasa (Short Mackerel)",
+      "difficulty": 1,
+      "educationalInfo": "Mild complexity; good progression from beginner fish.",
+      "description": "Often grilled or fried; meaty flakes.",
+      "timeLimitSeconds": 95,
+      "spineBoneCount": 1,
+      "ribBoneCount": 3,
+      "pinBoneCount": 3,
+      "habitat": "Coastal waters",
+      "cookingTips": "Trace ribs first, then locate lateral pin bones by feel.",
+      "bones": [
+        { "name": "Main Spine", "x": 300, "y": 200, "width": 20, "height": 300, "boneType": "Spine" },
+        { "name": "Rib 1", "x": 280, "y": 150, "width": 16, "height": 80, "boneType": "Rib" },
+        { "name": "Rib 2", "x": 320, "y": 150, "width": 16, "height": 80, "boneType": "Rib" },
+        { "name": "Pin Bone 1", "x": 250, "y": 180, "width": 8, "height": 15, "boneType": "Pin" },
+        { "name": "Pin Bone 2", "x": 350, "y": 180, "width": 8, "height": 15, "boneType": "Pin" },
+        { "name": "Pin Bone 3", "x": 300, "y": 170, "width": 8, "height": 15, "boneType": "Pin" }
+      ]
+    },
+    {
+      "fishType": "Alumahan",
+      "displayName": "Alumahan (Indian Mackerel)",
+      "difficulty": 1,
+      "educationalInfo": "Classic market fish; learn consistent deboning flow.",
+      "description": "Great for paksiw and fry.",
+      "timeLimitSeconds": 95,
+      "spineBoneCount": 1,
+      "ribBoneCount": 3,
+      "pinBoneCount": 2,
+      "habitat": "Nearshore tropical waters",
+      "cookingTips": "After spine cut, lift rib bones cleanly before tweezing pins.",
+      "bones": [
+        { "name": "Main Spine", "x": 300, "y": 200, "width": 20, "height": 300, "boneType": "Spine" },
+        { "name": "Rib 1", "x": 282, "y": 148, "width": 15, "height": 78, "boneType": "Rib" },
+        { "name": "Rib 2", "x": 318, "y": 148, "width": 15, "height": 78, "boneType": "Rib" },
+        { "name": "Pin Bone 1", "x": 255, "y": 178, "width": 8, "height": 15, "boneType": "Pin" },
+        { "name": "Pin Bone 2", "x": 345, "y": 178, "width": 8, "height": 15, "boneType": "Pin" }
+      ]
+    },
+    {
+      "fishType": "SalaySalay",
+      "displayName": "Salay-salay (Yellowstripe Scad)",
+      "difficulty": 1,
+      "educationalInfo": "Small scad; emphasizes precision with pins.",
+      "description": "Often dried or fried fresh.",
+      "timeLimitSeconds": 85,
+      "spineBoneCount": 1,
+      "ribBoneCount": 2,
+      "pinBoneCount": 3,
+      "habitat": "Schooling coastal fish",
+      "cookingTips": "Use narrow tweezers; pins are fine and break easily.",
+      "bones": [
+        { "name": "Main Spine", "x": 300, "y": 200, "width": 18, "height": 280, "boneType": "Spine" },
+        { "name": "Rib 1", "x": 286, "y": 152, "width": 14, "height": 76, "boneType": "Rib" },
+        { "name": "Rib 2", "x": 314, "y": 152, "width": 14, "height": 76, "boneType": "Rib" },
+        { "name": "Pin Bone 1", "x": 260, "y": 180, "width": 8, "height": 15, "boneType": "Pin" },
+        { "name": "Pin Bone 2", "x": 340, "y": 180, "width": 8, "height": 15, "boneType": "Pin" },
+        { "name": "Pin Bone 3", "x": 300, "y": 170, "width": 8, "height": 15, "boneType": "Pin" }
+      ]
+    },
+    {
+      "fishType": "Dilis",
+      "displayName": "Dilis (Anchovy)",
+      "difficulty": 1,
+      "educationalInfo": "Very small fish; teaches careful handling though usually eaten whole.",
+      "description": "Tiny fish used for paksiw, fritters, or dried.",
+      "timeLimitSeconds": 70,
+      "spineBoneCount": 1,
+      "ribBoneCount": 2,
+      "pinBoneCount": 2,
+      "habitat": "Coastal schools",
+      "cookingTips": "If deboning, use tweezers under magnification for practice only.",
+      "bones": [
+        { "name": "Main Spine", "x": 300, "y": 200, "width": 14, "height": 240, "boneType": "Spine" },
+        { "name": "Rib 1", "x": 292, "y": 160, "width": 10, "height": 60, "boneType": "Rib" },
+        { "name": "Rib 2", "x": 308, "y": 160, "width": 10, "height": 60, "boneType": "Rib" },
+        { "name": "Pin Bone 1", "x": 270, "y": 185, "width": 6, "height": 12, "boneType": "Pin" },
+        { "name": "Pin Bone 2", "x": 330, "y": 185, "width": 6, "height": 12, "boneType": "Pin" }
+      ]
+    },
+    {
+      "fishType": "Biya",
+      "displayName": "Biya (Gobies)",
+      "difficulty": 1,
+      "educationalInfo": "Small freshwater/brackish fish with simple bone map.",
+      "description": "Used in stews and fried whole.",
+      "timeLimitSeconds": 80,
+      "spineBoneCount": 1,
+      "ribBoneCount": 2,
+      "pinBoneCount": 2,
+      "habitat": "Rivers, lakes, and brackish waters",
+      "cookingTips": "For practice, fillet and pull lateral pins.",
+      "bones": [
+        { "name": "Main Spine", "x": 300, "y": 200, "width": 16, "height": 260, "boneType": "Spine" },
+        { "name": "Rib 1", "x": 288, "y": 155, "width": 12, "height": 70, "boneType": "Rib" },
+        { "name": "Rib 2", "x": 312, "y": 155, "width": 12, "height": 70, "boneType": "Rib" },
+        { "name": "Pin Bone 1", "x": 265, "y": 182, "width": 7, "height": 14, "boneType": "Pin" },
+        { "name": "Pin Bone 2", "x": 335, "y": 182, "width": 7, "height": 14, "boneType": "Pin" }
+      ]
+    },
+    {
+      "fishType": "Hito",
+      "displayName": "Hito (Catfish)",
+      "difficulty": 2,
+      "educationalInfo": "Freshwater fish with tough skin and firm rib bones.",
+      "description": "Common in ponds; used for inihaw and adobo.",
+      "timeLimitSeconds": 110,
+      "spineBoneCount": 1,
+      "ribBoneCount": 4,
+      "pinBoneCount": 2,
+      "habitat": "Rivers, ponds, and lakes",
+      "cookingTips": "Score skin carefully; ribs detach cleanly when traced.",
+      "bones": [
+        { "name": "Main Spine", "x": 300, "y": 200, "width": 22, "height": 310, "boneType": "Spine" },
+        { "name": "Rib 1", "x": 278, "y": 145, "width": 17, "height": 85, "boneType": "Rib" },
+        { "name": "Rib 2", "x": 322, "y": 145, "width": 17, "height": 85, "boneType": "Rib" },
+        { "name": "Rib 3", "x": 268, "y": 115, "width": 17, "height": 65, "boneType": "Rib" },
+        { "name": "Pin Bone 1", "x": 248, "y": 175, "width": 9, "height": 16, "boneType": "Pin" },
+        { "name": "Pin Bone 2", "x": 352, "y": 175, "width": 9, "height": 16, "boneType": "Pin" }
+      ]
+    },
+    {
+      "fishType": "Dalag",
+      "displayName": "Dalag (Snakehead)",
+      "difficulty": 2,
+      "educationalInfo": "Meaty freshwater fish; highlights clean rib release and pin checks.",
+      "description": "Used for paksiw, grill, or soup.",
+      "timeLimitSeconds": 120,
+      "spineBoneCount": 1,
+      "ribBoneCount": 4,
+      "pinBoneCount": 3,
+      "habitat": "Rice fields, lakes, rivers",
+      "cookingTips": "Fillet firmly; flesh holds while tracing rib cage.",
+      "bones": [
+        { "name": "Main Spine", "x": 300, "y": 200, "width": 22, "height": 310, "boneType": "Spine" },
+        { "name": "Rib 1", "x": 278, "y": 145, "width": 17, "height": 85, "boneType": "Rib" },
+        { "name": "Rib 2", "x": 322, "y": 145, "width": 17, "height": 85, "boneType": "Rib" },
+        { "name": "Rib 3", "x": 268, "y": 115, "width": 17, "height": 65, "boneType": "Rib" },
+        { "name": "Pin Bone 1", "x": 248, "y": 175, "width": 9, "height": 16, "boneType": "Pin" },
+        { "name": "Pin Bone 2", "x": 352, "y": 175, "width": 9, "height": 16, "boneType": "Pin" },
+        { "name": "Pin Bone 3", "x": 300, "y": 170, "width": 9, "height": 16, "boneType": "Pin" }
+      ]
+    },
+    {
+      "fishType": "Ayungin",
+      "displayName": "Ayungin (Silver Perchlet)",
+      "difficulty": 1,
+      "educationalInfo": "Delicate freshwater fish; basic rib and pin removal.",
+      "description": "Native lake fish; prized locally.",
+      "timeLimitSeconds": 85,
+      "spineBoneCount": 1,
+      "ribBoneCount": 3,
+      "pinBoneCount": 2,
+      "habitat": "Lakes and slow rivers",
+      "cookingTips": "For practice, fillet and tweeze pins for boneless dishes.",
+      "bones": [
+        { "name": "Main Spine", "x": 300, "y": 200, "width": 18, "height": 280, "boneType": "Spine" },
+        { "name": "Rib 1", "x": 286, "y": 152, "width": 14, "height": 76, "boneType": "Rib" },
+        { "name": "Rib 2", "x": 314, "y": 152, "width": 14, "height": 76, "boneType": "Rib" },
+        { "name": "Pin Bone 1", "x": 260, "y": 180, "width": 8, "height": 15, "boneType": "Pin" },
+        { "name": "Pin Bone 2", "x": 340, "y": 180, "width": 8, "height": 15, "boneType": "Pin" }
+      ]
+    },
+    {
+      "fishType": "Tawilis",
+      "displayName": "Tawilis (Sardinella tawilis)",
+      "difficulty": 1,
+      "educationalInfo": "Endemic sardine from Taal Lake; small and delicate.",
+      "description": "Unique freshwater sardine.",
+      "timeLimitSeconds": 80,
+      "spineBoneCount": 1,
+      "ribBoneCount": 2,
+      "pinBoneCount": 2,
+      "habitat": "Taal Lake (endemic)",
+      "cookingTips": "Usually cooked whole; for practice, tweeze pins gently.",
+      "bones": [
+        { "name": "Main Spine", "x": 300, "y": 200, "width": 16, "height": 260, "boneType": "Spine" },
+        { "name": "Rib 1", "x": 288, "y": 155, "width": 12, "height": 70, "boneType": "Rib" },
+        { "name": "Rib 2", "x": 312, "y": 155, "width": 12, "height": 70, "boneType": "Rib" },
+        { "name": "Pin Bone 1", "x": 265, "y": 182, "width": 7, "height": 14, "boneType": "Pin" },
+        { "name": "Pin Bone 2", "x": 335, "y": 182, "width": 7, "height": 14, "boneType": "Pin" }
+      ]
+    },
+    {
+      "fishType": "Samaral",
+      "displayName": "Samaral (Spinefoot/Rabbitfish)",
+      "difficulty": 1,
+      "educationalInfo": "Similar to danggit; flat profile aids rib tracing.",
+      "description": "Common in markets; mild taste.",
+      "timeLimitSeconds": 90,
+      "spineBoneCount": 1,
+      "ribBoneCount": 3,
+      "pinBoneCount": 2,
+      "habitat": "Seagrass and reef flats",
+      "cookingTips": "Butterfly for easier rib removal, then tweeze pins.",
+      "bones": [
+        { "name": "Main Spine", "x": 300, "y": 200, "width": 18, "height": 280, "boneType": "Spine" },
+        { "name": "Rib 1", "x": 286, "y": 152, "width": 14, "height": 76, "boneType": "Rib" },
+        { "name": "Rib 2", "x": 314, "y": 152, "width": 14, "height": 76, "boneType": "Rib" },
+        { "name": "Pin Bone 1", "x": 260, "y": 180, "width": 8, "height": 15, "boneType": "Pin" },
+        { "name": "Pin Bone 2", "x": 340, "y": 180, "width": 8, "height": 15, "boneType": "Pin" }
+      ]
+    },
+    {
+      "fishType": "Sapsap",
+      "displayName": "Sapsap (Ponyfish)",
+      "difficulty": 1,
+      "educationalInfo": "Small flat fish; straightforward ribs and few pins.",
+      "description": "Often fried or dried.",
+      "timeLimitSeconds": 85,
+      "spineBoneCount": 1,
+      "ribBoneCount": 2,
+      "pinBoneCount": 2,
+      "habitat": "Coastal and estuarine waters",
+      "cookingTips": "Use small tweezers for fine pins.",
+      "bones": [
+        { "name": "Main Spine", "x": 300, "y": 200, "width": 16, "height": 260, "boneType": "Spine" },
+        { "name": "Rib 1", "x": 288, "y": 155, "width": 12, "height": 70, "boneType": "Rib" },
+        { "name": "Rib 2", "x": 312, "y": 155, "width": 12, "height": 70, "boneType": "Rib" },
+        { "name": "Pin Bone 1", "x": 265, "y": 182, "width": 7, "height": 14, "boneType": "Pin" },
+        { "name": "Pin Bone 2", "x": 335, "y": 182, "width": 7, "height": 14, "boneType": "Pin" }
+      ]
+    },
+    {
+      "fishType": "Talilong",
+      "displayName": "Talilong (Bonito)",
+      "difficulty": 2,
+      "educationalInfo": "Small tuna relative; strong ribs and a few pins.",
+      "description": "Great grilled or kinilaw.",
+      "timeLimitSeconds": 110,
+      "spineBoneCount": 1,
+      "ribBoneCount": 4,
+      "pinBoneCount": 3,
+      "habitat": "Open coastal waters",
+      "cookingTips": "Keep cuts parallel to spine; pull pins along lateral line.",
+      "bones": [
+        { "name": "Main Spine", "x": 300, "y": 200, "width": 24, "height": 320, "boneType": "Spine" },
+        { "name": "Rib 1", "x": 276, "y": 145, "width": 18, "height": 90, "boneType": "Rib" },
+        { "name": "Rib 2", "x": 324, "y": 145, "width": 18, "height": 90, "boneType": "Rib" },
+        { "name": "Rib 3", "x": 266, "y": 115, "width": 18, "height": 70, "boneType": "Rib" },
+        { "name": "Pin Bone 1", "x": 245, "y": 170, "width": 10, "height": 18, "boneType": "Pin" },
+        { "name": "Pin Bone 2", "x": 355, "y": 170, "width": 10, "height": 18, "boneType": "Pin" },
+        { "name": "Pin Bone 3", "x": 235, "y": 150, "width": 10, "height": 18, "boneType": "Pin" }
+      ]
+    },
+    {
+      "fishType": "Talangka",
+      "displayName": "Talangka (Note: crustacean)",
+      "difficulty": 1,
+      "educationalInfo": "Not a finfish; included for dataset variety but usually not deboned.",
+      "description": "Small crab—skip for deboning gameplay.",
+      "timeLimitSeconds": 60,
+      "spineBoneCount": 0,
+      "ribBoneCount": 0,
+      "pinBoneCount": 0,
+      "habitat": "Estuaries",
+      "cookingTips": "N/A",
+      "bones": []
+    },
+    {
+      "fishType": "TalakitokBigeye",
+      "displayName": "Talakitok (Bigeye Trevally)",
+      "difficulty": 2,
+      "educationalInfo": "Trevally variant; similar deboning to giant trevally but smaller.",
+      "description": "Common variant in markets.",
+      "timeLimitSeconds": 120,
+      "spineBoneCount": 1,
+      "ribBoneCount": 4,
+      "pinBoneCount": 3,
+      "habitat": "Coastal reefs",
+      "cookingTips": "Check for thicker pins near shoulder.",
+      "bones": [
+        { "name": "Main Spine", "x": 300, "y": 200, "width": 22, "height": 310, "boneType": "Spine" },
+        { "name": "Rib 1", "x": 278, "y": 145, "width": 17, "height": 85, "boneType": "Rib" },
+        { "name": "Rib 2", "x": 322, "y": 145, "width": 17, "height": 85, "boneType": "Rib" },
+        { "name": "Rib 3", "x": 268, "y": 115, "width": 17, "height": 65, "boneType": "Rib" },
+        { "name": "Pin Bone 1", "x": 248, "y": 175, "width": 9, "height": 16, "boneType": "Pin" },
+        { "name": "Pin Bone 2", "x": 352, "y": 175, "width": 9, "height": 16, "boneType": "Pin" },
+        { "name": "Pin Bone 3", "x": 300, "y": 170, "width": 9, "height": 16, "boneType": "Pin" }
+      ]
+    },
+    {
+      "fishType": "MolMol",
+      "displayName": "Mol-mol (Parrotfish)",
+      "difficulty": 2,
+      "educationalInfo": "Reef fish with firm ribs; colorful scales.",
+      "description": "Cooked as sinugba or tinola in some regions.",
+      "timeLimitSeconds": 110,
+      "spineBoneCount": 1,
+      "ribBoneCount": 4,
+      "pinBoneCount": 2,
+      "habitat": "Coral reefs",
+      "cookingTips": "Scale thoroughly; ribs detach with steady long cuts.",
+      "bones": [
+        { "name": "Main Spine", "x": 300, "y": 200, "width": 22, "height": 310, "boneType": "Spine" },
+        { "name": "Rib 1", "x": 278, "y": 145, "width": 17, "height": 85, "boneType": "Rib" },
+        { "name": "Rib 2", "x": 322, "y": 145, "width": 17, "height": 85, "boneType": "Rib" },
+        { "name": "Rib 3", "x": 268, "y": 115, "width": 17, "height": 65, "boneType": "Rib" },
+        { "name": "Pin Bone 1", "x": 248, "y": 175, "width": 9, "height": 16, "boneType": "Pin" },
+        { "name": "Pin Bone 2", "x": 352, "y": 175, "width": 9, "height": 16, "boneType": "Pin" }
+      ]
+    },
+    {
+      "fishType": "Mamsa",
+      "displayName": "Mamsa (Rainbow Runner)",
+      "difficulty": 2,
+      "educationalInfo": "Pelagic fish; linear ribs and clear pin lines.",
+      "description": "Fast swimmer; firm flesh.",
+      "timeLimitSeconds": 120,
+      "spineBoneCount": 1,
+      "ribBoneCount": 4,
+      "pinBoneCount": 3,
+      "habitat": "Open tropical waters",
+      "cookingTips": "Keep blade parallel to ribs for clean removal.",
+      "bones": [
+        { "name": "Main Spine", "x": 300, "y": 200, "width": 24, "height": 320, "boneType": "Spine" },
+        { "name": "Rib 1", "x": 276, "y": 145, "width": 18, "height": 90, "boneType": "Rib" },
+        { "name": "Rib 2", "x": 324, "y": 145, "width": 18, "height": 90, "boneType": "Rib" },
+        { "name": "Rib 3", "x": 266, "y": 115, "width": 18, "height": 70, "boneType": "Rib" },
+        { "name": "Pin Bone 1", "x": 245, "y": 170, "width": 10, "height": 18, "boneType": "Pin" },
+        { "name": "Pin Bone 2", "x": 355, "y": 170, "width": 10, "height": 18, "boneType": "Pin" },
+        { "name": "Pin Bone 3", "x": 235, "y": 150, "width": 10, "height": 18, "boneType": "Pin" }
+      ]
+    },
+    {
+      "fishType": "TulinganBaby",
+      "displayName": "Tambakol (Yellowfin Tuna, small)",
+      "difficulty": 2,
+      "educationalInfo": "Juvenile yellowfin; moderate ribs and pins.",
+      "description": "Common market tuna size.",
+      "timeLimitSeconds": 125,
+      "spineBoneCount": 1,
+      "ribBoneCount": 4,
+      "pinBoneCount": 3,
+      "habitat": "Open ocean",
+      "cookingTips": "Similar to larger tuna but scaled down steps.",
+      "bones": [
+        { "name": "Main Spine", "x": 300, "y": 200, "width": 24, "height": 320, "boneType": "Spine" },
+        { "name": "Rib 1", "x": 276, "y": 145, "width": 18, "height": 90, "boneType": "Rib" },
+        { "name": "Rib 2", "x": 324, "y": 145, "width": 18, "height": 90, "boneType": "Rib" },
+        { "name": "Rib 3", "x": 266, "y": 115, "width": 18, "height": 70, "boneType": "Rib" },
+        { "name": "Pin Bone 1", "x": 245, "y": 170, "width": 10, "height": 18, "boneType": "Pin" },
+        { "name": "Pin Bone 2", "x": 355, "y": 170, "width": 10, "height": 18, "boneType": "Pin" },
+        { "name": "Pin Bone 3", "x": 235, "y": 150, "width": 10, "height": 18, "boneType": "Pin" }
+      ]
+    },
+    {
+      "fishType": "TalakitokBlue",
+      "displayName": "Talakitok (Bluefin Trevally)",
+      "difficulty": 2,
+      "educationalInfo": "Trevally variant; clean rib pattern, lateral pins.",
+      "description": "Reef predator with firm meat.",
+      "timeLimitSeconds": 120,
+      "spineBoneCount": 1,
+      "ribBoneCount": 4,
+      "pinBoneCount": 3,
+      "habitat": "Reefs",
+      "cookingTips": "Strong bones—use controlled pressure on knife.",
+      "bones": [
+        { "name": "Main Spine", "x": 300, "y": 200, "width": 22, "height": 310, "boneType": "Spine" },
+        { "name": "Rib 1", "x": 278, "y": 145, "width": 17, "height": 85, "boneType": "Rib" },
+        { "name": "Rib 2", "x": 322, "y": 145, "width": 17, "height": 85, "boneType": "Rib" },
+        { "name": "Rib 3", "x": 268, "y": 115, "width": 17, "height": 65, "boneType": "Rib" },
+        { "name": "Pin Bone 1", "x": 248, "y": 175, "width": 9, "height": 16, "boneType": "Pin" },
+        { "name": "Pin Bone 2", "x": 352, "y": 175, "width": 9, "height": 16, "boneType": "Pin" },
+        { "name": "Pin Bone 3", "x": 300, "y": 170, "width": 9, "height": 16, "boneType": "Pin" }
+      ]
+    }
+  ]
+}
+
+
+

@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f3ad6191c4bd9b459be18ca60df94de, type: 3}
+  m_Name: SalaySalay
+  m_EditorClassIdentifier: Assembly-CSharp::FishDefinition
+  fishType: SalaySalay
+  displayName: Yellowstripe Scad
+  difficulty: 2
+  educationalInfo: Small scad; emphasizes precision with pins.
+  description: Often dried or fried fresh.
+  timeLimitSeconds: 120
+  spineBoneCount: 4
+  ribBoneCount: 6
+  pinBoneCount: 0
+  habitat: Schooling coastal fish
+  cookingTips: Use narrow tweezers; pins are fine and break easily.
+  fishSprite: {fileID: 7542639530935945593, guid: 35038c13d2223374eb368b58ea2500c9, type: 3}
+  fishIcon: {fileID: 7542639530935945593, guid: 35038c13d2223374eb368b58ea2500c9, type: 3}
+  fishPrefab: {fileID: 7434062677667821415, guid: d9a52837e526b3a40b003aa3f7084e9c, type: 3}
+  sharedCatalogEntry: {fileID: 11400000, guid: 961bb593dbcf9be4caff26db5795c5f2, type: 2}
+  sharedFishId: salaysalay
+  bones:
+  - name: spine
+    x: -5814.081
+    y: -1159.2651
+    width: 727.9204
+    height: 191.0042
+    boneType: 0
+    isRemoved: 1
+  - name: spine (1)
+    x: 35601.27
+    y: 817.482
+    width: 144.8351
+    height: 211.7926
+    boneType: 0
+    isRemoved: 1
+  - name: spine (2)
+    x: -26710
+    y: -23500
+    width: 165.4083
+    height: 88.6694
+    boneType: 0
+    isRemoved: 1
+  - name: Bone 2
+    x: -31288.803
+    y: -1174.8833
+    width: 79.4008
+    height: 267.3058
+    boneType: 1
+    isRemoved: 1
+  - name: Bone 2 (1)
+    x: -22351.05
+    y: -410.31113
+    width: 79.4008
+    height: 279.6686
+    boneType: 1
+    isRemoved: 1
+  - name: Bone 2 (2)
+    x: -13783.447
+    y: 185.16388
+    width: 79.4008
+    height: 275.9594
+    boneType: 1
+    isRemoved: 1
+  - name: Bone 2 (3)
+    x: -4973.8066
+    y: 679.67456
+    width: 79.4008
+    height: 232.5725
+    boneType: 1
+    isRemoved: 1
+  - name: Bone 2 (4)
+    x: 2654.4434
+    y: 1190.7745
+    width: 64.285
+    height: 179.2804
+    boneType: 1
+    isRemoved: 1
+  - name: Bone 2 (5)
+    x: 10325.366
+    y: 1314.3494
+    width: 64.285
+    height: 117.4682
+    boneType: 1
+    isRemoved: 1
+  - name: pin
+    x: -37860
+    y: 21710
+    width: 145.0783
+    height: 186.9384
+    boneType: 0
+    isRemoved: 1

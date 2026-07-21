@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94ffd712ae9ff5542987662196fc462b, type: 3}
+  m_Name: Philippine_Damselfish
+  m_EditorClassIdentifier: Assembly-CSharp::EndangeredFishDefinition
+  fishName: Philippine Damselfish
+  scientificName: Pomacentridae family
+  description: Small, colorful reef fish that are important for reef ecosystem. Multiple
+    species found in Philippines, some endemic.
+  status: 0
+  iucnStatus: Vulnerable
+  populationTrend: Stable to Decreasing
+  habitat: Coral reefs, particularly areas with branching corals
+  distribution: Indo-Pacific region including Philippines, some species endemic to
+    Philippines
+  threats: Collection for aquarium trade, habitat destruction, coral reef degradation,
+    climate change
+  importance: Important reef species, maintains ecosystem balance, popular in aquarium
+    trade, indicator of reef health
+  conservationEfforts: Marine protected areas, sustainable collection practices,
+    reef conservation, captive breeding programs
+  fishImage: {fileID: -1278581718340923514, guid: f236f33a7b143af4593b6773b23196e4, type: 3}
+  fishIcon: {fileID: -1815659867761652695, guid: 1969ad72797a1f640a312721a4e60e77, type: 3}
+  learnMoreHeadline: 
+  learnMoreCopy: 
+  learnMoreAction: 

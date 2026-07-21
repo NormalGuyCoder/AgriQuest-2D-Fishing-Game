@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94ffd712ae9ff5542987662196fc462b, type: 3}
+  m_Name: Tawilis
+  m_EditorClassIdentifier: Assembly-CSharp::EndangeredFishDefinition
+  fishName: Tawilis
+  scientificName: Sardinella tawilis
+  description: The only freshwater sardine in the world, endemic to Taal Lake in
+    Batangas. This unique species adapted to freshwater from marine ancestors.
+  status: 1
+  iucnStatus: Endangered
+  populationTrend: Decreasing
+  habitat: Freshwater lake (Taal Lake, Batangas)
+  distribution: Endemic to Taal Lake, Philippines - the only place in the world where
+    this species exists
+  threats: Overfishing, pollution from aquaculture, introduction of invasive species,
+    habitat degradation, volcanic activity
+  importance: Unique evolutionary adaptation, only freshwater sardine species globally,
+    important for local fishing communities, indicator of lake ecosystem health
+  conservationEfforts: Fishing regulations and closed seasons, lake rehabilitation
+    programs, monitoring of fish populations, community-based conservation initiatives
+  fishImage: {fileID: 0}
+  fishIcon: {fileID: 0}

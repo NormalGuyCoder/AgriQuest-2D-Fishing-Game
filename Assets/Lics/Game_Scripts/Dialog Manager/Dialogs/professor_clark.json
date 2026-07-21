@@ -1,0 +1,325 @@
+{
+  "npcDialogs": [
+    {
+      "npcName": "Professor Clark",
+      "dialogs": [
+        {
+          "key": "orientation_lecture_part1",
+          "value": {
+            "speakerName": "Professor Clark",
+            "text": "Welcome, future stewards. This is your Final Practical Examination: The Stewardship Field Journal. You will spend a season in Riversong learning sustainable fishing. Your task is to catalog fish and practice deboning.",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 2,
+                "conditionKey": "ORIENTATION_DAY_0",
+                "conditionValue": "ACTIVE",
+                "expectedBool": true
+              }
+            ],
+            "triggersOnShow": [],
+            "choices": [],
+            "nextDialogId": "orientation_lecture_part2"
+          }
+        },
+        {
+          "key": "orientation_lecture_part2",
+          "value": {
+            "speakerName": "Professor Clark",
+            "text": "You must also earn 2,000 gold to pay your outstanding tuition fees. Your work in Riversong serves as both your exam and your means to graduate. Your journal has two main objectives.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [],
+            "nextDialogId": "orientation_lecture_part3"
+          }
+        },
+        {
+          "key": "orientation_lecture_part3",
+          "value": {
+            "speakerName": "Professor Clark",
+            "text": "First: Wild Fishing Stewardship. Catch fish to catalog them in your journal. Practice sustainable fishing to keep the waters healthy. Second: Value Creation. Learn deboning to complete your journal entries and earn gold.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [],
+            "nextDialogId": "orientation_lecture_part4"
+          }
+        },
+        {
+          "key": "orientation_lecture_part4",
+          "value": {
+            "speakerName": "Professor Clark",
+            "text": "Your choices will define what kind of steward you become. Begin your journey to Riversong. Remember: This is about balance. Fish responsibly, process skillfully, and engage with the community.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [],
+            "nextDialogId": "orientation_lecture_part5"
+          }
+        },
+        {
+          "key": "orientation_lecture_part5",
+          "value": {
+            "speakerName": "Professor Clark",
+            "text": "Your journal will tell the story of your stewardship. The future of those waters depends on the choices you make. Achievement Unlocked: First Lesson.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [
+              "CompleteQuest:ORIENTATION_DAY_0",
+              "RecordChoice:HeardOrientationLecture",
+              "UnlockAchievement:First Lesson"
+            ],
+            "choices": [],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "default",
+          "value": {
+            "speakerName": "Professor Clark",
+            "text": "Ah, I'm glad you're eager to learn. The best stewards seek clarity before they begin. What would you like to know about your journey to Riversong?",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 3,
+                "conditionKey": "ORIENTATION_DAY_0",
+                "conditionValue": "COMPLETED",
+                "expectedBool": true
+              }
+            ],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "Where should I start?",
+                "resultDialogId": "answer_start",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "What are the requirements?",
+                "resultDialogId": "answer_requirements",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "I'm ready to begin.",
+                "resultDialogId": "end_conversation",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "post_orientation_default",
+          "value": {
+            "speakerName": "Professor Clark",
+            "text": "Welcome back. Is there anything else you'd like to know?",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 3,
+                "conditionKey": "ORIENTATION_DAY_0",
+                "conditionValue": "COMPLETED",
+                "expectedBool": true
+              },
+              {
+                "conditionType": 8,
+                "conditionKey": "CompletedOrientationQuestions",
+                "conditionValue": "true",
+                "expectedBool": true
+              }
+            ],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "Where should I start?",
+                "resultDialogId": "answer_start",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "What are the requirements?",
+                "resultDialogId": "answer_requirements",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "No, I'm all set.",
+                "resultDialogId": "quick_goodbye",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "answer_start",
+          "value": {
+            "speakerName": "Professor Clark",
+            "text": "A practical question. Start with Mayor Andrew in Riversong Town. He will guide you to Vincent, our fishing expert. Fishing is your foundation—master it first, then learn processing.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "What are the requirements?",
+                "resultDialogId": "answer_requirements",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Back to questions.",
+                "resultDialogId": "",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "answer_requirements",
+          "value": {
+            "speakerName": "Professor Clark",
+            "text": "The goal is a completed Stewardship Field Journal. Catch fish to log them in your catalog. Then debone them to complete your entries. You must also earn 2,000 gold to pay your tuition fees.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "Where should I start?",
+                "resultDialogId": "answer_start",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Back to questions.",
+                "resultDialogId": "",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "end_conversation",
+          "value": {
+            "speakerName": "Professor Clark",
+            "text": "I believe that covers it. Remember, the journal is a mirror. It will reflect the steward you choose to become. I look forward to reading your story.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [],
+            "nextDialogId": "end_conversation_part2"
+          }
+        },
+        {
+          "key": "end_conversation_part2",
+          "value": {
+            "speakerName": "Professor Clark",
+            "text": "Safe travels to Riversong. May your choices bring balance to the waters and the community.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [
+              "RecordChoice:CompletedOrientationQuestions"
+            ],
+            "choices": [],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "quick_goodbye",
+          "value": {
+            "speakerName": "Professor Clark",
+            "text": "Safe travels then. Remember the balance.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "graduation_review_part1",
+          "value": {
+            "speakerName": "Professor Clark",
+            "text": "One season ago, I stood here and spoke of balance and choices. Today, we see the results of your journey. Your Stewardship Field Journal tells a story of skill and responsibility.",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 2,
+                "conditionKey": "GRADUATION_DAY",
+                "conditionValue": "ACTIVE"
+              }
+            ],
+            "triggersOnShow": [],
+            "choices": [],
+            "nextDialogId": "graduation_review_part2"
+          }
+        },
+        {
+          "key": "graduation_review_part2",
+          "value": {
+            "speakerName": "Professor Clark",
+            "text": "It shows what you caught, how you processed it, and the care you took. I am pleased to confirm all requirements are met. Your tuition is paid, your journal is complete.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [],
+            "nextDialogId": "graduation_titles"
+          }
+        },
+        {
+          "key": "graduation_titles",
+          "value": {
+            "speakerName": "Professor Clark",
+            "text": "Based on your journal and choices, we recognize you as:",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "[See my graduation title]",
+                "resultDialogId": "graduation_outcome",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "graduation_outcome",
+          "value": {
+            "speakerName": "Professor Clark",
+            "text": "[GRADUATION TITLE WILL BE INSERTED DYNAMICALLY]. Congratulations. Your journey as a student ends here, but your journey as a steward continues.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [],
+            "nextDialogId": "graduation_outcome_part2"
+          }
+        },
+        {
+          "key": "graduation_outcome_part2",
+          "value": {
+            "speakerName": "Professor Clark",
+            "text": "Go forth, and remember the waters. May your stewardship inspire others to balance harvest with care.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [
+              "CompleteQuest:GRADUATION_DAY"
+            ],
+            "choices": [],
+            "nextDialogId": ""
+          }
+        }
+      ]
+    }
+  ]
+}

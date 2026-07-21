@@ -1,0 +1,40 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94ffd712ae9ff5542987662196fc462b, type: 3}
+  m_Name: Pating
+  m_EditorClassIdentifier: Assembly-CSharp::EndangeredFishDefinition
+  fishName: Pating
+  scientificName: Alopias pelagicus
+  description: A small thresher with moderately large eyes, a broadly convex forehead,
+    a very narrow caudal tip, and straight, broad-tipped pectoral fins. Upper lobe
+    of caudal fin very long and strap-like, almost equal to length of rest of shark;
+    lower lobe short but strong; terminal lobe very small . Dark blue on back and
+    sides, underside white; no white patch over pectoral fin bases.
+  status: 1
+  iucnStatus: Endangered
+  populationTrend: Decreasing
+  habitat: Coral reefs, particularly outer reef slopes and drop-offs
+  distribution: 'Circumglobal. Indo-Pacific: Red Sea, Arabian Sea, Maldives (Ref.
+    30829), Somalia, South Africa, Western Australia, China, Taiwan, Japan, New Caledonia,
+    Hawaiian Islands and Tahiti. Eastern Pacific: Gulf of California and the Galapagos.
+    Reliable records lacking partly due to its confusion with Alopias vulpinus.'
+  threats: Collection for aquarium trade, habitat destruction, overfishing, coral
+    reef degradation
+  importance: Important reef species, maintains reef ecosystem balance, valuable
+    in aquarium trade, indicator of reef health
+  conservationEfforts: Marine protected areas, sustainable collection practices,
+    reef conservation, size and catch limits
+  fishImage: {fileID: 6740244376260901819, guid: 9e679fb8e685c874bb655cd920a028bf, type: 3}
+  fishIcon: {fileID: 6618709377856031743, guid: 0c2481fdafab4354888f01a9b124dcab, type: 3}
+  learnMoreHeadline: 
+  learnMoreCopy: 
+  learnMoreAction: 

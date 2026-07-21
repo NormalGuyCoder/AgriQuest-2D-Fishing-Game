@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: f048043382452ea4287c50e8746d72ac
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2200296017119759068
+    second: colonial_0
+  - first:
+      213: 8359351701633682043
+    second: colonial_1
+  - first:
+      213: -6059104014836945332
+    second: colonial_2
+  - first:
+      213: -4544636255720285961
+    second: colonial_3
+  - first:
+      213: -1052918840200797976
+    second: colonial_4
+  - first:
+      213: 5006531522668034121
+    second: colonial_5
+  - first:
+      213: 207181592019030118
+    second: colonial_6
+  - first:
+      213: 8209865469801560100
+    second: colonial_7
+  - first:
+      213: 3693617312815046241
+    second: colonial_8
+  - first:
+      213: -2235860202176601964
+    second: colonial_9
+  - first:
+      213: -4445295693867507841
+    second: colonial_10
+  - first:
+      213: -1754715088456543936
+    second: colonial_11
+  - first:
+      213: -4150786835659124010
+    second: colonial_12
+  - first:
+      213: 399011817561743046
+    second: colonial_13
+  - first:
+      213: -1863584590136762624
+    second: colonial_14
+  - first:
+      213: -5707753894864528006
+    second: colonial_15
+  - first:
+      213: 2453590228950669090
+    second: colonial_16
+  - first:
+      213: -7812525180081459452
+    second: colonial_17
+  - first:
+      213: 4781348611584685854
+    second: colonial_18
+  - first:
+      213: 537532944291365824
+    second: colonial_19
+  - first:
+      213: 6054575100136670770
+    second: colonial_20
+  - first:
+      213: 5115497018842344172
+    second: colonial_21
+  - first:
+      213: -2185177638552617907
+    second: colonial_22
+  - first:
+      213: -4078924308668990120
+    second: colonial_23
+  - first:
+      213: -8319865193835467584
+    second: colonial_24
+  - first:
+      213: 2880217446358830310
+    second: colonial_25
+  - first:
+      213: -6703731995786781947
+    second: colonial_26
+  - first:
+      213: 4010119478495351752
+    second: colonial_27
+  - first:
+      213: 2582788037018142065
+    second: colonial_28
+  - first:
+      213: 7514245306877226197
+    second: colonial_29
+  - first:
+      213: 1789894727055840336
+    second: colonial_30
+  - first:
+      213: -5520723520958405191
+    second: colonial_31
+  - first:
+      213: -3696264111936790063
+    second: colonial_32
+  - first:
+      213: 5834038933872532982
+    second: colonial_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: colonial_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 1024
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425beda1e6af671e0800000000000000
+      internalID: -2200296017119759068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colonial_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 342
+        width: 449
+        height: 355
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ace683512620470800000000000000
+      internalID: 8359351701633682043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colonial_2
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 332
+        width: 31
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e2082400db9eba0800000000000000
+      internalID: -6059104014836945332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colonial_3
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 127
+        width: 94
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f85e6867653ee0c0800000000000000
+      internalID: -4544636255720285961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colonial_4
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 327
+        width: 86
+        height: 249
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0e388b4e74361f0800000000000000
+      internalID: -1052918840200797976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colonial_5
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 78
+        width: 126
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9487c65e4e5ca7540800000000000000
+      internalID: 5006531522668034121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colonial_6
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 95
+        width: 129
+        height: 411
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6605b4c6f8e00e200800000000000000
+      internalID: 207181592019030118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colonial_7
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 281
+        width: 64
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4287445a52d4fe170800000000000000
+      internalID: 8209865469801560100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colonial_8
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 323
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16ed29a506d524330800000000000000
+      internalID: 3693617312815046241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colonial_9
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 281
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 490a4d10ef0a8f0e0800000000000000
+      internalID: -2235860202176601964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colonial_10
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 281
+        width: 54
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f147d5e132f42c0800000000000000
+      internalID: -4445295693867507841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colonial_11
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 95
+        width: 78
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04197868ceff5a7e0800000000000000
+      internalID: -1754715088456543936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colonial_12
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 287
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d29b226d517566c0800000000000000
+      internalID: -4150786835659124010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colonial_13
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 257
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ce53fe4223998500800000000000000
+      internalID: 399011817561743046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colonial_14
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 287
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00f910060b73326e0800000000000000
+      internalID: -1863584590136762624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colonial_15
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 236
+        width: 31
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d5f37d21cf9c0b0800000000000000
+      internalID: -5707753894864528006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colonial_16
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 191
+        width: 135
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22759f44057ec0220800000000000000
+      internalID: 2453590228950669090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colonial_17
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 255
+        width: 9
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f2372cdb5549390800000000000000
+      internalID: -7812525180081459452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colonial_18
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 281
+        width: 14
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e17ffc4ca33ca5240800000000000000
+      internalID: 4781348611584685854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colonial_19
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 153
+        width: 66
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c38e876d53b57700800000000000000
+      internalID: 537532944291365824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colonial_20
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 224
+        width: 62
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236429d99fb260450800000000000000
+      internalID: 6054575100136670770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colonial_21
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 255
+        width: 54
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceaeaa18f65edf640800000000000000
+      internalID: 5115497018842344172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colonial_22
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 223
+        width: 52
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cb1fae380bca1e0800000000000000
+      internalID: -2185177638552617907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colonial_23
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 191
+        width: 72
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d341cc3ffb467c0800000000000000
+      internalID: -4078924308668990120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colonial_24
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 103
+        width: 86
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ccec4ecfa6e98c80800000000000000
+      internalID: -8319865193835467584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colonial_25
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 135
+        width: 78
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ecc916e18698f720800000000000000
+      internalID: 2880217446358830310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colonial_26
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 127
+        width: 50
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b55b9844f87f2a0800000000000000
+      internalID: -6703731995786781947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colonial_27
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 159
+        width: 82
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c3179e4b6ec6a730800000000000000
+      internalID: 4010119478495351752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colonial_28
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 110
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17548941908e7d320800000000000000
+      internalID: 2582788037018142065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colonial_29
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 127
+        width: 80
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc209f5b46f74860800000000000000
+      internalID: 7514245306877226197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colonial_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 33
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054128f55cbf6d810800000000000000
+      internalID: 1789894727055840336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colonial_31
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 9
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b5612e25337263b0800000000000000
+      internalID: -5520723520958405191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colonial_32
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 0
+        width: 70
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d1abf3bf5b34bcc0800000000000000
+      internalID: -3696264111936790063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: colonial_33
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 0
+        width: 80
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd5543108ba6f050800000000000000
+      internalID: 5834038933872532982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      colonial_0: -2200296017119759068
+      colonial_1: 8359351701633682043
+      colonial_10: -4445295693867507841
+      colonial_11: -1754715088456543936
+      colonial_12: -4150786835659124010
+      colonial_13: 399011817561743046
+      colonial_14: -1863584590136762624
+      colonial_15: -5707753894864528006
+      colonial_16: 2453590228950669090
+      colonial_17: -7812525180081459452
+      colonial_18: 4781348611584685854
+      colonial_19: 537532944291365824
+      colonial_2: -6059104014836945332
+      colonial_20: 6054575100136670770
+      colonial_21: 5115497018842344172
+      colonial_22: -2185177638552617907
+      colonial_23: -4078924308668990120
+      colonial_24: -8319865193835467584
+      colonial_25: 2880217446358830310
+      colonial_26: -6703731995786781947
+      colonial_27: 4010119478495351752
+      colonial_28: 2582788037018142065
+      colonial_29: 7514245306877226197
+      colonial_3: -4544636255720285961
+      colonial_30: 1789894727055840336
+      colonial_31: -5520723520958405191
+      colonial_32: -3696264111936790063
+      colonial_33: 5834038933872532982
+      colonial_4: -1052918840200797976
+      colonial_5: 5006531522668034121
+      colonial_6: 207181592019030118
+      colonial_7: 8209865469801560100
+      colonial_8: 3693617312815046241
+      colonial_9: -2235860202176601964
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

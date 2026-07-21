@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 59c33681772ad5641b8a2ebeadf7cb98, type: 3}
+  m_Name: anchovy
+  m_EditorClassIdentifier: 
+  fishName: Anchovy
+  scientificName: " \u20B1150 \u2013 \u20B1300 per kilo"
+  description: Small, silver-colored schooling fish found in coastal waters. Popular
+    for its salty taste, often used in sauces, pizza toppings, and traditional condiments.
+  fishSprite: {fileID: 1842172672916735438, guid: 14acff731d2ea8544b716d4c58b61c39, type: 3}
+  fishIcon: {fileID: 1842172672916735438, guid: 14acff731d2ea8544b716d4c58b61c39, type: 3}
+  rarity: 0
+  baseValue: 0
+  minSize: 0
+  maxSize: 0
+  swimSpeed: 0
+  catchDifficulty: 0
+  preferredBaits: []
+  habitats: []
+  preferredDepth: 0
+  seasons: []
+  possibleLocations: []
+  isDiscovered: 0
+  sharedCatalogEntry: {fileID: 11400000, guid: ce4a63e959fc78642af380c0754dcebc, type: 2}
+  sharedFishId: anchovy

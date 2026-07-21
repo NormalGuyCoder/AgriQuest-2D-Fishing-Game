@@ -1,0 +1,621 @@
+fileFormatVersion: 2
+guid: ac01b869aae4c19459d90f2439d5e3b0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6546034380544748329
+    second: Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara,
+      and Daniel Eddeland_0
+  - first:
+      213: 8932200068686329517
+    second: Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara,
+      and Daniel Eddeland_1
+  - first:
+      213: 5562546606462703205
+    second: Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara,
+      and Daniel Eddeland_2
+  - first:
+      213: -1141093341129084659
+    second: Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara,
+      and Daniel Eddeland_3
+  - first:
+      213: -9018665829562019472
+    second: Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara,
+      and Daniel Eddeland_4
+  - first:
+      213: -4126773351581026660
+    second: Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara,
+      and Daniel Eddeland_5
+  - first:
+      213: 2531313177015749871
+    second: Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara,
+      and Daniel Eddeland_6
+  - first:
+      213: 7506831631747874843
+    second: Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara,
+      and Daniel Eddeland_7
+  - first:
+      213: 5578139024923660989
+    second: Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara,
+      and Daniel Eddeland_8
+  - first:
+      213: -1124114181200385592
+    second: Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara,
+      and Daniel Eddeland_9
+  - first:
+      213: 3836217805690985849
+    second: Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara,
+      and Daniel Eddeland_10
+  - first:
+      213: -638948142633554736
+    second: Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara,
+      and Daniel Eddeland_11
+  - first:
+      213: 1472453330154357114
+    second: Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara,
+      and Daniel Eddeland_12
+  - first:
+      213: 8575992420827276380
+    second: Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara,
+      and Daniel Eddeland_13
+  - first:
+      213: -8661325220566524783
+    second: Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara,
+      and Daniel Eddeland_14
+  - first:
+      213: 5934898014023548371
+    second: Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara,
+      and Daniel Eddeland_15
+  - first:
+      213: 8921218917636587451
+    second: Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara,
+      and Daniel Eddeland_16
+  - first:
+      213: 1856773643406864587
+    second: Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara,
+      and Daniel Eddeland_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara,
+        and Daniel Eddeland_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 191
+        width: 417
+        height: 481
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4d22cc960d725a0800000000000000
+      internalID: -6546034380544748329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara,
+        and Daniel Eddeland_1
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 383
+        width: 18
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6b4cc33ac85fb70800000000000000
+      internalID: 8932200068686329517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara,
+        and Daniel Eddeland_2
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 383
+        width: 18
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56693ccbaa2223d40800000000000000
+      internalID: 5562546606462703205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara,
+        and Daniel Eddeland_3
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 337
+        width: 162
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d01ff6ae6a50a20f0800000000000000
+      internalID: -1141093341129084659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara,
+        and Daniel Eddeland_4
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 383
+        width: 73
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0719001063347d280800000000000000
+      internalID: -9018665829562019472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara,
+        and Daniel Eddeland_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 191
+        width: 98
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c96f6765081cab6c0800000000000000
+      internalID: -4126773351581026660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara,
+        and Daniel Eddeland_6
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 287
+        width: 55
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec0a4b4ce7012320800000000000000
+      internalID: 2531313177015749871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara,
+        and Daniel Eddeland_7
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 287
+        width: 58
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b108ffe989f9d2860800000000000000
+      internalID: 7506831631747874843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara,
+        and Daniel Eddeland_8
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 207
+        width: 226
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2915093e7896d40800000000000000
+      internalID: 5578139024923660989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara,
+        and Daniel Eddeland_9
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 287
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c96296ab185660f0800000000000000
+      internalID: -1124114181200385592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara,
+        and Daniel Eddeland_10
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 287
+        width: 50
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d5d35e4cbfc3530800000000000000
+      internalID: 3836217805690985849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara,
+        and Daniel Eddeland_11
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 207
+        width: 62
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc6e60bc000227f0800000000000000
+      internalID: -638948142633554736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara,
+        and Daniel Eddeland_12
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 95
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71013c90843f6410800000000000000
+      internalID: 1472453330154357114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara,
+        and Daniel Eddeland_13
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 79
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c542adf4bab040770800000000000000
+      internalID: 8575992420827276380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara,
+        and Daniel Eddeland_14
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 24
+        width: 61
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19c10000a9accc780800000000000000
+      internalID: -8661325220566524783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara,
+        and Daniel Eddeland_15
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 22
+        width: 96
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dd7b00ac4efc5250800000000000000
+      internalID: 5934898014023548371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara,
+        and Daniel Eddeland_16
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 0
+        width: 417
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf3935c6598ecb70800000000000000
+      internalID: 8921218917636587451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara,
+        and Daniel Eddeland_17
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 0
+        width: 87
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc0f2938ac594c910800000000000000
+      internalID: 1856773643406864587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara, and Daniel Eddeland_0: -6546034380544748329
+      Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara, and Daniel Eddeland_1: 8932200068686329517
+      Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara, and Daniel Eddeland_10: 3836217805690985849
+      Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara, and Daniel Eddeland_11: -638948142633554736
+      Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara, and Daniel Eddeland_12: 1472453330154357114
+      Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara, and Daniel Eddeland_13: 8575992420827276380
+      Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara, and Daniel Eddeland_14: -8661325220566524783
+      Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara, and Daniel Eddeland_15: 5934898014023548371
+      Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara, and Daniel Eddeland_16: 8921218917636587451
+      Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara, and Daniel Eddeland_17: 1856773643406864587
+      Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara, and Daniel Eddeland_2: 5562546606462703205
+      Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara, and Daniel Eddeland_3: -1141093341129084659
+      Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara, and Daniel Eddeland_4: -9018665829562019472
+      Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara, and Daniel Eddeland_5: -4126773351581026660
+      Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara, and Daniel Eddeland_6: 2531313177015749871
+      Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara, and Daniel Eddeland_7: 7506831631747874843
+      Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara, and Daniel Eddeland_8: 5578139024923660989
+      Modifications by Ak-Blanc based on Sharm, Janna, Tuomo, Casper, Barbara, and Daniel Eddeland_9: -1124114181200385592
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

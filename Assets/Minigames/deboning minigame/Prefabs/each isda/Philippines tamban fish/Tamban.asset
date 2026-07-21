@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f3ad6191c4bd9b459be18ca60df94de, type: 3}
+  m_Name: Tamban
+  m_EditorClassIdentifier: Assembly-CSharp::FishDefinition
+  fishType: Tamban
+  displayName: Sardine
+  difficulty: 1
+  educationalInfo: Small fish with delicate bones. Teaches careful tweezers work.
+  description: Small oily fish used for ginataan or paksiw.
+  timeLimitSeconds: 80
+  spineBoneCount: 1
+  ribBoneCount: 2
+  pinBoneCount: 3
+  habitat: Nearshore schooling fish
+  cookingTips: Best cooked fresh; remove pin bones before canning-style recipes.
+  fishSprite: {fileID: -1613103482, guid: 5c51619bc40620144a9500717895d3ff, type: 3}
+  fishIcon: {fileID: -1613103482, guid: 5c51619bc40620144a9500717895d3ff, type: 3}
+  fishPrefab: {fileID: 7434062677667821415, guid: 8eb9e420800dc4a42b364e3891cc8ebd, type: 3}
+  sharedCatalogEntry: {fileID: 0}
+  sharedFishId: tamban
+  bones:
+  - name: Main Spine
+    x: 300
+    y: 200
+    width: 18
+    height: 280
+    boneType: 0
+    isRemoved: 0
+  - name: Rib 1
+    x: 285
+    y: 150
+    width: 14
+    height: 70
+    boneType: 1
+    isRemoved: 0
+  - name: Rib 2
+    x: 315
+    y: 150
+    width: 14
+    height: 70
+    boneType: 1
+    isRemoved: 0
+  - name: Pin Bone 1
+    x: 260
+    y: 175
+    width: 7
+    height: 14
+    boneType: 2
+    isRemoved: 0
+  - name: Pin Bone 2
+    x: 340
+    y: 175
+    width: 7
+    height: 14
+    boneType: 2
+    isRemoved: 0
+  - name: Pin Bone 3
+    x: 300
+    y: 170
+    width: 7
+    height: 14
+    boneType: 2
+    isRemoved: 0

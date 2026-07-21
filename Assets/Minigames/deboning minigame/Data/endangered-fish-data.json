@@ -1,0 +1,72 @@
+{
+  "endangeredFish": [
+    {
+      "fishName": "Bluefin Tuna",
+      "scientificName": "Thunnus thynnus",
+      "description": "One of the largest and most valuable tuna species. Overfishing has severely impacted their population.",
+      "status": 2,
+      "iucnStatus": "Endangered",
+      "populationTrend": "Decreasing",
+      "habitat": "Open ocean waters in the Atlantic and Mediterranean",
+      "distribution": "Found in the Atlantic Ocean, Mediterranean Sea, and parts of the Pacific",
+      "threats": "Overfishing for sushi and sashimi markets, bycatch in fishing nets, climate change affecting spawning grounds",
+      "importance": "Top predator in marine ecosystems, maintains balance of fish populations. Culturally significant in Japan and Mediterranean regions.",
+      "conservationEfforts": "Fishing quotas and regulations, marine protected areas, aquaculture research, international cooperation agreements"
+    },
+    {
+      "fishName": "Atlantic Cod",
+      "scientificName": "Gadus morhua",
+      "description": "Historically abundant fish that has been overfished to near collapse in some areas. Slow to recover due to overfishing pressure.",
+      "status": 1,
+      "iucnStatus": "Vulnerable",
+      "populationTrend": "Stable to Decreasing",
+      "habitat": "Cold waters of the North Atlantic Ocean",
+      "distribution": "Northwest Atlantic from Greenland to North Carolina, Northeast Atlantic around Europe",
+      "threats": "Overfishing, habitat destruction, climate change affecting water temperature",
+      "importance": "Key species in North Atlantic food webs, supports commercial fishing industries, important for ecosystem balance",
+      "conservationEfforts": "Fishing moratoriums, quota systems, marine reserves, gear restrictions to reduce bycatch"
+    },
+    {
+      "fishName": "Chinese Paddlefish",
+      "scientificName": "Psephurus gladius",
+      "description": "Ancient species that was declared extinct in 2019. Lived in the Yangtze River for over 200 million years.",
+      "status": 3,
+      "iucnStatus": "Extinct",
+      "populationTrend": "Extinct",
+      "habitat": "Yangtze River system in China",
+      "distribution": "Was endemic to the Yangtze River basin in China",
+      "threats": "Overfishing, dam construction blocking migration routes, pollution, habitat destruction",
+      "importance": "One of the largest freshwater fish species, important indicator of river ecosystem health, ancient evolutionary lineage",
+      "conservationEfforts": "Too late - species is now extinct. Serves as a warning about conservation efforts needed for other species"
+    },
+    {
+      "fishName": "European Eel",
+      "scientificName": "Anguilla anguilla",
+      "description": "Mysterious migratory fish that spawns in the Sargasso Sea. Population has declined dramatically due to multiple threats.",
+      "status": 2,
+      "iucnStatus": "Critically Endangered",
+      "populationTrend": "Decreasing",
+      "habitat": "Freshwater rivers and lakes in Europe, migrates to Sargasso Sea to spawn",
+      "distribution": "Europe, North Africa, and parts of Asia. Spawns in Sargasso Sea (Atlantic)",
+      "threats": "Habitat loss from dams and barriers, pollution, overfishing, climate change, parasites",
+      "importance": "Key part of freshwater and marine food chains, indicator species for water quality, culturally important in Europe",
+      "conservationEfforts": "Eel ladders and passages at barriers, fishing restrictions, habitat restoration, international eel management plans"
+    },
+    {
+      "fishName": "Giant Grouper",
+      "scientificName": "Epinephelus lanceolatus",
+      "description": "Large reef fish that can grow over 2 meters. Vulnerable due to slow growth and overfishing.",
+      "status": 0,
+      "iucnStatus": "Vulnerable",
+      "populationTrend": "Decreasing",
+      "habitat": "Coral reefs and rocky areas in tropical and subtropical waters",
+      "distribution": "Indo-Pacific region, from Red Sea to Australia and Japan",
+      "threats": "Overfishing for live fish trade, habitat destruction of coral reefs, slow reproductive rate",
+      "importance": "Apex predator on coral reefs, maintains reef ecosystem balance, important for reef health",
+      "conservationEfforts": "Marine protected areas, size and catch limits, reef conservation programs, aquaculture alternatives"
+    }
+  ]
+}
+
+
+

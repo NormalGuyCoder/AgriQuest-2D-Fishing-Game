@@ -1,0 +1,112 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f3ad6191c4bd9b459be18ca60df94de, type: 3}
+  m_Name: Bangus
+  m_EditorClassIdentifier: 
+  fishType: Bangus
+  displayName: Milkfish
+  difficulty: 3
+  educationalInfo: National fish of the Philippines. Known for its many small bones
+    that require careful attention. Deboning bangus is a skill that requires patience
+    and precision.
+  description: National fish of the Philippines. Known for its many small bones that
+    require careful attention.
+  timeLimitSeconds: 100
+  spineBoneCount: 4
+  ribBoneCount: 7
+  pinBoneCount: 0
+  habitat: Coastal waters and brackish lagoons
+  cookingTips: Traditional Filipino preparation includes stuffing and grilling. Deboning
+    is essential for enjoyable eating. Often served with vinegar dipping sauce.
+  fishSprite: {fileID: 4162000799912831087, guid: 7e6e96a20c2fdeb4ebbe1a84dd3c3cea, type: 3}
+  fishIcon: {fileID: 4162000799912831087, guid: 7e6e96a20c2fdeb4ebbe1a84dd3c3cea, type: 3}
+  fishPrefab: {fileID: 7434062677667821415, guid: c30fb833c70435f47accefc2bdf7e446, type: 3}
+  sharedCatalogEntry: {fileID: 11400000, guid: 842d5a9a57b003c4d9879bf6453111a8, type: 2}
+  sharedFishId: 
+  bones:
+  - name: spine
+    x: 15740.524
+    y: -8002.52
+    width: 632.8628
+    height: 239.8018
+    boneType: 0
+    isRemoved: 1
+  - name: spine (1)
+    x: 10337.823
+    y: -4988.791
+    width: 450.0724
+    height: 178.3939
+    boneType: 0
+    isRemoved: 1
+  - name: Bone lower
+    x: -12091.754
+    y: 2210.6873
+    width: 62.6576
+    height: 195.4689
+    boneType: 1
+    isRemoved: 1
+  - name: Bone 2 (2)
+    x: -4481.424
+    y: 2369.1567
+    width: 65.6119
+    height: 204.8604
+    boneType: 1
+    isRemoved: 1
+  - name: Bone 2 (4)
+    x: 1694.4565
+    y: 2503.0166
+    width: 59.5208
+    height: 226.9401
+    boneType: 1
+    isRemoved: 1
+  - name: Bone 2 (6)
+    x: 7893.857
+    y: 2507.8567
+    width: 87.2368
+    height: 176.9279
+    boneType: 1
+    isRemoved: 1
+  - name: Bone 2 (8)
+    x: 13819.516
+    y: 1704.3969
+    width: 62.646
+    height: 158.1351
+    boneType: 1
+    isRemoved: 1
+  - name: Bone 2 (10)
+    x: 18923.975
+    y: 547.39667
+    width: 53.9328
+    height: 123.3269
+    boneType: 1
+    isRemoved: 1
+  - name: Bone 2 (12)
+    x: 23809.326
+    y: -654.76685
+    width: 43.9466
+    height: 97.3929
+    boneType: 1
+    isRemoved: 1
+  - name: Anal Fin
+    x: 7634.5366
+    y: 10795.576
+    width: 134.0859
+    height: 78.356
+    boneType: 0
+    isRemoved: 1
+  - name: Caudal Fin
+    x: 56290.906
+    y: -5822.7354
+    width: 175.7272
+    height: 298.8372
+    boneType: 0
+    isRemoved: 1

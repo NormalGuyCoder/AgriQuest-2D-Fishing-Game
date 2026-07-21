@@ -1,0 +1,550 @@
+{
+  "npcDialogs": [
+    {
+      "npcName": "Vincent",
+      "dialogs": [
+        {
+          "key": "default",
+          "value": {
+            "speakerName": "Vincent",
+            "text": "Hello! Need help with fishing?",
+            "showAsAction": false,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "Start fishing tutorial",
+                "resultDialogId": "first_meeting",
+                "triggersOnChoose": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Just checking in",
+                "resultDialogId": "",
+                "triggersOnChoose": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "fishing_task_complete",
+          "value": {
+            "speakerName": "Vincent",
+            "text": "Excellent! You caught 3 fish. Now for your next steps: you can go to Fresh Finds market to sell fish, or explore Greenvale for new fishing spots. What would you like to know?",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 3,
+                "conditionKey": "FIRST_CAST_2A",
+                "conditionValue": "COMPLETED",
+                "expectedBool": true
+              }
+            ],
+            "triggersOnShow": [
+              "RecordChoice:HasCompletedFirstTask"
+            ],
+            "choices": [
+              {
+                "choiceText": "Tell me about the market.",
+                "resultDialogId": "market_guidance",
+                "triggersOnChoose": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Tell me about Greenvale.",
+                "resultDialogId": "greenvale_guidance",
+                "triggersOnChoose": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Thanks, I'll explore now.",
+                "resultDialogId": "",
+                "triggersOnChoose": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "sold_all_fish_warning",
+          "value": {
+            "speakerName": "Vincent",
+            "text": "I see you've sold all your fish! That's fine for making money, but you should keep at least 3 fish in your inventory to prove you can catch them. Try fishing again at the glowing star spot.",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 3,
+                "conditionKey": "FIRST_CAST_2A",
+                "conditionValue": "COMPLETED",
+                "expectedBool": true
+              },
+              {
+                "conditionType": 4,
+                "conditionKey": "any_fish",
+                "conditionValue": "1",
+                "expectedBool": false
+              }
+            ],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "I'll catch more fish.",
+                "resultDialogId": "during_fishing_task",
+                "triggersOnChoose": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Tell me about selling fish.",
+                "resultDialogId": "market_guidance",
+                "triggersOnChoose": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "post_tutorial_default",
+          "value": {
+            "speakerName": "Vincent",
+            "text": "Back at the docks. Need fishing advice or have questions about what to do next?",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 3,
+                "conditionKey": "FIRST_CAST_2A",
+                "conditionValue": "COMPLETED",
+                "expectedBool": true
+              }
+            ],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "Where's Fresh Finds market?",
+                "resultDialogId": "market_reminder",
+                "triggersOnChoose": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Where's Greenvale?",
+                "resultDialogId": "greenvale_reminder",
+                "triggersOnChoose": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Nothing, just saying hi.",
+                "resultDialogId": "",
+                "triggersOnChoose": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "during_fishing_task",
+          "value": {
+            "speakerName": "Vincent",
+            "text": "Still fishing? Remember: middle dock, glowing star. Catch 3 fish and return to me. How's it going?",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 2,
+                "conditionKey": "FIRST_CAST_2A",
+                "conditionValue": "ACTIVE",
+                "expectedBool": true
+              }
+            ],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "Where's the fishing spot again?",
+                "resultDialogId": "spot_reminder",
+                "triggersOnChoose": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "What happens after 3 fish?",
+                "resultDialogId": "post_catch_info",
+                "triggersOnChoose": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Just checking in.",
+                "resultDialogId": "",
+                "triggersOnChoose": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "first_meeting",
+          "value": {
+            "speakerName": "Vincent",
+            "text": "Ah, you must be Andrew's student. I'm Vincent. Mayor said you need to learn fishing for your stewardship journal. Let's start with the basics.",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 3,
+                "conditionKey": "ORIENTATION_DAY_0",
+                "conditionValue": "COMPLETED",
+                "expectedBool": true
+              },
+              {
+                "conditionType": 3,
+                "conditionKey": "FIRST_CAST_2A",
+                "conditionValue": "COMPLETED",
+                "expectedBool": false
+              }
+            ],
+            "triggersOnShow": [
+              "RecordTalkedToNPC:Vincent"
+            ],
+            "choices": [
+              {
+                "choiceText": "What should I do?",
+                "resultDialogId": "first_instructions",
+                "triggersOnChoose": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Tell me about fishing here.",
+                "resultDialogId": "fishing_intro",
+                "triggersOnChoose": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "fishing_intro",
+          "value": {
+            "speakerName": "Vincent",
+            "text": "Fishing here requires balance. Watch the Population Health Meter - keep it green. Your task: catch 3 fish at the glowing star spot on the middle dock.",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 3,
+                "conditionKey": "FIRST_CAST_2A",
+                "conditionValue": "COMPLETED",
+                "expectedBool": false
+              }
+            ],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "Where's the glowing star?",
+                "resultDialogId": "spot_directions",
+                "triggersOnChoose": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Tell me about the Health Meter.",
+                "resultDialogId": "health_meter_explanation",
+                "triggersOnChoose": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Ready to start fishing.",
+                "resultDialogId": "start_fishing_quest",
+                "triggersOnChoose": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "spot_directions",
+          "value": {
+            "speakerName": "Vincent",
+            "text": "Walk to the middle platform of this dock. You'll see a glowing star on the wooden planks. That's your fishing spot. Catch 3 fish there, then come back to me.",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 3,
+                "conditionKey": "FIRST_CAST_2A",
+                "conditionValue": "COMPLETED",
+                "expectedBool": false
+              }
+            ],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "Tell me about the Health Meter.",
+                "resultDialogId": "health_meter_explanation",
+                "triggersOnChoose": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Ready to start fishing.",
+                "resultDialogId": "start_fishing_quest",
+                "triggersOnChoose": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "health_meter_explanation",
+          "value": {
+            "speakerName": "Vincent",
+            "text": "The Health Meter shows fish population health. Green = healthy. Yellow = caution. Red = stop fishing. The glowing star spot is balanced for beginners - it should stay green.",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 3,
+                "conditionKey": "FIRST_CAST_2A",
+                "conditionValue": "COMPLETED",
+                "expectedBool": false
+              }
+            ],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "Where's the glowing star?",
+                "resultDialogId": "spot_directions",
+                "triggersOnChoose": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Ready to start fishing.",
+                "resultDialogId": "start_fishing_quest",
+                "triggersOnChoose": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "first_instructions",
+          "value": {
+            "speakerName": "Vincent",
+            "text": "Go to the middle dock - look for the glowing star. Catch 3 fish there, then return to me. I'll give you your next steps.",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 3,
+                "conditionKey": "FIRST_CAST_2A",
+                "conditionValue": "COMPLETED",
+                "expectedBool": false
+              }
+            ],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "Got it. I'll start fishing.",
+                "resultDialogId": "start_fishing_quest",
+                "triggersOnChoose": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Back to main questions.",
+                "resultDialogId": "first_meeting",
+                "triggersOnChoose": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "start_fishing_quest",
+          "value": {
+            "speakerName": "Vincent",
+            "text": "Good. Here's a fishing rod. Go to the middle dock's glowing star spot. Catch 3 fish, then return to me. I'll wait here.",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 3,
+                "conditionKey": "FIRST_CAST_2A",
+                "conditionValue": "COMPLETED",
+                "expectedBool": false
+              }
+            ],
+            "triggersOnShow": [
+              "StartQuest:FIRST_CAST_2A",
+              "GiveItem:BeginnerFishingRod,1"
+            ],
+            "choices": [],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "spot_reminder",
+          "value": {
+            "speakerName": "Vincent",
+            "text": "Middle dock, glowing star spot. Catch 3 fish. The Health Meter should stay green there.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "What happens after 3 fish?",
+                "resultDialogId": "post_catch_info",
+                "triggersOnChoose": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Got it, back to fishing.",
+                "resultDialogId": "",
+                "triggersOnChoose": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "post_catch_info",
+          "value": {
+            "speakerName": "Vincent",
+            "text": "After 3 catches, come back to me. I'll tell you about Fresh Finds market (northeast) and Greenvale fishing spots (northwest).",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "Where's the fishing spot again?",
+                "resultDialogId": "spot_reminder",
+                "triggersOnChoose": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Got it, back to fishing.",
+                "resultDialogId": "",
+                "triggersOnChoose": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "market_guidance",
+          "value": {
+            "speakerName": "Vincent",
+            "text": "Fresh Finds market is northeast of Saltshore. Look for Cassandra at Fishy Bargains - she buys fish. That's where you'll earn gold for your tuition.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [
+              "StartQuest:MARKET_DYNAMICS"
+            ],
+            "choices": [
+              {
+                "choiceText": "What about Greenvale?",
+                "resultDialogId": "greenvale_guidance",
+                "triggersOnChoose": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Got it, thanks!",
+                "resultDialogId": "",
+                "triggersOnChoose": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "greenvale_guidance",
+          "value": {
+            "speakerName": "Vincent",
+            "text": "Greenvale is northwest of here. Explore the area for new fishing spots and different fish species. Remember to check the Health Meter.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [
+              "StartQuest:EXPLORE_GREENVALE"
+            ],
+            "choices": [
+              {
+                "choiceText": "What about the market?",
+                "resultDialogId": "market_guidance",
+                "triggersOnChoose": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Got it, thanks!",
+                "resultDialogId": "",
+                "triggersOnChoose": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "market_reminder",
+          "value": {
+            "speakerName": "Vincent",
+            "text": "Fresh Finds market is northeast of Saltshore. Cassandra at Fishy Bargains buys fish. She'll help you earn gold for tuition.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "Where's Greenvale?",
+                "resultDialogId": "greenvale_reminder",
+                "triggersOnChoose": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Got it, thanks.",
+                "resultDialogId": "",
+                "triggersOnChoose": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "greenvale_reminder",
+          "value": {
+            "speakerName": "Vincent",
+            "text": "Greenvale is northwest of Saltshore. Explore for new fishing spots and fish species. Check the Health Meter.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "Where's the market?",
+                "resultDialogId": "market_reminder",
+                "triggersOnChoose": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Got it, thanks.",
+                "resultDialogId": "",
+                "triggersOnChoose": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "quick_checkin",
+          "value": {
+            "speakerName": "Vincent",
+            "text": "Keep up the good work. Balance fishing with selling, and remember the Health Meter.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [],
+            "nextDialogId": ""
+          }
+        }
+      ]
+    }
+  ]
+}

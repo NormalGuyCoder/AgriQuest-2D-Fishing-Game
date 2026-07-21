@@ -1,0 +1,4173 @@
+fileFormatVersion: 2
+guid: 6dc98dcbc27be974397162dc0f5a7574
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8518340091575771790
+    second: victorian-tenement_0
+  - first:
+      213: -4188592369747745912
+    second: victorian-tenement_1
+  - first:
+      213: 7867627220791557886
+    second: victorian-tenement_2
+  - first:
+      213: -426846666603473518
+    second: victorian-tenement_3
+  - first:
+      213: 775759006214940333
+    second: victorian-tenement_4
+  - first:
+      213: -1377330487570234003
+    second: victorian-tenement_5
+  - first:
+      213: 8004915189310138
+    second: victorian-tenement_6
+  - first:
+      213: 8634998927270883246
+    second: victorian-tenement_7
+  - first:
+      213: 5186502430466790697
+    second: victorian-tenement_8
+  - first:
+      213: -5952687899899724044
+    second: victorian-tenement_9
+  - first:
+      213: -8404837327990121822
+    second: victorian-tenement_10
+  - first:
+      213: 250267896936310867
+    second: victorian-tenement_11
+  - first:
+      213: 574644587921353180
+    second: victorian-tenement_12
+  - first:
+      213: -4899841709131009816
+    second: victorian-tenement_13
+  - first:
+      213: 3260022313785348533
+    second: victorian-tenement_14
+  - first:
+      213: 5320510041128467160
+    second: victorian-tenement_15
+  - first:
+      213: -7571249140719012352
+    second: victorian-tenement_16
+  - first:
+      213: -7792164678512112975
+    second: victorian-tenement_17
+  - first:
+      213: -762749884493864611
+    second: victorian-tenement_18
+  - first:
+      213: 406951908983033430
+    second: victorian-tenement_19
+  - first:
+      213: 5681526455195904080
+    second: victorian-tenement_20
+  - first:
+      213: -2701033409905211987
+    second: victorian-tenement_21
+  - first:
+      213: 879506765874298554
+    second: victorian-tenement_22
+  - first:
+      213: -4568487630995816677
+    second: victorian-tenement_23
+  - first:
+      213: -1167302603813215868
+    second: victorian-tenement_24
+  - first:
+      213: -277651507063430206
+    second: victorian-tenement_25
+  - first:
+      213: -4382658253512770813
+    second: victorian-tenement_26
+  - first:
+      213: 7172447953614064779
+    second: victorian-tenement_27
+  - first:
+      213: 7665829608301529766
+    second: victorian-tenement_28
+  - first:
+      213: 6503888685282779329
+    second: victorian-tenement_29
+  - first:
+      213: -7862381820111671109
+    second: victorian-tenement_30
+  - first:
+      213: 9050669779750926310
+    second: victorian-tenement_31
+  - first:
+      213: -4052125992870753342
+    second: victorian-tenement_32
+  - first:
+      213: 1891746243327905797
+    second: victorian-tenement_33
+  - first:
+      213: 7243470571411112864
+    second: victorian-tenement_34
+  - first:
+      213: -6804354402323904223
+    second: victorian-tenement_35
+  - first:
+      213: 4682879475122784878
+    second: victorian-tenement_36
+  - first:
+      213: -2708137784274117136
+    second: victorian-tenement_37
+  - first:
+      213: 1126204904173258255
+    second: victorian-tenement_38
+  - first:
+      213: -4853463380880979899
+    second: victorian-tenement_39
+  - first:
+      213: -2191899598389948195
+    second: victorian-tenement_40
+  - first:
+      213: -5017148169613750754
+    second: victorian-tenement_41
+  - first:
+      213: -2029004334489727938
+    second: victorian-tenement_42
+  - first:
+      213: 1166094289456064426
+    second: victorian-tenement_43
+  - first:
+      213: 4222169384997466333
+    second: victorian-tenement_44
+  - first:
+      213: 5353013873014560971
+    second: victorian-tenement_45
+  - first:
+      213: 90963694758070271
+    second: victorian-tenement_46
+  - first:
+      213: -7765396461038872162
+    second: victorian-tenement_47
+  - first:
+      213: -6356070198623854258
+    second: victorian-tenement_48
+  - first:
+      213: 2728071318838441726
+    second: victorian-tenement_49
+  - first:
+      213: 3950657145682590971
+    second: victorian-tenement_50
+  - first:
+      213: 3285730039386618568
+    second: victorian-tenement_51
+  - first:
+      213: -2935480544298493795
+    second: victorian-tenement_52
+  - first:
+      213: 2210589628397904580
+    second: victorian-tenement_53
+  - first:
+      213: 2431005093108084940
+    second: victorian-tenement_54
+  - first:
+      213: 277132175818551587
+    second: victorian-tenement_55
+  - first:
+      213: -5000380234189893708
+    second: victorian-tenement_56
+  - first:
+      213: -6838790312413383306
+    second: victorian-tenement_57
+  - first:
+      213: -3359607118410615649
+    second: victorian-tenement_58
+  - first:
+      213: 1644448804504048966
+    second: victorian-tenement_59
+  - first:
+      213: 6316549083095413451
+    second: victorian-tenement_60
+  - first:
+      213: 3335230266912568464
+    second: victorian-tenement_61
+  - first:
+      213: -5571033453231185095
+    second: victorian-tenement_62
+  - first:
+      213: -4331184728204784909
+    second: victorian-tenement_63
+  - first:
+      213: 125063428885685853
+    second: victorian-tenement_64
+  - first:
+      213: 3378911765875086348
+    second: victorian-tenement_65
+  - first:
+      213: 9097778605935347741
+    second: victorian-tenement_66
+  - first:
+      213: 951288739283162040
+    second: victorian-tenement_67
+  - first:
+      213: -8082320748273798636
+    second: victorian-tenement_68
+  - first:
+      213: -2867298410519269598
+    second: victorian-tenement_69
+  - first:
+      213: -5080894244000027736
+    second: victorian-tenement_70
+  - first:
+      213: 8964253862317821771
+    second: victorian-tenement_71
+  - first:
+      213: 1792731687562731747
+    second: victorian-tenement_72
+  - first:
+      213: -1150607755689252509
+    second: victorian-tenement_73
+  - first:
+      213: 4017887566022411995
+    second: victorian-tenement_74
+  - first:
+      213: 1395295345016918642
+    second: victorian-tenement_75
+  - first:
+      213: 7292586485908497831
+    second: victorian-tenement_76
+  - first:
+      213: -432179034210635497
+    second: victorian-tenement_77
+  - first:
+      213: -658972049020403666
+    second: victorian-tenement_78
+  - first:
+      213: 5966881527730386769
+    second: victorian-tenement_79
+  - first:
+      213: -8443056622732681166
+    second: victorian-tenement_80
+  - first:
+      213: -8060476114683813725
+    second: victorian-tenement_81
+  - first:
+      213: -7117803828123031223
+    second: victorian-tenement_82
+  - first:
+      213: 4832085992402252567
+    second: victorian-tenement_83
+  - first:
+      213: -6639506028715279885
+    second: victorian-tenement_84
+  - first:
+      213: -5893132088390119739
+    second: victorian-tenement_85
+  - first:
+      213: 2831237357787900977
+    second: victorian-tenement_86
+  - first:
+      213: -6311632509076965518
+    second: victorian-tenement_87
+  - first:
+      213: -2261345358810265111
+    second: victorian-tenement_88
+  - first:
+      213: -883917927197522972
+    second: victorian-tenement_89
+  - first:
+      213: -2689921740445402921
+    second: victorian-tenement_90
+  - first:
+      213: 8359587269635236901
+    second: victorian-tenement_91
+  - first:
+      213: -2136862897878348734
+    second: victorian-tenement_92
+  - first:
+      213: 181901543772946347
+    second: victorian-tenement_93
+  - first:
+      213: -8596198986602193855
+    second: victorian-tenement_94
+  - first:
+      213: -9071633278525194124
+    second: victorian-tenement_95
+  - first:
+      213: 1065531515774891980
+    second: victorian-tenement_96
+  - first:
+      213: -3675680274530725092
+    second: victorian-tenement_97
+  - first:
+      213: 1249216618530594807
+    second: victorian-tenement_98
+  - first:
+      213: -1589907498079712972
+    second: victorian-tenement_99
+  - first:
+      213: -2150638223788960540
+    second: victorian-tenement_100
+  - first:
+      213: -7379874112464693914
+    second: victorian-tenement_101
+  - first:
+      213: -6440391832273361279
+    second: victorian-tenement_102
+  - first:
+      213: -2685749467589974166
+    second: victorian-tenement_103
+  - first:
+      213: 7236662829026247707
+    second: victorian-tenement_104
+  - first:
+      213: -8099763928761290827
+    second: victorian-tenement_105
+  - first:
+      213: -3414324203172863411
+    second: victorian-tenement_106
+  - first:
+      213: -7204907172286145697
+    second: victorian-tenement_107
+  - first:
+      213: 8554489956679572735
+    second: victorian-tenement_108
+  - first:
+      213: -4068804929392142224
+    second: victorian-tenement_109
+  - first:
+      213: 5624534607514840433
+    second: victorian-tenement_110
+  - first:
+      213: 3063566927940368786
+    second: victorian-tenement_111
+  - first:
+      213: -2769675629450150433
+    second: victorian-tenement_112
+  - first:
+      213: -8786797898992016404
+    second: victorian-tenement_113
+  - first:
+      213: 3932906297011278829
+    second: victorian-tenement_114
+  - first:
+      213: -2158741728339884994
+    second: victorian-tenement_115
+  - first:
+      213: 3372692067763497125
+    second: victorian-tenement_116
+  - first:
+      213: 664177353769838120
+    second: victorian-tenement_117
+  - first:
+      213: -7447619870324040561
+    second: victorian-tenement_118
+  - first:
+      213: 7706408698193809949
+    second: victorian-tenement_119
+  - first:
+      213: -6558189794682345425
+    second: victorian-tenement_120
+  - first:
+      213: 3145213357399464806
+    second: victorian-tenement_121
+  - first:
+      213: -1470190578128696325
+    second: victorian-tenement_122
+  - first:
+      213: 926738361371898119
+    second: victorian-tenement_123
+  - first:
+      213: -9118059429392162533
+    second: victorian-tenement_124
+  - first:
+      213: -1634383223242419331
+    second: victorian-tenement_125
+  - first:
+      213: -2553955268930435710
+    second: victorian-tenement_126
+  - first:
+      213: -2280992038951738121
+    second: victorian-tenement_127
+  - first:
+      213: -7757562315272364013
+    second: victorian-tenement_128
+  - first:
+      213: 3516324474195437496
+    second: victorian-tenement_129
+  - first:
+      213: -6800249572821097003
+    second: victorian-tenement_130
+  - first:
+      213: -8091194379589127942
+    second: victorian-tenement_131
+  - first:
+      213: 2629343059544546611
+    second: victorian-tenement_132
+  - first:
+      213: -2390937439175423260
+    second: victorian-tenement_133
+  - first:
+      213: 578725957417968517
+    second: victorian-tenement_134
+  - first:
+      213: -6852438583504478458
+    second: victorian-tenement_135
+  - first:
+      213: 2088408531832001020
+    second: victorian-tenement_136
+  - first:
+      213: 3605548769797129520
+    second: victorian-tenement_137
+  - first:
+      213: -1793567865295812251
+    second: victorian-tenement_138
+  - first:
+      213: -7146464348803127881
+    second: victorian-tenement_139
+  - first:
+      213: 8673826552908199570
+    second: victorian-tenement_140
+  - first:
+      213: -1025143006369454592
+    second: victorian-tenement_141
+  - first:
+      213: -8434170514212292821
+    second: victorian-tenement_142
+  - first:
+      213: 2205316481760114809
+    second: victorian-tenement_143
+  - first:
+      213: 1880476174506741584
+    second: victorian-tenement_144
+  - first:
+      213: -4037397300921438393
+    second: victorian-tenement_145
+  - first:
+      213: 262121977419234969
+    second: victorian-tenement_146
+  - first:
+      213: 4358781297002937101
+    second: victorian-tenement_147
+  - first:
+      213: -8720576790303147612
+    second: victorian-tenement_148
+  - first:
+      213: -2454183457878164004
+    second: victorian-tenement_149
+  - first:
+      213: -7125290192527153209
+    second: victorian-tenement_150
+  - first:
+      213: -3254640464726062535
+    second: victorian-tenement_151
+  - first:
+      213: 8233359905555489998
+    second: victorian-tenement_152
+  - first:
+      213: 6617267309536186423
+    second: victorian-tenement_153
+  - first:
+      213: -1974244472104937440
+    second: victorian-tenement_154
+  - first:
+      213: 2503987055886608838
+    second: victorian-tenement_155
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: victorian-tenement_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1727
+        width: 609
+        height: 1345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82a7526e29373670800000000000000
+      internalID: 8518340091575771790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_1
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 2975
+        width: 22
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 883264c8e612fd5c0800000000000000
+      internalID: -4188592369747745912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_2
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 2975
+        width: 16
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efe7978d54d6f2d60800000000000000
+      internalID: 7867627220791557886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_3
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 2975
+        width: 18
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2955a8fd739831af0800000000000000
+      internalID: -426846666603473518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_4
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 2975
+        width: 18
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da660ccb4bc04ca00800000000000000
+      internalID: 775759006214940333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_5
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 2975
+        width: 28
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d658f0e083db2ece0800000000000000
+      internalID: -1377330487570234003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_6
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 3045
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2e05e8d607c1000800000000000000
+      internalID: 8004915189310138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_7
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 2991
+        width: 70
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaf2cdf26cda5d770800000000000000
+      internalID: 8634998927270883246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_8
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 2987
+        width: 86
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9255ca23b782af740800000000000000
+      internalID: 5186502430466790697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_9
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 3053
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fef5bbc4edc36da0800000000000000
+      internalID: -5952687899899724044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_10
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 3020
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aa943e1bf40c5b80800000000000000
+      internalID: -8404837327990121822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_11
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 2975
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 358a2978351297300800000000000000
+      internalID: 250267896936310867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_12
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 2988
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd92727453c89f700800000000000000
+      internalID: 574644587921353180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_13
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 2850
+        width: 194
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e07a9f0de3400cb0800000000000000
+      internalID: -4899841709131009816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_14
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 2879
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1d505a50ded3d20800000000000000
+      internalID: 3260022313785348533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_15
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 2879
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da7c5171bf36d940800000000000000
+      internalID: 5320510041128467160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_16
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 2751
+        width: 22
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 006367d45058de690800000000000000
+      internalID: -7571249140719012352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_17
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 2751
+        width: 16
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba80f1728bacd390800000000000000
+      internalID: -7792164678512112975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_18
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 2751
+        width: 18
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51e542750b2a65f0800000000000000
+      internalID: -762749884493864611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_19
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 2751
+        width: 18
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ec997ea98c5a500800000000000000
+      internalID: 406951908983033430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_20
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 2751
+        width: 28
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058afef7536d8de40800000000000000
+      internalID: 5681526455195904080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_21
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2821
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da54324ac60048ad0800000000000000
+      internalID: -2701033409905211987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_22
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 2767
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe7d756eb2a43c00800000000000000
+      internalID: 879506765874298554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_23
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 2763
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1f7ab954b87990c0800000000000000
+      internalID: -4568487630995816677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_24
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 2829
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481235a6778eccfe0800000000000000
+      internalID: -1167302603813215868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_25
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 2795
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c3e126ec65952cf0800000000000000
+      internalID: -277651507063430206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_26
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 2751
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30bff6be98bad23c0800000000000000
+      internalID: -4382658253512770813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_27
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 2764
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8cc42d9967a98360800000000000000
+      internalID: 7172447953614064779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_28
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 2626
+        width: 194
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa0c77d96f726a60800000000000000
+      internalID: 7665829608301529766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_29
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 2655
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c066f8dc44724a50800000000000000
+      internalID: 6503888685282779329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_30
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 2655
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb031cb246533e290800000000000000
+      internalID: -7862381820111671109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_31
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 2527
+        width: 22
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e7ba6156307a9d70800000000000000
+      internalID: 9050669779750926310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_32
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 2527
+        width: 16
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cbcfc9e0e4f3c7c0800000000000000
+      internalID: -4052125992870753342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_33
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 2527
+        width: 18
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5005db67f25d04a10800000000000000
+      internalID: 1891746243327905797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_34
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 2527
+        width: 18
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a384fd6b1af58460800000000000000
+      internalID: 7243470571411112864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_35
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 2527
+        width: 28
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1294e9bd8b31291a0800000000000000
+      internalID: -6804354402323904223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_36
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2597
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6a49a8521eecf040800000000000000
+      internalID: 4682879475122784878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_37
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 2543
+        width: 70
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fd17859803ca6ad0800000000000000
+      internalID: -2708137784274117136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_38
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 2539
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06cc89b46511af00800000000000000
+      internalID: 1126204904173258255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_39
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 2605
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 548093415c805acb0800000000000000
+      internalID: -4853463380880979899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_40
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 2572
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd055aeadeec491e0800000000000000
+      internalID: -2191899598389948195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_41
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 2527
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1ecbac52528f5ab0800000000000000
+      internalID: -5017148169613750754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_42
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 2540
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3c0303de4787d3e0800000000000000
+      internalID: -2029004334489727938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_43
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 2402
+        width: 194
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa7e3a9f39cce2010800000000000000
+      internalID: 1166094289456064426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_44
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 2431
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd0bd468fa8289a30800000000000000
+      internalID: 4222169384997466333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_45
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 2431
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc855ca81c9b94a40800000000000000
+      internalID: 5353013873014560971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_46
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 2303
+        width: 22
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff703899ffa234100800000000000000
+      internalID: 90963694758070271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_47
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 2303
+        width: 16
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e99d3bfbf05cb3490800000000000000
+      internalID: -7765396461038872162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_48
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 2303
+        width: 18
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e41249b84d3bac7a0800000000000000
+      internalID: -6356070198623854258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_49
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 2303
+        width: 18
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6fb49196e0cd520800000000000000
+      internalID: 2728071318838441726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_50
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 2303
+        width: 28
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfcf4c51ebd83d630800000000000000
+      internalID: 3950657145682590971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_51
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2373
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca3871ff02499d20800000000000000
+      internalID: 3285730039386618568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_52
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 2319
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9894007ff31347d0800000000000000
+      internalID: -2935480544298493795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_53
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 2315
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2e1d80e879dae10800000000000000
+      internalID: 2210589628397904580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_54
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 2381
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc07fdd804aacb120800000000000000
+      internalID: 2431005093108084940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_55
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 2348
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321fe7fde3298d300800000000000000
+      internalID: 277132175818551587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_56
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 2303
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf0a3f8ba41b9ab0800000000000000
+      internalID: -5000380234189893708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_57
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 2316
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675b73fb17cb711a0800000000000000
+      internalID: -6838790312413383306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_58
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 2178
+        width: 194
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94f24230274061d0800000000000000
+      internalID: -3359607118410615649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_59
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 2207
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64597cb997142d610800000000000000
+      internalID: 1644448804504048966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_60
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 2207
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc2b830bce3e8a750800000000000000
+      internalID: 6316549083095413451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_61
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 2079
+        width: 22
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0947477c14e194e20800000000000000
+      internalID: 3335230266912568464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_62
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 2079
+        width: 16
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93366544796bfa2b0800000000000000
+      internalID: -5571033453231185095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_63
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 2079
+        width: 18
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fac1c2ff6a84e3c0800000000000000
+      internalID: -4331184728204784909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_64
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 2079
+        width: 18
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d56af15a6805cb100800000000000000
+      internalID: 125063428885685853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_65
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 2079
+        width: 28
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c045f5c495e44ee20800000000000000
+      internalID: 3378911765875086348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_66
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 2149
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18cce3a07dc14e70800000000000000
+      internalID: 9097778605935347741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_67
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 2095
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b35dc77118a33d00800000000000000
+      internalID: 951288739283162040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_68
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 2091
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412fe56f914d5df80800000000000000
+      internalID: -8082320748273798636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_69
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 2157
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22fe4f7894f4538d0800000000000000
+      internalID: -2867298410519269598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_70
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 2124
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ab2d05da990d79b0800000000000000
+      internalID: -5080894244000027736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_71
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 2079
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f80e3a46d676c70800000000000000
+      internalID: 8964253862317821771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_72
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 2092
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e063c6b8ff01e810800000000000000
+      internalID: 1792731687562731747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_73
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1954
+        width: 194
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3692556a7583800f0800000000000000
+      internalID: -1150607755689252509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_74
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1983
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd68930247762c730800000000000000
+      internalID: 4017887566022411995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_75
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1983
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2725d7449b51d5310800000000000000
+      internalID: 1395295345016918642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_76
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1855
+        width: 22
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a5e36a65c8743560800000000000000
+      internalID: 7292586485908497831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_77
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 1855
+        width: 16
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 711f08a4577900af0800000000000000
+      internalID: -432179034210635497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_78
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1855
+        width: 18
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e204a3da96cdad6f0800000000000000
+      internalID: -658972049020403666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_79
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1855
+        width: 18
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 157b535b22f9ec250800000000000000
+      internalID: 5966881527730386769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_80
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 1855
+        width: 28
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 230628f1cbc34da80800000000000000
+      internalID: -8443056622732681166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_81
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1925
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a020cf0eaf632090800000000000000
+      internalID: -8060476114683813725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_82
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1871
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 949afcb412b783d90800000000000000
+      internalID: -7117803828123031223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_83
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1867
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713f64dcb940f0340800000000000000
+      internalID: 4832085992402252567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_84
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1933
+        width: 29
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f97c5ac17cbbd3a0800000000000000
+      internalID: -6639506028715279885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_85
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1900
+        width: 30
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce0d09b693673ea0800000000000000
+      internalID: -5893132088390119739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_86
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1855
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c63c950639a4720800000000000000
+      internalID: 2831237357787900977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_87
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 1868
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277f8a76ca39868a0800000000000000
+      internalID: -6311632509076965518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_88
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1730
+        width: 194
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9c2a590661e90e0800000000000000
+      internalID: -2261345358810265111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_89
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1759
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e3cac21451bbb3f0800000000000000
+      internalID: -883917927197522972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_90
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1759
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8b62bcd6a7baad0800000000000000
+      internalID: -2689921740445402921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_91
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1215
+        width: 257
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5246c7ba458330470800000000000000
+      internalID: 8359587269635236901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_92
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1215
+        width: 224
+        height: 450
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24ccf3614865852e0800000000000000
+      internalID: -2136862897878348734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_93
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1455
+        width: 288
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baf7ea48d7e368200800000000000000
+      internalID: 181901543772946347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_94
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1583
+        width: 70
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14cd009f09a24b880800000000000000
+      internalID: -8596198986602193855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_95
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1579
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470c4e4c8951b1280800000000000000
+      internalID: -9071633278525194124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_96
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1567
+        width: 50
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7feb6a44789ce00800000000000000
+      internalID: 1065531515774891980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_97
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1567
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c139fa0d34c5dfcc0800000000000000
+      internalID: -3675680274530725092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_98
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1327
+        width: 288
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffd70b55eb165110800000000000000
+      internalID: 1249216618530594807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_99
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1451
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4398a3fdd838fe9e0800000000000000
+      internalID: -1589907498079712972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_100
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1439
+        width: 50
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e49ea61ee56722e0800000000000000
+      internalID: -2150638223788960540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_101
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1439
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665d07f489b659990800000000000000
+      internalID: -7379874112464693914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_102
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 1023
+        width: 416
+        height: 374
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186e40f40c12f96a0800000000000000
+      internalID: -6440391832273361279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_103
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1323
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a67ea94c61d4abad0800000000000000
+      internalID: -2685749467589974166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_104
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 1311
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b140263608acd6460800000000000000
+      internalID: 7236662829026247707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_105
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1289
+        width: 97
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf29a50f9bd79f80800000000000000
+      internalID: -8099763928761290827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_106
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 1215
+        width: 57
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42ecd12a32ed90d0800000000000000
+      internalID: -3414324203172863411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_107
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1257
+        width: 97
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b583c9917030c90800000000000000
+      internalID: -7204907172286145697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_108
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1229
+        width: 97
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc588eba47a7b670800000000000000
+      internalID: 8554489956679572735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_109
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 787
+        width: 577
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07819336973b887c0800000000000000
+      internalID: -4068804929392142224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_110
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1197
+        width: 97
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d20dbec6c5e0e40800000000000000
+      internalID: 5624534607514840433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_111
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1165
+        width: 97
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2993585b3e9f38a20800000000000000
+      internalID: 3063566927940368786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_112
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1133
+        width: 97
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd319b70b22099d0800000000000000
+      internalID: -2769675629450150433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_113
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1102
+        width: 97
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce3ae658dd50f0680800000000000000
+      internalID: -8786797898992016404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_114
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1055
+        width: 96
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de31140907d749630800000000000000
+      internalID: 3932906297011278829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_115
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1023
+        width: 96
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e340d78e5db9a02e0800000000000000
+      internalID: -2158741728339884994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_116
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 823
+        width: 130
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a822dbf0953ece20800000000000000
+      internalID: 3372692067763497125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_117
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 959
+        width: 92
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8266f47c8c1a73900800000000000000
+      internalID: 664177353769838120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_118
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 927
+        width: 97
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8cd137ef2db4a890800000000000000
+      internalID: -7447619870324040561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_119
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 821
+        width: 128
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1292d571e9a2fa60800000000000000
+      internalID: 7706408698193809949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_120
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 767
+        width: 162
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28ed56e021acf4a0800000000000000
+      internalID: -6558189794682345425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_121
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 909
+        width: 66
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66bdb9e62ea06ab20800000000000000
+      internalID: 3145213357399464806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_122
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 879
+        width: 59
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfb43866575d89be0800000000000000
+      internalID: -1470190578128696325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_123
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 639
+        width: 65
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701bc4d21af6cdc00800000000000000
+      internalID: 926738361371898119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_124
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 792
+        width: 31
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b11ed2e2245267180800000000000000
+      internalID: -9118059429392162533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_125
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 792
+        width: 31
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7317c72e118159e0800000000000000
+      internalID: -1634383223242419331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_126
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 683
+        width: 66
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2850a2fd6378e8cd0800000000000000
+      internalID: -2553955268930435710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_127
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 703
+        width: 12
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f4a9c663d94850e0800000000000000
+      internalID: -2280992038951738121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_128
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 799
+        width: 59
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 310eb33fc2a975490800000000000000
+      internalID: -7757562315272364013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_129
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 741
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b76e6f9a7e7cc030800000000000000
+      internalID: 3516324474195437496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_130
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 741
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d52ff3fa09a0a1a0800000000000000
+      internalID: -6800249572821097003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_131
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 741
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af0f3fba49d46bf80800000000000000
+      internalID: -8091194379589127942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_132
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 741
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d9ac0f49d4d7420800000000000000
+      internalID: 2629343059544546611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_133
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 767
+        width: 59
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea44c9111fa1ded0800000000000000
+      internalID: -2390937439175423260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_134
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 665
+        width: 18
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583223a213c080800800000000000000
+      internalID: 578725957417968517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_135
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 665
+        width: 18
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60fd8010a6f37e0a0800000000000000
+      internalID: -6852438583504478458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_136
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 662
+        width: 18
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf1ddbdae748bfc10800000000000000
+      internalID: 2088408531832001020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_137
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 662
+        width: 18
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 035ca1cc08b790230800000000000000
+      internalID: 3605548769797129520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_138
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 665
+        width: 18
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 569cc7c7787fb17e0800000000000000
+      internalID: -1793567865295812251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_139
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 665
+        width: 18
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5a891d988a2dc90800000000000000
+      internalID: -7146464348803127881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_140
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 662
+        width: 18
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296b1714b4f9f5870800000000000000
+      internalID: 8673826552908199570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_141
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 662
+        width: 18
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0066f5dfdd5f5c1f0800000000000000
+      internalID: -1025143006369454592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_142
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 735
+        width: 34
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b277d4d7a9ec3fa80800000000000000
+      internalID: -8434170514212292821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_143
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 685
+        width: 59
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97830a8e7abda9e10800000000000000
+      internalID: 2205316481760114809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_144
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 733
+        width: 59
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f4f061e1bc81a10800000000000000
+      internalID: 1880476174506741584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_145
+      rect:
+        serializedVersion: 2
+        x: 111
+        y: 649
+        width: 34
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74fe47dbb8848f7c0800000000000000
+      internalID: -4037397300921438393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_146
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 649
+        width: 34
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e75e7bc8e33a300800000000000000
+      internalID: 262121977419234969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_147
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 649
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bf97dee708d7c30800000000000000
+      internalID: 4358781297002937101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_148
+      rect:
+        serializedVersion: 2
+        x: 737
+        y: 648
+        width: 30
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9f671ec994af680800000000000000
+      internalID: -8720576790303147612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_149
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 511
+        width: 769
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd388bd52df0fdd0800000000000000
+      internalID: -2454183457878164004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_150
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 537
+        width: 146
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c728d04252ed1d90800000000000000
+      internalID: -7125290192527153209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_151
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 409
+        width: 146
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93a046cbdb135d2d0800000000000000
+      internalID: -3254640464726062535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_152
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 383
+        width: 769
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4249e3635c24270800000000000000
+      internalID: 8233359905555489998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_153
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 383
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73095b8ee8145db50800000000000000
+      internalID: 6617267309536186423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_154
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 383
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0281864dc131a94e0800000000000000
+      internalID: -1974244472104937440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: victorian-tenement_155
+      rect:
+        serializedVersion: 2
+        x: 998
+        y: 5
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c92c4ce5f2ffb220800000000000000
+      internalID: 2503987055886608838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      victorian-tenement_0: 8518340091575771790
+      victorian-tenement_1: -4188592369747745912
+      victorian-tenement_10: -8404837327990121822
+      victorian-tenement_100: -2150638223788960540
+      victorian-tenement_101: -7379874112464693914
+      victorian-tenement_102: -6440391832273361279
+      victorian-tenement_103: -2685749467589974166
+      victorian-tenement_104: 7236662829026247707
+      victorian-tenement_105: -8099763928761290827
+      victorian-tenement_106: -3414324203172863411
+      victorian-tenement_107: -7204907172286145697
+      victorian-tenement_108: 8554489956679572735
+      victorian-tenement_109: -4068804929392142224
+      victorian-tenement_11: 250267896936310867
+      victorian-tenement_110: 5624534607514840433
+      victorian-tenement_111: 3063566927940368786
+      victorian-tenement_112: -2769675629450150433
+      victorian-tenement_113: -8786797898992016404
+      victorian-tenement_114: 3932906297011278829
+      victorian-tenement_115: -2158741728339884994
+      victorian-tenement_116: 3372692067763497125
+      victorian-tenement_117: 664177353769838120
+      victorian-tenement_118: -7447619870324040561
+      victorian-tenement_119: 7706408698193809949
+      victorian-tenement_12: 574644587921353180
+      victorian-tenement_120: -6558189794682345425
+      victorian-tenement_121: 3145213357399464806
+      victorian-tenement_122: -1470190578128696325
+      victorian-tenement_123: 926738361371898119
+      victorian-tenement_124: -9118059429392162533
+      victorian-tenement_125: -1634383223242419331
+      victorian-tenement_126: -2553955268930435710
+      victorian-tenement_127: -2280992038951738121
+      victorian-tenement_128: -7757562315272364013
+      victorian-tenement_129: 3516324474195437496
+      victorian-tenement_13: -4899841709131009816
+      victorian-tenement_130: -6800249572821097003
+      victorian-tenement_131: -8091194379589127942
+      victorian-tenement_132: 2629343059544546611
+      victorian-tenement_133: -2390937439175423260
+      victorian-tenement_134: 578725957417968517
+      victorian-tenement_135: -6852438583504478458
+      victorian-tenement_136: 2088408531832001020
+      victorian-tenement_137: 3605548769797129520
+      victorian-tenement_138: -1793567865295812251
+      victorian-tenement_139: -7146464348803127881
+      victorian-tenement_14: 3260022313785348533
+      victorian-tenement_140: 8673826552908199570
+      victorian-tenement_141: -1025143006369454592
+      victorian-tenement_142: -8434170514212292821
+      victorian-tenement_143: 2205316481760114809
+      victorian-tenement_144: 1880476174506741584
+      victorian-tenement_145: -4037397300921438393
+      victorian-tenement_146: 262121977419234969
+      victorian-tenement_147: 4358781297002937101
+      victorian-tenement_148: -8720576790303147612
+      victorian-tenement_149: -2454183457878164004
+      victorian-tenement_15: 5320510041128467160
+      victorian-tenement_150: -7125290192527153209
+      victorian-tenement_151: -3254640464726062535
+      victorian-tenement_152: 8233359905555489998
+      victorian-tenement_153: 6617267309536186423
+      victorian-tenement_154: -1974244472104937440
+      victorian-tenement_155: 2503987055886608838
+      victorian-tenement_16: -7571249140719012352
+      victorian-tenement_17: -7792164678512112975
+      victorian-tenement_18: -762749884493864611
+      victorian-tenement_19: 406951908983033430
+      victorian-tenement_2: 7867627220791557886
+      victorian-tenement_20: 5681526455195904080
+      victorian-tenement_21: -2701033409905211987
+      victorian-tenement_22: 879506765874298554
+      victorian-tenement_23: -4568487630995816677
+      victorian-tenement_24: -1167302603813215868
+      victorian-tenement_25: -277651507063430206
+      victorian-tenement_26: -4382658253512770813
+      victorian-tenement_27: 7172447953614064779
+      victorian-tenement_28: 7665829608301529766
+      victorian-tenement_29: 6503888685282779329
+      victorian-tenement_3: -426846666603473518
+      victorian-tenement_30: -7862381820111671109
+      victorian-tenement_31: 9050669779750926310
+      victorian-tenement_32: -4052125992870753342
+      victorian-tenement_33: 1891746243327905797
+      victorian-tenement_34: 7243470571411112864
+      victorian-tenement_35: -6804354402323904223
+      victorian-tenement_36: 4682879475122784878
+      victorian-tenement_37: -2708137784274117136
+      victorian-tenement_38: 1126204904173258255
+      victorian-tenement_39: -4853463380880979899
+      victorian-tenement_4: 775759006214940333
+      victorian-tenement_40: -2191899598389948195
+      victorian-tenement_41: -5017148169613750754
+      victorian-tenement_42: -2029004334489727938
+      victorian-tenement_43: 1166094289456064426
+      victorian-tenement_44: 4222169384997466333
+      victorian-tenement_45: 5353013873014560971
+      victorian-tenement_46: 90963694758070271
+      victorian-tenement_47: -7765396461038872162
+      victorian-tenement_48: -6356070198623854258
+      victorian-tenement_49: 2728071318838441726
+      victorian-tenement_5: -1377330487570234003
+      victorian-tenement_50: 3950657145682590971
+      victorian-tenement_51: 3285730039386618568
+      victorian-tenement_52: -2935480544298493795
+      victorian-tenement_53: 2210589628397904580
+      victorian-tenement_54: 2431005093108084940
+      victorian-tenement_55: 277132175818551587
+      victorian-tenement_56: -5000380234189893708
+      victorian-tenement_57: -6838790312413383306
+      victorian-tenement_58: -3359607118410615649
+      victorian-tenement_59: 1644448804504048966
+      victorian-tenement_6: 8004915189310138
+      victorian-tenement_60: 6316549083095413451
+      victorian-tenement_61: 3335230266912568464
+      victorian-tenement_62: -5571033453231185095
+      victorian-tenement_63: -4331184728204784909
+      victorian-tenement_64: 125063428885685853
+      victorian-tenement_65: 3378911765875086348
+      victorian-tenement_66: 9097778605935347741
+      victorian-tenement_67: 951288739283162040
+      victorian-tenement_68: -8082320748273798636
+      victorian-tenement_69: -2867298410519269598
+      victorian-tenement_7: 8634998927270883246
+      victorian-tenement_70: -5080894244000027736
+      victorian-tenement_71: 8964253862317821771
+      victorian-tenement_72: 1792731687562731747
+      victorian-tenement_73: -1150607755689252509
+      victorian-tenement_74: 4017887566022411995
+      victorian-tenement_75: 1395295345016918642
+      victorian-tenement_76: 7292586485908497831
+      victorian-tenement_77: -432179034210635497
+      victorian-tenement_78: -658972049020403666
+      victorian-tenement_79: 5966881527730386769
+      victorian-tenement_8: 5186502430466790697
+      victorian-tenement_80: -8443056622732681166
+      victorian-tenement_81: -8060476114683813725
+      victorian-tenement_82: -7117803828123031223
+      victorian-tenement_83: 4832085992402252567
+      victorian-tenement_84: -6639506028715279885
+      victorian-tenement_85: -5893132088390119739
+      victorian-tenement_86: 2831237357787900977
+      victorian-tenement_87: -6311632509076965518
+      victorian-tenement_88: -2261345358810265111
+      victorian-tenement_89: -883917927197522972
+      victorian-tenement_9: -5952687899899724044
+      victorian-tenement_90: -2689921740445402921
+      victorian-tenement_91: 8359587269635236901
+      victorian-tenement_92: -2136862897878348734
+      victorian-tenement_93: 181901543772946347
+      victorian-tenement_94: -8596198986602193855
+      victorian-tenement_95: -9071633278525194124
+      victorian-tenement_96: 1065531515774891980
+      victorian-tenement_97: -3675680274530725092
+      victorian-tenement_98: 1249216618530594807
+      victorian-tenement_99: -1589907498079712972
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94ffd712ae9ff5542987662196fc462b, type: 3}
+  m_Name: Napoleon_Wrasse
+  m_EditorClassIdentifier: Assembly-CSharp::EndangeredFishDefinition
+  fishName: Napoleon Wrasse
+  scientificName: Cheilinus undulatus
+  description: Also known as 'Mameng' in the Philippines. Large, colorful reef fish
+    that can grow over 2 meters. Highly valued in live fish trade.
+  status: 1
+  iucnStatus: Endangered
+  populationTrend: Decreasing
+  habitat: Coral reefs in tropical waters, lagoons, and outer reef slopes
+  distribution: Indo-Pacific region including Philippines, Indonesia, Malaysia, Australia,
+    and Red Sea
+  threats: Overfishing for live fish trade (especially to Hong Kong and China), habitat
+    destruction, cyanide fishing, slow reproductive rate
+  importance: Apex predator on coral reefs, maintains reef ecosystem balance, important
+    for reef health and biodiversity
+  conservationEfforts: Marine protected areas, fishing bans in some areas, CITES
+    listing, size and catch limits, reef conservation programs
+  fishImage: {fileID: 0}
+  fishIcon: {fileID: 0}

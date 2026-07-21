@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7651e250fea4e664396b28b6b87cf878, type: 3}
+  m_Name: tulingan
+  m_EditorClassIdentifier: Assembly-CSharp::FishCatalogEntry
+  fishId: tul
+  displayName: Tulingan
+  scientificName: 
+  description: Used for sinaing na tulingan; moderate bone complexity.
+  mainSprite: {fileID: 1808971414335951078, guid: d115d5a909cc2e04e9e923e09804dca3, type: 3}
+  iconSprite: {fileID: 1808971414335951078, guid: d115d5a909cc2e04e9e923e09804dca3, type: 3}
+  tags: []
+  isEndangered: 0
+  aliases: []
+  baseSellPrice: 40
+  processedValueMultiplier: 1.35
+  endangeredValueMultiplier: 2

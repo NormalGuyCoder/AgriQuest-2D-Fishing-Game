@@ -1,0 +1,457 @@
+fileFormatVersion: 2
+guid: b99eb14138d1de24e963d91e4a0159fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5101142137046325199
+    second: benches1_0
+  - first:
+      213: -5971083244450916569
+    second: benches1_1
+  - first:
+      213: -5020818422354600787
+    second: benches1_2
+  - first:
+      213: -2572042245240068647
+    second: benches1_3
+  - first:
+      213: -7316177438382407239
+    second: benches1_4
+  - first:
+      213: -5955746345105712715
+    second: benches1_5
+  - first:
+      213: -8217442808179016013
+    second: benches1_6
+  - first:
+      213: -8031363459112680272
+    second: benches1_7
+  - first:
+      213: 2074693134609078999
+    second: benches1_8
+  - first:
+      213: -7786777811897787432
+    second: benches1_9
+  - first:
+      213: -6012451808122888768
+    second: benches1_10
+  - first:
+      213: -5539798720575391493
+    second: benches1_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: benches1_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 119
+        width: 23
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -9.5, y: -31.5}
+        - {x: -2.5, y: -31.5}
+        - {x: -3.5, y: 31.5}
+        - {x: -10.5, y: 31.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138a39cd04a1539b0800000000000000
+      internalID: -5101142137046325199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benches1_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 119
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17.5, y: -21.5}
+        - {x: 17.5, y: -21.5}
+        - {x: 17.5, y: 27.5}
+        - {x: -17.5, y: 27.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7275732ec63722da0800000000000000
+      internalID: -5971083244450916569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benches1_2
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 119
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 3, y: -31.5}
+        - {x: 11, y: -31.5}
+        - {x: 11, y: 32.5}
+        - {x: 4, y: 32.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: dac11dd0f38725ab0800000000000000
+      internalID: -5020818422354600787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benches1_3
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 119
+        width: 35
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -17.5, y: -22.5}
+        - {x: 17.5, y: -22.5}
+        - {x: 17.5, y: 28.5}
+        - {x: -17.5, y: 28.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5ea2984354e4cd0800000000000000
+      internalID: -2572042245240068647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benches1_4
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 119
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 3, y: -32.5}
+        - {x: 11, y: -32.5}
+        - {x: 11, y: 32.5}
+        - {x: 3, y: 32.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b14d7fe167b77a90800000000000000
+      internalID: -7316177438382407239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benches1_5
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 119
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: -11, y: -32.5}
+        - {x: -4, y: -32.5}
+        - {x: -4, y: 32.5}
+        - {x: -11, y: 32.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b994a70140f85da0800000000000000
+      internalID: -5955746345105712715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benches1_6
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 119
+        width: 22
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape:
+      - - {x: 3, y: -32.5}
+        - {x: 11, y: -32.5}
+        - {x: 11, y: 32.5}
+        - {x: 3, y: 32.5}
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3beb668cd47c5fd80800000000000000
+      internalID: -8217442808179016013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benches1_7
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 18
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b449856c7dda8090800000000000000
+      internalID: -8031363459112680272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benches1_8
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 46
+        width: 71
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7dad05ae96acacc10800000000000000
+      internalID: 2074693134609078999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benches1_9
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 67
+        width: 82
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8db50f016decfe390800000000000000
+      internalID: -7786777811897787432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benches1_10
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 18
+        width: 82
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd1ea39fea7f8ca0800000000000000
+      internalID: -6012451808122888768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: benches1_11
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 18
+        width: 83
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf8b0fc2a6eae13b0800000000000000
+      internalID: -5539798720575391493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: d0b63350e2565734fa73263204542722
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      benches1_0: -5101142137046325199
+      benches1_1: -5971083244450916569
+      benches1_10: -6012451808122888768
+      benches1_11: -5539798720575391493
+      benches1_2: -5020818422354600787
+      benches1_3: -2572042245240068647
+      benches1_4: -7316177438382407239
+      benches1_5: -5955746345105712715
+      benches1_6: -8217442808179016013
+      benches1_7: -8031363459112680272
+      benches1_8: 2074693134609078999
+      benches1_9: -7786777811897787432
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

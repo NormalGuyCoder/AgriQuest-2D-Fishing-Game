@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f3ad6191c4bd9b459be18ca60df94de, type: 3}
+  m_Name: DalagangBukid
+  m_EditorClassIdentifier: Assembly-CSharp::FishDefinition
+  fishType: DalagangBukid
+  displayName: Yellowtail Fusilier
+  difficulty: 2
+  educationalInfo: Light rib bones; great for introductory deboning.
+  description: Popular fried whole; mild flavor.
+  timeLimitSeconds: 120
+  spineBoneCount: 3
+  ribBoneCount: 8
+  pinBoneCount: 2
+  habitat: Reef edges and nearshore waters
+  cookingTips: After fillet, sweep with tweezers along the lateral line for pins.
+  fishSprite: {fileID: 906509260841018895, guid: bff7878e1bfd07f4fa69d484b2e873c0, type: 3}
+  fishIcon: {fileID: 906509260841018895, guid: bff7878e1bfd07f4fa69d484b2e873c0, type: 3}
+  fishPrefab: {fileID: 7434062677667821415, guid: d92497a6f72a8c745b9002d1440fc558, type: 3}
+  sharedCatalogEntry: {fileID: 11400000, guid: 8672155bdc3915e41872f8aff71265e1, type: 2}
+  sharedFishId: dalagangbukid
+  bones:
+  - name: Main Spine
+    x: 300
+    y: 200
+    width: 20
+    height: 300
+    boneType: 0
+    isRemoved: 0
+  - name: Rib 1
+    x: 282
+    y: 148
+    width: 15
+    height: 78
+    boneType: 1
+    isRemoved: 0
+  - name: Rib 2
+    x: 318
+    y: 148
+    width: 15
+    height: 78
+    boneType: 1
+    isRemoved: 0
+  - name: Pin Bone 1
+    x: 255
+    y: 178
+    width: 8
+    height: 15
+    boneType: 2
+    isRemoved: 0
+  - name: Pin Bone 2
+    x: 345
+    y: 178
+    width: 8
+    height: 15
+    boneType: 2
+    isRemoved: 0

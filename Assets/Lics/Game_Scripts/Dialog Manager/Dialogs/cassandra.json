@@ -1,0 +1,310 @@
+{
+  "npcDialogs": [
+    {
+      "npcName": "Cassandra",
+      "dialogs": [
+        {
+          "key": "first_visit",
+          "value": {
+            "speakerName": "Cassandra",
+            "text": "Hello there! A new face in my market!\n\nI'm Cassandra. You must be the stewardship student.\n\nVincent told me you'd be coming by!",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 10,
+                "conditionKey": "Cassandra",
+                "conditionValue": "false",
+                "expectedBool": true
+              },
+              {
+                "conditionType": 3,
+                "conditionKey": "FISHING_TUTORIAL",
+                "conditionValue": "COMPLETED"
+              }
+            ],
+            "triggersOnShow": [
+              "RecordTalkedToNPC:Cassandra"
+            ],
+            "choices": [
+              {
+                "choiceText": "Vincent sent me. I have fish to sell.",
+                "resultDialogId": "market_intro",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Can you teach me about the market?",
+                "resultDialogId": "market_intro",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "market_intro",
+          "value": {
+            "speakerName": "Cassandra",
+            "text": "Wonderful! I'm the market seller here at Fishy Bargains.\n\nYou can sell your fresh fish to me anytime.\n\nPrices are steady and fair for quality catch.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "How do the prices work?",
+                "resultDialogId": "price_explanation",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "What about the shop next door?",
+                "resultDialogId": "about_ruben",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "I'm ready to sell my fish.",
+                "resultDialogId": "",
+                "triggersOnChoose": ["OpenShop"],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "price_explanation",
+          "value": {
+            "speakerName": "Cassandra",
+            "text": "Fresh fish sell at steady prices. Quality matters most!\n\nBring me whatever you catch, and I'll offer a fair deal.\n\nDifferent fish have different values based on rarity.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "Tell me about the shop next door.",
+                "resultDialogId": "about_ruben",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "I'm ready to sell my fish.",
+                "resultDialogId": "",
+                "triggersOnChoose": ["OpenShop"],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Back to other questions.",
+                "resultDialogId": "market_intro",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "about_ruben",
+          "value": {
+            "speakerName": "Cassandra",
+            "text": "That's Ruben's place—Codfather's Processor.\n\nHe teaches deboning, a useful skill for any fisher.\n\nI only buy fresh fish, but he can teach you processing.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "How do the prices work?",
+                "resultDialogId": "price_explanation",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "I'm ready to sell my fish.",
+                "resultDialogId": "",
+                "triggersOnChoose": ["OpenShop"],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Back to other questions.",
+                "resultDialogId": "market_intro",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "after_first_sale",
+          "value": {
+            "speakerName": "Cassandra",
+            "text": "Congratulations on your first sale!\n\nYou're now part of our market community.\n\n(Achievement Unlocked: Market Novice)",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 3,
+                "conditionKey": "FIRST_MARKET_SALE",
+                "conditionValue": "COMPLETED"
+              }
+            ],
+            "triggersOnShow": [
+              "UnlockAchievement:Market Novice"
+            ],
+            "choices": [
+              {
+                "choiceText": "Thank you!",
+                "resultDialogId": "post_tutorial_qa",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "post_tutorial_qa",
+          "value": {
+            "speakerName": "Cassandra",
+            "text": "Welcome back! What can I help you with today?\n\nSelling more fish, or do you have questions about the market?",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 3,
+                "conditionKey": "FIRST_MARKET_SALE",
+                "conditionValue": "COMPLETED"
+              }
+            ],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "I want to sell my fish.",
+                "resultDialogId": "",
+                "triggersOnChoose": ["OpenShop"],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Can you remind me about prices?",
+                "resultDialogId": "price_reminder",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Where's Ruben's shop again?",
+                "resultDialogId": "ruden_reminder",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Just wanted to say hello!",
+                "resultDialogId": "hello_response",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "price_reminder",
+          "value": {
+            "speakerName": "Cassandra",
+            "text": "Fresh fish sell at steady prices. Quality is key!\n\nBring me whatever you catch—I'll always give a fair price.\n\nDifferent fish have different values.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "I want to sell my fish.",
+                "resultDialogId": "",
+                "triggersOnChoose": ["OpenShop"],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Back to other options.",
+                "resultDialogId": "post_tutorial_qa",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "ruden_reminder",
+          "value": {
+            "speakerName": "Cassandra",
+            "text": "Ruben is right next door at Codfather's Processor.\n\nHe teaches deboning. It's a valuable skill to learn.\n\nI only buy fresh fish, but he can help with processing.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "I want to sell my fish.",
+                "resultDialogId": "",
+                "triggersOnChoose": ["OpenShop"],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Back to other options.",
+                "resultDialogId": "post_tutorial_qa",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "hello_response",
+          "value": {
+            "speakerName": "Cassandra",
+            "text": "Hello! Always good to see a friendly face.\n\nNow, don't let your fish go to waste!\n\nSell them fresh for the best price.",
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "I want to sell my fish.",
+                "resultDialogId": "",
+                "triggersOnChoose": ["OpenShop"],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Back to other options.",
+                "resultDialogId": "post_tutorial_qa",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "default",
+          "value": {
+            "speakerName": "Cassandra",
+            "text": "Welcome back! What can I do for you today?\n\nReady to sell some fresh fish?",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "I want to sell my fish.",
+                "resultDialogId": "",
+                "triggersOnChoose": ["OpenShop"],
+                "showConditions": []
+              },
+              {
+                "choiceText": "I have questions about the market.",
+                "resultDialogId": "post_tutorial_qa",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        }
+      ]
+    }
+  ]
+}

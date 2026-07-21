@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94ffd712ae9ff5542987662196fc462b, type: 3}
+  m_Name: Philippine_Moray_Eel
+  m_EditorClassIdentifier: Assembly-CSharp::EndangeredFishDefinition
+  fishName: Philippine Moray Eel
+  scientificName: Muraenidae family
+  description: Elongated reef fish that are important predators. Multiple species
+    found in Philippines, some reaching large sizes.
+  status: 0
+  iucnStatus: Vulnerable
+  populationTrend: Stable to Decreasing
+  habitat: Coral reefs, rocky areas, and crevices
+  distribution: Tropical and subtropical waters worldwide, abundant in Philippines
+  threats: Overfishing, habitat destruction, coral reef degradation, collection for
+    aquarium trade
+  importance: Important reef predators, maintains ecosystem balance, controls fish
+    populations, indicator of reef health
+  conservationEfforts: Marine protected areas, fishing regulations, reef conservation,
+    habitat protection
+  fishImage: {fileID: -3588724668997041927, guid: a3a3c16d7ce1f994dbcef406a8d02cdc, type: 3}
+  fishIcon: {fileID: -2072472329139205168, guid: 62333066420be4b40b8f835f7d313981, type: 3}
+  learnMoreHeadline: 
+  learnMoreCopy: 
+  learnMoreAction: 

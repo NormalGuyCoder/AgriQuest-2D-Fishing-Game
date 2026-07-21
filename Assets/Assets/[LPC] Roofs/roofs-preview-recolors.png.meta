@@ -1,0 +1,3159 @@
+fileFormatVersion: 2
+guid: f3091807ada49294fae7405918d9e7f4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1961184245683471047
+    second: roofs-preview-recolors_0
+  - first:
+      213: 1605883523083205050
+    second: roofs-preview-recolors_1
+  - first:
+      213: -8880600043735454899
+    second: roofs-preview-recolors_2
+  - first:
+      213: 6895499109850338295
+    second: roofs-preview-recolors_3
+  - first:
+      213: 7764901580345120564
+    second: roofs-preview-recolors_4
+  - first:
+      213: -7027161460716195829
+    second: roofs-preview-recolors_5
+  - first:
+      213: 2530733359998608225
+    second: roofs-preview-recolors_6
+  - first:
+      213: 4540077585875486070
+    second: roofs-preview-recolors_7
+  - first:
+      213: -4906682653304231501
+    second: roofs-preview-recolors_8
+  - first:
+      213: -2200523898889667458
+    second: roofs-preview-recolors_9
+  - first:
+      213: 4584355256002552568
+    second: roofs-preview-recolors_10
+  - first:
+      213: -6929600126857105611
+    second: roofs-preview-recolors_11
+  - first:
+      213: -5327440155669567789
+    second: roofs-preview-recolors_12
+  - first:
+      213: -6906780745392541603
+    second: roofs-preview-recolors_13
+  - first:
+      213: -5359945437887097886
+    second: roofs-preview-recolors_14
+  - first:
+      213: -5955149261385440769
+    second: roofs-preview-recolors_15
+  - first:
+      213: 8022388716126896184
+    second: roofs-preview-recolors_16
+  - first:
+      213: 3075124710867677548
+    second: roofs-preview-recolors_17
+  - first:
+      213: -1891564353915624720
+    second: roofs-preview-recolors_18
+  - first:
+      213: 838656413409380225
+    second: roofs-preview-recolors_19
+  - first:
+      213: -7732551125345228705
+    second: roofs-preview-recolors_20
+  - first:
+      213: -2139667034959758737
+    second: roofs-preview-recolors_21
+  - first:
+      213: -3990810382257980058
+    second: roofs-preview-recolors_22
+  - first:
+      213: -1537238124856066976
+    second: roofs-preview-recolors_23
+  - first:
+      213: -245435908979169308
+    second: roofs-preview-recolors_24
+  - first:
+      213: 8998133599197827671
+    second: roofs-preview-recolors_25
+  - first:
+      213: -3343086455269877152
+    second: roofs-preview-recolors_26
+  - first:
+      213: 7761065049624818460
+    second: roofs-preview-recolors_27
+  - first:
+      213: -3374629349971355646
+    second: roofs-preview-recolors_28
+  - first:
+      213: -7543452704738704508
+    second: roofs-preview-recolors_29
+  - first:
+      213: -3078158390620360446
+    second: roofs-preview-recolors_30
+  - first:
+      213: 1861916144208861497
+    second: roofs-preview-recolors_31
+  - first:
+      213: 1218168575519819372
+    second: roofs-preview-recolors_32
+  - first:
+      213: -4558799455238662053
+    second: roofs-preview-recolors_33
+  - first:
+      213: -8815795597590648783
+    second: roofs-preview-recolors_34
+  - first:
+      213: 3315191812385294243
+    second: roofs-preview-recolors_35
+  - first:
+      213: 8740411390697939877
+    second: roofs-preview-recolors_36
+  - first:
+      213: -3740944801053670250
+    second: roofs-preview-recolors_37
+  - first:
+      213: -4343307775245303235
+    second: roofs-preview-recolors_38
+  - first:
+      213: -7639639909674295886
+    second: roofs-preview-recolors_39
+  - first:
+      213: 4541326780015896319
+    second: roofs-preview-recolors_40
+  - first:
+      213: 3535306964292741957
+    second: roofs-preview-recolors_41
+  - first:
+      213: -5777328766903612514
+    second: roofs-preview-recolors_42
+  - first:
+      213: 7208641306261869229
+    second: roofs-preview-recolors_43
+  - first:
+      213: 3324528958597174810
+    second: roofs-preview-recolors_44
+  - first:
+      213: -3024141454720763680
+    second: roofs-preview-recolors_45
+  - first:
+      213: 4729212610796887491
+    second: roofs-preview-recolors_46
+  - first:
+      213: -4434041127397726280
+    second: roofs-preview-recolors_47
+  - first:
+      213: 26514183328702709
+    second: roofs-preview-recolors_48
+  - first:
+      213: 9004491733088499094
+    second: roofs-preview-recolors_49
+  - first:
+      213: -2926434383849368374
+    second: roofs-preview-recolors_50
+  - first:
+      213: 5620480816962773267
+    second: roofs-preview-recolors_51
+  - first:
+      213: 4402666398965138827
+    second: roofs-preview-recolors_52
+  - first:
+      213: -3887072893254637374
+    second: roofs-preview-recolors_53
+  - first:
+      213: -3122896341938242059
+    second: roofs-preview-recolors_54
+  - first:
+      213: -6758854931288959926
+    second: roofs-preview-recolors_55
+  - first:
+      213: 4894774353227785960
+    second: roofs-preview-recolors_56
+  - first:
+      213: -1568672204444586258
+    second: roofs-preview-recolors_57
+  - first:
+      213: -5718715646386717245
+    second: roofs-preview-recolors_58
+  - first:
+      213: 6039043358759128349
+    second: roofs-preview-recolors_59
+  - first:
+      213: -6065438827008006823
+    second: roofs-preview-recolors_60
+  - first:
+      213: 2835723664615503442
+    second: roofs-preview-recolors_61
+  - first:
+      213: -6547890049935737836
+    second: roofs-preview-recolors_62
+  - first:
+      213: -4819698933572621924
+    second: roofs-preview-recolors_63
+  - first:
+      213: -7909302376227603031
+    second: roofs-preview-recolors_64
+  - first:
+      213: -6212203912883017633
+    second: roofs-preview-recolors_65
+  - first:
+      213: 2218965355765563201
+    second: roofs-preview-recolors_66
+  - first:
+      213: 487772706366397829
+    second: roofs-preview-recolors_67
+  - first:
+      213: 5893133851683592736
+    second: roofs-preview-recolors_68
+  - first:
+      213: -7626996224615351613
+    second: roofs-preview-recolors_69
+  - first:
+      213: 8147518803295205706
+    second: roofs-preview-recolors_70
+  - first:
+      213: 5002476286679104547
+    second: roofs-preview-recolors_71
+  - first:
+      213: -5694488088438072057
+    second: roofs-preview-recolors_72
+  - first:
+      213: 7745543819210650276
+    second: roofs-preview-recolors_73
+  - first:
+      213: -5720674866320573620
+    second: roofs-preview-recolors_74
+  - first:
+      213: 5919225110616271655
+    second: roofs-preview-recolors_75
+  - first:
+      213: 4829633983255012327
+    second: roofs-preview-recolors_76
+  - first:
+      213: -4424180513463021547
+    second: roofs-preview-recolors_77
+  - first:
+      213: 8411424562672606972
+    second: roofs-preview-recolors_78
+  - first:
+      213: 4549327964045728730
+    second: roofs-preview-recolors_79
+  - first:
+      213: 1770183638551402303
+    second: roofs-preview-recolors_80
+  - first:
+      213: -275256780002315723
+    second: roofs-preview-recolors_81
+  - first:
+      213: -7573339656102719509
+    second: roofs-preview-recolors_82
+  - first:
+      213: -8906139869273505042
+    second: roofs-preview-recolors_83
+  - first:
+      213: 4109367664565096947
+    second: roofs-preview-recolors_84
+  - first:
+      213: 6418402238277125919
+    second: roofs-preview-recolors_85
+  - first:
+      213: 1666907117971920124
+    second: roofs-preview-recolors_86
+  - first:
+      213: -1773444633073447681
+    second: roofs-preview-recolors_87
+  - first:
+      213: 4214394077198465539
+    second: roofs-preview-recolors_88
+  - first:
+      213: 4100454951843248987
+    second: roofs-preview-recolors_89
+  - first:
+      213: -2550771628599300585
+    second: roofs-preview-recolors_90
+  - first:
+      213: 5366383344707547636
+    second: roofs-preview-recolors_91
+  - first:
+      213: 1176564544862996739
+    second: roofs-preview-recolors_92
+  - first:
+      213: -5046492840632938638
+    second: roofs-preview-recolors_93
+  - first:
+      213: 5899749281818003560
+    second: roofs-preview-recolors_94
+  - first:
+      213: 1993463613616256620
+    second: roofs-preview-recolors_95
+  - first:
+      213: -6499847968749170597
+    second: roofs-preview-recolors_96
+  - first:
+      213: 5963736509359148981
+    second: roofs-preview-recolors_97
+  - first:
+      213: 8204688617094531458
+    second: roofs-preview-recolors_98
+  - first:
+      213: -1066333357961221248
+    second: roofs-preview-recolors_99
+  - first:
+      213: -637954387350378674
+    second: roofs-preview-recolors_100
+  - first:
+      213: 7485076466756268269
+    second: roofs-preview-recolors_101
+  - first:
+      213: -8897597463497171236
+    second: roofs-preview-recolors_102
+  - first:
+      213: 984108917854203642
+    second: roofs-preview-recolors_103
+  - first:
+      213: -7578373376596227454
+    second: roofs-preview-recolors_104
+  - first:
+      213: -6025811296302508981
+    second: roofs-preview-recolors_105
+  - first:
+      213: -7088917653014938879
+    second: roofs-preview-recolors_106
+  - first:
+      213: 1042819207831017343
+    second: roofs-preview-recolors_107
+  - first:
+      213: 6119694119251613921
+    second: roofs-preview-recolors_108
+  - first:
+      213: 4612255156758481502
+    second: roofs-preview-recolors_109
+  - first:
+      213: -1057004366612853700
+    second: roofs-preview-recolors_110
+  - first:
+      213: 1946137021879112544
+    second: roofs-preview-recolors_111
+  - first:
+      213: -1274802891795005372
+    second: roofs-preview-recolors_112
+  - first:
+      213: -3466777163705619908
+    second: roofs-preview-recolors_113
+  - first:
+      213: -2839569287963722205
+    second: roofs-preview-recolors_114
+  - first:
+      213: 5565793672220000860
+    second: roofs-preview-recolors_115
+  - first:
+      213: 488421883199152127
+    second: roofs-preview-recolors_116
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: roofs-preview-recolors_0
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 1247
+        width: 162
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93db1f0c15978c4e0800000000000000
+      internalID: -1961184245683471047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_1
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1247
+        width: 162
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab9f6005e8e394610800000000000000
+      internalID: 1605883523083205050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_2
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 1247
+        width: 162
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b64d8cf45c1c480800000000000000
+      internalID: -8880600043735454899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_3
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1247
+        width: 130
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f3d6af08ebb1bf50800000000000000
+      internalID: 6895499109850338295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_4
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1247
+        width: 162
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 437175cd8d872cb60800000000000000
+      internalID: 7764901580345120564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_5
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 1231
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0032ba02e18a7e90800000000000000
+      internalID: -7027161460716195829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_6
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 1231
+        width: 31
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163a2ff1598fe1320800000000000000
+      internalID: 2530733359998608225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_7
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 1247
+        width: 162
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67542de8288910f30800000000000000
+      internalID: 4540077585875486070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_8
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1226
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b9ea30af16f7ebb0800000000000000
+      internalID: -4906682653304231501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_9
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1222
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c7cee3c2b2671e0800000000000000
+      internalID: -2200523898889667458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_10
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1225
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f22a3ef0d6ee9f30800000000000000
+      internalID: 4584355256002552568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_11
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 1225
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53f2e23366d15df90800000000000000
+      internalID: -6929600126857105611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_12
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1221
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d6e92787612116b0800000000000000
+      internalID: -5327440155669567789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_13
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 1217
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50be59718f2620a0800000000000000
+      internalID: -6906780745392541603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_14
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 1217
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3934fb506ad95b0800000000000000
+      internalID: -5359945437887097886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_15
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1218
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff1e0ba6c4f0b5da0800000000000000
+      internalID: -5955149261385440769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_16
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 1220
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83088da6800455f60800000000000000
+      internalID: 8022388716126896184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_17
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1217
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c613b4fb1a90daa20800000000000000
+      internalID: 3075124710867677548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_18
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 1218
+        width: 7
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f26117fd30dfb5e0800000000000000
+      internalID: -1891564353915624720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_19
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 1230
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1878ed9809183ab00800000000000000
+      internalID: 838656413409380225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_20
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1226
+        width: 34
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58204668b570b490800000000000000
+      internalID: -7732551125345228705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_21
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1229
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a3c9b0b206e42e0800000000000000
+      internalID: -2139667034959758737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_22
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1228
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66d729ff91bcd98c0800000000000000
+      internalID: -3990810382257980058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_23
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1224
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06c34c0f112aaaae0800000000000000
+      internalID: -1537238124856066976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_24
+      rect:
+        serializedVersion: 2
+        x: 854
+        y: 1224
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e7eb265759089cf0800000000000000
+      internalID: -245435908979169308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_25
+      rect:
+        serializedVersion: 2
+        x: 1015
+        y: 1231
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75291b595dacfdc70800000000000000
+      internalID: 8998133599197827671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_26
+      rect:
+        serializedVersion: 2
+        x: 1182
+        y: 1226
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06a1834d498fa91d0800000000000000
+      internalID: -3343086455269877152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_27
+      rect:
+        serializedVersion: 2
+        x: 1194
+        y: 1226
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c133691fa87d4bb60800000000000000
+      internalID: 7761065049624818460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_28
+      rect:
+        serializedVersion: 2
+        x: 1218
+        y: 1226
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208995a5c78ea21d0800000000000000
+      internalID: -3374629349971355646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_29
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 1226
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48307126bb5405790800000000000000
+      internalID: -7543452704738704508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_30
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 1226
+        width: 44
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2017fa4a04f2845d0800000000000000
+      internalID: -3078158390620360446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_31
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1207
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93952294edad6d910800000000000000
+      internalID: 1861916144208861497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_32
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1206
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6607648dddc7e010800000000000000
+      internalID: 1218168575519819372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_33
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1206
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58514c8c04ebb0c0800000000000000
+      internalID: -4558799455238662053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_34
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 1203
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1382821bc9008a580800000000000000
+      internalID: -8815795597590648783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_35
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1201
+        width: 35
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a74283836de10e20800000000000000
+      internalID: 3315191812385294243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_36
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 1202
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a32455e9dd2c4970800000000000000
+      internalID: 8740411390697939877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_37
+      rect:
+        serializedVersion: 2
+        x: 490
+        y: 1201
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6940ad8168e751cc0800000000000000
+      internalID: -3740944801053670250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_38
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 1201
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32cf4a179879b3c0800000000000000
+      internalID: -4343307775245303235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_39
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 1198
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd57fb8afb8af590800000000000000
+      internalID: -7639639909674295886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_40
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 927
+        width: 98
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff6e0db35a8060f30800000000000000
+      internalID: 4541326780015896319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_41
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 927
+        width: 130
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54b22a204feef0130800000000000000
+      internalID: 3535306964292741957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_42
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 927
+        width: 322
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9b801a981ec2dfa0800000000000000
+      internalID: -5777328766903612514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_43
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 927
+        width: 66
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da252f4331d3a0460800000000000000
+      internalID: 7208641306261869229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_44
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 927
+        width: 162
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a161fa64979132e20800000000000000
+      internalID: 3324528958597174810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_45
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 895
+        width: 162
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8f5d89e571806d0800000000000000
+      internalID: -3024141454720763680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_46
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 906
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd98d520d981a140800000000000000
+      internalID: 4729212610796887491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_47
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 906
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b76cf1561f1772c0800000000000000
+      internalID: -4434041127397726280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_48
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 906
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f021de52823e5000800000000000000
+      internalID: 26514183328702709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_49
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 910
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6957eadf58166fc70800000000000000
+      internalID: 9004491733088499094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_50
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 910
+        width: 34
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac45b2cce673367d0800000000000000
+      internalID: -2926434383849368374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_51
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 908
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311a6f14685fffd40800000000000000
+      internalID: 5620480816962773267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_52
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 911
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b858dd673c9691d30800000000000000
+      internalID: 4402666398965138827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_53
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 910
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8e1855cc75e0ac0800000000000000
+      internalID: -3887072893254637374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_54
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 908
+        width: 37
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd7764a25e39a4d0800000000000000
+      internalID: -3122896341938242059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_55
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 901
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44df1cff39b332a0800000000000000
+      internalID: -6758854931288959926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_56
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 901
+        width: 25
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e6a5d3375bbde340800000000000000
+      internalID: 4894774353227785960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_57
+      rect:
+        serializedVersion: 2
+        x: 1032
+        y: 901
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee2d05f0f4fa3ae0800000000000000
+      internalID: -1568672204444586258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_58
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 901
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cdb6ad2b6a03a0b0800000000000000
+      internalID: -5718715646386717245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_59
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 870
+        width: 13
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d050640fdfec350800000000000000
+      internalID: 6039043358759128349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_60
+      rect:
+        serializedVersion: 2
+        x: 1213
+        y: 870
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955635dd58b33dba0800000000000000
+      internalID: -6065438827008006823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_61
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 870
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256739e06a38a5720800000000000000
+      internalID: 2835723664615503442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_62
+      rect:
+        serializedVersion: 2
+        x: 1237
+        y: 870
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41cf34911b83125a0800000000000000
+      internalID: -6547890049935737836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_63
+      rect:
+        serializedVersion: 2
+        x: 1245
+        y: 870
+        width: 45
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9923141b5dfc1db0800000000000000
+      internalID: -4819698933572621924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_64
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 870
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9adfcc3e4638c3290800000000000000
+      internalID: -7909302376227603031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_65
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 639
+        width: 98
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f58e0547471d9c9a0800000000000000
+      internalID: -6212203912883017633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_66
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 607
+        width: 162
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14ffd470c395bce10800000000000000
+      internalID: 2218965355765563201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_67
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 607
+        width: 162
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58d991e21bae4c600800000000000000
+      internalID: 487772706366397829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_68
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 607
+        width: 162
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02a1e63d30e98c150800000000000000
+      internalID: 5893133851683592736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_69
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 607
+        width: 194
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca7e80e757772690800000000000000
+      internalID: -7626996224615351613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_70
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 607
+        width: 204
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49f9372f2dc11170800000000000000
+      internalID: 8147518803295205706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_71
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 591
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32cb2d0bdad5c6540800000000000000
+      internalID: 5002476286679104547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_72
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 590
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70d94f6114d19f0b0800000000000000
+      internalID: -5694488088438072057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_73
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 590
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a2f540e013bd7b60800000000000000
+      internalID: 7745543819210650276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_74
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 590
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4bf47db4841c90b0800000000000000
+      internalID: -5720674866320573620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_75
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 599
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72beadf60ef452250800000000000000
+      internalID: 5919225110616271655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_76
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 578
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e3e11fe48e460340800000000000000
+      internalID: 4829633983255012327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_77
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 578
+        width: 38
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 510d4d863472a92c0800000000000000
+      internalID: -4424180513463021547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_78
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 578
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe9819f2126bb470800000000000000
+      internalID: 8411424562672606972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_79
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 579
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb52bf0ea5722f30800000000000000
+      internalID: 4549327964045728730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_80
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 575
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f379013f3a4f09810800000000000000
+      internalID: 1770183638551402303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_81
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 575
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532b1fdba671e2cf0800000000000000
+      internalID: -275256780002315723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_82
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 579
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef4e9245b716e690800000000000000
+      internalID: -7573339656102719509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_83
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 575
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee24204c9f8076480800000000000000
+      internalID: -8906139869273505042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_84
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 575
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f111e95e18670930800000000000000
+      internalID: 4109367664565096947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_85
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 579
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f17841e54deb21950800000000000000
+      internalID: 6418402238277125919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_86
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 578
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf45940313b022710800000000000000
+      internalID: 1666907117971920124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_87
+      rect:
+        serializedVersion: 2
+        x: 1025
+        y: 579
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc85d890857367e0800000000000000
+      internalID: -1773444633073447681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_88
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 578
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30abcea95198c7a30800000000000000
+      internalID: 4214394077198465539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_89
+      rect:
+        serializedVersion: 2
+        x: 1069
+        y: 578
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bbb16bd0eb7e830800000000000000
+      internalID: 4100454951843248987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_90
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 575
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71ea136e7b6d99cd0800000000000000
+      internalID: -2550771628599300585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_91
+      rect:
+        serializedVersion: 2
+        x: 1205
+        y: 569
+        width: 45
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1bddd3839397a40800000000000000
+      internalID: 5366383344707547636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_92
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 572
+        width: 31
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309c0e7483ff35010800000000000000
+      internalID: 1176564544862996739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_93
+      rect:
+        serializedVersion: 2
+        x: 1279
+        y: 572
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27f8588bf7147f9b0800000000000000
+      internalID: -5046492840632938638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_94
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 560
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868c0aea6be10e150800000000000000
+      internalID: 5899749281818003560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_95
+      rect:
+        serializedVersion: 2
+        x: 783
+        y: 559
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66734248943aab10800000000000000
+      internalID: 1993463613616256620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_96
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 560
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5059a8c5b6ebc5a0800000000000000
+      internalID: -6499847968749170597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_97
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 559
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bf416e02c273c250800000000000000
+      internalID: 5963736509359148981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_98
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 559
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2894c92b3d8ecd170800000000000000
+      internalID: 8204688617094531458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_99
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 556
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b629ae57f9331f0800000000000000
+      internalID: -1066333357961221248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_100
+      rect:
+        serializedVersion: 2
+        x: 1206
+        y: 553
+        width: 36
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47241f5dd78527f0800000000000000
+      internalID: -637954387350378674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_101
+      rect:
+        serializedVersion: 2
+        x: 1241
+        y: 553
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0b4ad836550e760800000000000000
+      internalID: 7485076466756268269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_102
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 551
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cde95d99f32658480800000000000000
+      internalID: -8897597463497171236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_103
+      rect:
+        serializedVersion: 2
+        x: 1282
+        y: 553
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe6ef4c8d148ad00800000000000000
+      internalID: 984108917854203642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_104
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 553
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28a44b0e09534d690800000000000000
+      internalID: -7578373376596227454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_105
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 551
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b445a585d84006ca0800000000000000
+      internalID: -6025811296302508981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_106
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 538
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b7c0a04fa1f9d90800000000000000
+      internalID: -7088917653014938879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_107
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 540
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f77d8bf5b86d87e00800000000000000
+      internalID: 1042819207831017343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_108
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 540
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e81a00c0658de450800000000000000
+      internalID: 6119694119251613921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_109
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 541
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5a8d08d0a5020040800000000000000
+      internalID: 4612255156758481502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_110
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 538
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3c010af024c451f0800000000000000
+      internalID: -1057004366612853700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_111
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 287
+        width: 130
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06357517f41120b10800000000000000
+      internalID: 1946137021879112544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_112
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 287
+        width: 162
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4400beb268dfe4ee0800000000000000
+      internalID: -1274802891795005372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_113
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 287
+        width: 146
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ae3e1998883efc0800000000000000
+      internalID: -3466777163705619908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_114
+      rect:
+        serializedVersion: 2
+        x: 735
+        y: 319
+        width: 98
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32e30dbf6c2d798d0800000000000000
+      internalID: -2839569287963722205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_115
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 223
+        width: 236
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c524ac52bdbad3d40800000000000000
+      internalID: 5565793672220000860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs-preview-recolors_116
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 223
+        width: 236
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fffdc907d1937c600800000000000000
+      internalID: 488421883199152127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      roofs-preview-recolors_0: -1961184245683471047
+      roofs-preview-recolors_1: 1605883523083205050
+      roofs-preview-recolors_10: 4584355256002552568
+      roofs-preview-recolors_100: -637954387350378674
+      roofs-preview-recolors_101: 7485076466756268269
+      roofs-preview-recolors_102: -8897597463497171236
+      roofs-preview-recolors_103: 984108917854203642
+      roofs-preview-recolors_104: -7578373376596227454
+      roofs-preview-recolors_105: -6025811296302508981
+      roofs-preview-recolors_106: -7088917653014938879
+      roofs-preview-recolors_107: 1042819207831017343
+      roofs-preview-recolors_108: 6119694119251613921
+      roofs-preview-recolors_109: 4612255156758481502
+      roofs-preview-recolors_11: -6929600126857105611
+      roofs-preview-recolors_110: -1057004366612853700
+      roofs-preview-recolors_111: 1946137021879112544
+      roofs-preview-recolors_112: -1274802891795005372
+      roofs-preview-recolors_113: -3466777163705619908
+      roofs-preview-recolors_114: -2839569287963722205
+      roofs-preview-recolors_115: 5565793672220000860
+      roofs-preview-recolors_116: 488421883199152127
+      roofs-preview-recolors_12: -5327440155669567789
+      roofs-preview-recolors_13: -6906780745392541603
+      roofs-preview-recolors_14: -5359945437887097886
+      roofs-preview-recolors_15: -5955149261385440769
+      roofs-preview-recolors_16: 8022388716126896184
+      roofs-preview-recolors_17: 3075124710867677548
+      roofs-preview-recolors_18: -1891564353915624720
+      roofs-preview-recolors_19: 838656413409380225
+      roofs-preview-recolors_2: -8880600043735454899
+      roofs-preview-recolors_20: -7732551125345228705
+      roofs-preview-recolors_21: -2139667034959758737
+      roofs-preview-recolors_22: -3990810382257980058
+      roofs-preview-recolors_23: -1537238124856066976
+      roofs-preview-recolors_24: -245435908979169308
+      roofs-preview-recolors_25: 8998133599197827671
+      roofs-preview-recolors_26: -3343086455269877152
+      roofs-preview-recolors_27: 7761065049624818460
+      roofs-preview-recolors_28: -3374629349971355646
+      roofs-preview-recolors_29: -7543452704738704508
+      roofs-preview-recolors_3: 6895499109850338295
+      roofs-preview-recolors_30: -3078158390620360446
+      roofs-preview-recolors_31: 1861916144208861497
+      roofs-preview-recolors_32: 1218168575519819372
+      roofs-preview-recolors_33: -4558799455238662053
+      roofs-preview-recolors_34: -8815795597590648783
+      roofs-preview-recolors_35: 3315191812385294243
+      roofs-preview-recolors_36: 8740411390697939877
+      roofs-preview-recolors_37: -3740944801053670250
+      roofs-preview-recolors_38: -4343307775245303235
+      roofs-preview-recolors_39: -7639639909674295886
+      roofs-preview-recolors_4: 7764901580345120564
+      roofs-preview-recolors_40: 4541326780015896319
+      roofs-preview-recolors_41: 3535306964292741957
+      roofs-preview-recolors_42: -5777328766903612514
+      roofs-preview-recolors_43: 7208641306261869229
+      roofs-preview-recolors_44: 3324528958597174810
+      roofs-preview-recolors_45: -3024141454720763680
+      roofs-preview-recolors_46: 4729212610796887491
+      roofs-preview-recolors_47: -4434041127397726280
+      roofs-preview-recolors_48: 26514183328702709
+      roofs-preview-recolors_49: 9004491733088499094
+      roofs-preview-recolors_5: -7027161460716195829
+      roofs-preview-recolors_50: -2926434383849368374
+      roofs-preview-recolors_51: 5620480816962773267
+      roofs-preview-recolors_52: 4402666398965138827
+      roofs-preview-recolors_53: -3887072893254637374
+      roofs-preview-recolors_54: -3122896341938242059
+      roofs-preview-recolors_55: -6758854931288959926
+      roofs-preview-recolors_56: 4894774353227785960
+      roofs-preview-recolors_57: -1568672204444586258
+      roofs-preview-recolors_58: -5718715646386717245
+      roofs-preview-recolors_59: 6039043358759128349
+      roofs-preview-recolors_6: 2530733359998608225
+      roofs-preview-recolors_60: -6065438827008006823
+      roofs-preview-recolors_61: 2835723664615503442
+      roofs-preview-recolors_62: -6547890049935737836
+      roofs-preview-recolors_63: -4819698933572621924
+      roofs-preview-recolors_64: -7909302376227603031
+      roofs-preview-recolors_65: -6212203912883017633
+      roofs-preview-recolors_66: 2218965355765563201
+      roofs-preview-recolors_67: 487772706366397829
+      roofs-preview-recolors_68: 5893133851683592736
+      roofs-preview-recolors_69: -7626996224615351613
+      roofs-preview-recolors_7: 4540077585875486070
+      roofs-preview-recolors_70: 8147518803295205706
+      roofs-preview-recolors_71: 5002476286679104547
+      roofs-preview-recolors_72: -5694488088438072057
+      roofs-preview-recolors_73: 7745543819210650276
+      roofs-preview-recolors_74: -5720674866320573620
+      roofs-preview-recolors_75: 5919225110616271655
+      roofs-preview-recolors_76: 4829633983255012327
+      roofs-preview-recolors_77: -4424180513463021547
+      roofs-preview-recolors_78: 8411424562672606972
+      roofs-preview-recolors_79: 4549327964045728730
+      roofs-preview-recolors_8: -4906682653304231501
+      roofs-preview-recolors_80: 1770183638551402303
+      roofs-preview-recolors_81: -275256780002315723
+      roofs-preview-recolors_82: -7573339656102719509
+      roofs-preview-recolors_83: -8906139869273505042
+      roofs-preview-recolors_84: 4109367664565096947
+      roofs-preview-recolors_85: 6418402238277125919
+      roofs-preview-recolors_86: 1666907117971920124
+      roofs-preview-recolors_87: -1773444633073447681
+      roofs-preview-recolors_88: 4214394077198465539
+      roofs-preview-recolors_89: 4100454951843248987
+      roofs-preview-recolors_9: -2200523898889667458
+      roofs-preview-recolors_90: -2550771628599300585
+      roofs-preview-recolors_91: 5366383344707547636
+      roofs-preview-recolors_92: 1176564544862996739
+      roofs-preview-recolors_93: -5046492840632938638
+      roofs-preview-recolors_94: 5899749281818003560
+      roofs-preview-recolors_95: 1993463613616256620
+      roofs-preview-recolors_96: -6499847968749170597
+      roofs-preview-recolors_97: 5963736509359148981
+      roofs-preview-recolors_98: 8204688617094531458
+      roofs-preview-recolors_99: -1066333357961221248
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

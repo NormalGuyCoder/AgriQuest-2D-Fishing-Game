@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94ffd712ae9ff5542987662196fc462b, type: 3}
+  m_Name: Ocelated Eagle Ray
+  m_EditorClassIdentifier: Assembly-CSharp::EndangeredFishDefinition
+  fishName: Ocellated eagle ray
+  scientificName: Aetobatus ocellatus
+  description: 'Found in coastal waters including estuarine habitats. Can grow over
+    3 m disc width and up to 880 cm total length if the long tail is undamaged. Feeds
+    mainly on hard-shelled bottom-dwelling invertebrates such as hermit crabs, whelks,
+    oysters, clams and large molluscs, crustraceans, worms, octopuses and fishes
+    . Ovoviviparous. '
+  status: 1
+  iucnStatus: Endangered
+  populationTrend: Decreasing
+  habitat: Coral reefs, particularly outer reef slopes and drop-offs
+  distribution: Indo-Pacific region including Philippines, from Red Sea to Pacific
+    islands
+  threats: Collection for aquarium trade, habitat destruction, overfishing, coral
+    reef degradation
+  importance: Important reef species, maintains reef ecosystem balance, valuable
+    in aquarium trade, indicator of reef health
+  conservationEfforts: Marine protected areas, sustainable collection practices,
+    reef conservation, size and catch limits
+  fishImage: {fileID: 6745410519332919017, guid: 6e275f43381c8134e8c1b18912264dec, type: 3}
+  fishIcon: {fileID: 6745410519332919017, guid: 6e275f43381c8134e8c1b18912264dec, type: 3}
+  learnMoreHeadline: 
+  learnMoreCopy: 
+  learnMoreAction: 

@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Lics/Scenes/MainMenu.unity
+    guid: 8b8d59cb2f04ad54a9df4dd2b8f7a46e
+  - enabled: 1
+    path: Assets/_Game_/Scenes/Beachsideold.unity
+    guid: 5bc8ab2b8f36ca444ba7cfd586e1e43b
+  - enabled: 1
+    path: Assets/_Game_/Scenes/Riversideold.unity
+    guid: 1b17e507ee9774e40a92dfc3e20a406a
+  - enabled: 1
+    path: Assets/Minigames/FishingMinigame/Scenes/FishingSea.unity
+    guid: 198462d7a7fbccc43afbe982ddc891ed
+  - enabled: 1
+    path: Assets/_Game_/Scenes/DNSC_entranceold.unity
+    guid: 6635c9f41b0eba14b875094f8145b641
+  - enabled: 1
+    path: Assets/Lics/Scenes/Credits/CreditScene.unity
+    guid: 90aa7f14d54c6f8468e4e61904045023
+  - enabled: 1
+    path: Assets/Minigames/deboning minigame/Scenes/DeboningMainScene.unity
+    guid: 73c97dac8672b874c8e639b7172aaa46
+  - enabled: 1
+    path: Assets/Minigames/deboning minigame/Scenes/DeboningScene.unity
+    guid: 221b10cb8a8b7a14aa863222aefd3ea3
+  - enabled: 0
+    path: Assets/Minigames/Assets/Scenes/achievements  scene/AchievementsScene.unity
+    guid: e7336fcc426f0bb4f8577972a49b2134
+  - enabled: 1
+    path: Assets/Lics/Scenes/Riverside.unity
+    guid: a65ef92bc4aceac4492fe753b27a8f9d
+  - enabled: 1
+    path: Assets/Lics/Scenes/Beachside.unity
+    guid: cfb98e2001df8bc4cb56d8df5aa52fa9
+  - enabled: 1
+    path: Assets/Lics/Scenes/DNSC_entrance.unity
+    guid: 9ac6ff0bf31ba4b4ba0ce5e25d6c3858
+  - enabled: 1
+    path: Assets/Minigames/freshwaterfishing/Scenes/freshwaterminigame.unity
+    guid: 25be4999ea8f6884687a196a07166d48
+  - enabled: 1
+    path: Assets/Lics/Scenes/Saltyshore.unity
+    guid: 44c932799b6a5b24683e14224ab7f91a
+  - enabled: 1
+    path: Assets/Lics/Scenes/Academy Hill.unity
+    guid: 79b03f8c8d5dbbe4b8138d75774e59f9
+  - enabled: 1
+    path: Assets/Lics/Scenes/Old_or_Test/Classroom.unity
+    guid: d93bf14cafdc8a14baf6ac95b12dffa9
+  - enabled: 1
+    path: Assets/Lics/Scenes/Auditorium.unity
+    guid: 665c2b3469ce1274587ae2a5a0d954db
+  - enabled: 1
+    path: Assets/Lics/Scenes/Fresh Finds.unity
+    guid: aee6636c49b03d2448cac7f9b0b32224
+  - enabled: 1
+    path: Assets/Lics/Scenes/Greenville.unity
+    guid: 996835bdb32cc614ba16a6d4d7934d87
+  - enabled: 1
+    path: Assets/Lics/Scenes/Soria's Store.unity
+    guid: a7328f487d5851e4281048559524672d
+  - enabled: 1
+    path: Assets/Lics/Scenes/Greenvilledonefish.unity
+    guid: 2fda614281ebdbf4dab73f8236fc1bf3
+  - enabled: 1
+    path: Assets/Lics/Scenes/Nash's Store.unity
+    guid: 140f98b710c4a2542b6a48f6b7f87a8a
+  m_configObjects:
+    com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 3590b91b4603b465dbb4216d601bff33, type: 3}
+  m_UseUCBPForAssetBundles: 0

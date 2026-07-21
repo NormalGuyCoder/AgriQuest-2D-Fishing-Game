@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94ffd712ae9ff5542987662196fc462b, type: 3}
+  m_Name: Philippine_Triggerfish
+  m_EditorClassIdentifier: Assembly-CSharp::EndangeredFishDefinition
+  fishName: Philippine Triggerfish
+  scientificName: Balistoides viridescens
+  description: Large, aggressive reef fish with distinctive patterns. Important reef
+    predator that helps maintain ecosystem balance.
+  status: 0
+  iucnStatus: Vulnerable
+  populationTrend: Decreasing
+  habitat: Coral reefs, particularly outer reef slopes and channels
+  distribution: Indo-Pacific region including Philippines, from East Africa to Pacific
+    islands
+  threats: Overfishing, habitat destruction, coral reef degradation, collection for
+    aquarium trade
+  importance: Important reef predator, maintains ecosystem balance, controls sea
+    urchin populations, indicator of reef health
+  conservationEfforts: Marine protected areas, fishing regulations, reef conservation,
+    size and catch limits
+  fishImage: {fileID: 0}
+  fishIcon: {fileID: 0}

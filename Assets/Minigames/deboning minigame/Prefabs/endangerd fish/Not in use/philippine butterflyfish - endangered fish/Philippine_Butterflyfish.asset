@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94ffd712ae9ff5542987662196fc462b, type: 3}
+  m_Name: Philippine_Butterflyfish
+  m_EditorClassIdentifier: Assembly-CSharp::EndangeredFishDefinition
+  fishName: Philippine Butterflyfish
+  scientificName: Chaetodontidae family
+  description: Colorful reef fish with distinctive patterns. Multiple species found
+    in Philippines, important indicators of reef health.
+  status: 0
+  iucnStatus: Vulnerable
+  populationTrend: Decreasing
+  habitat: Coral reefs, particularly areas with abundant coral growth
+  distribution: Indo-Pacific region including Philippines, from Red Sea to Pacific
+    islands
+  threats: Collection for aquarium trade, habitat destruction, coral reef degradation,
+    climate change
+  importance: Important reef species, indicator of reef health, popular in aquarium
+    trade, maintains ecosystem balance
+  conservationEfforts: Marine protected areas, sustainable collection practices,
+    reef conservation, protection of coral habitats
+  fishImage: {fileID: -2163690326402983796, guid: dd7e4c7380d0b644cbf8f348465fdce6, type: 3}
+  fishIcon: {fileID: -2163690326402983796, guid: dd7e4c7380d0b644cbf8f348465fdce6, type: 3}
+  learnMoreHeadline: 
+  learnMoreCopy: 
+  learnMoreAction: 

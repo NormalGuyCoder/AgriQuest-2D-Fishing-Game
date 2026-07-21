@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7651e250fea4e664396b28b6b87cf878, type: 3}
+  m_Name: Philippine_Angelfish
+  m_EditorClassIdentifier: Assembly-CSharp::FishCatalogEntry
+  fishId: philippine_angelfish
+  displayName: Philippine Angelfish
+  scientificName: Pomacanthus imperator
+  description: Large, colorful angelfish found in Philippine coral reefs. Valued
+    in aquarium trade and as food fish.
+  mainSprite: {fileID: 6618709377856031743, guid: 0c2481fdafab4354888f01a9b124dcab, type: 3}
+  iconSprite: {fileID: 6618709377856031743, guid: 0c2481fdafab4354888f01a9b124dcab, type: 3}
+  tags: []
+  isEndangered: 1
+  aliases: []
+  baseSellPrice: 40
+  processedValueMultiplier: 1.35
+  endangeredValueMultiplier: 2

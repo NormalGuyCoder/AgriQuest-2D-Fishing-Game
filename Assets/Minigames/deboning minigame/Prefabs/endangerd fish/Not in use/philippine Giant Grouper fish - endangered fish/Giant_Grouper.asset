@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94ffd712ae9ff5542987662196fc462b, type: 3}
+  m_Name: Giant_Grouper
+  m_EditorClassIdentifier: Assembly-CSharp::EndangeredFishDefinition
+  fishName: Giant Grouper
+  scientificName: Epinephelus lanceolatus
+  description: Also known as 'Lapu-lapu' in the Philippines. One of the largest reef
+    fish, can grow over 2.5 meters and weigh 400 kg.
+  status: 0
+  iucnStatus: Vulnerable
+  populationTrend: Decreasing
+  habitat: Coral reefs, rocky areas, and lagoons in tropical and subtropical waters
+  distribution: Indo-Pacific region including Philippines, from Red Sea to Australia
+    and Japan
+  threats: Overfishing for live fish trade, habitat destruction of coral reefs, slow
+    growth and late maturity, bycatch
+  importance: Top predator on coral reefs, maintains reef ecosystem balance, culturally
+    significant in Philippines, important for reef health
+  conservationEfforts: Marine protected areas, size and catch limits, reef conservation
+    programs, aquaculture research, fishing regulations
+  fishImage: {fileID: -8874066661720087530, guid: 7f4fc7cec47f29c40a4314421afd6f3b, type: 3}
+  fishIcon: {fileID: -2633137882144440626, guid: e65d85064cd3f944b8c4356a3f94bb62, type: 3}
+  learnMoreHeadline: 
+  learnMoreCopy: 
+  learnMoreAction: 

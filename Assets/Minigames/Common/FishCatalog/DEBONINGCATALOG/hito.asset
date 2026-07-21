@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7651e250fea4e664396b28b6b87cf878, type: 3}
+  m_Name: hito
+  m_EditorClassIdentifier: Assembly-CSharp::FishCatalogEntry
+  fishId: h
+  displayName: hito
+  scientificName: 
+  description: Common in ponds; used for inihaw and adobo.
+  mainSprite: {fileID: 8768090469924239388, guid: ee242b8d3e216ea4bb452cf1da01f2db, type: 3}
+  iconSprite: {fileID: 8768090469924239388, guid: ee242b8d3e216ea4bb452cf1da01f2db, type: 3}
+  tags: []
+  isEndangered: 0
+  aliases: []
+  baseSellPrice: 40
+  processedValueMultiplier: 1.35
+  endangeredValueMultiplier: 2

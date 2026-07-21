@@ -1,0 +1,1846 @@
+fileFormatVersion: 2
+guid: 70a715fcc51c5b7479b0978d4cea891f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1594565142278999016
+    second: Simple Gui_0
+  - first:
+      213: -8078673568239649673
+    second: Simple Gui_1
+  - first:
+      213: -1458591250363471024
+    second: Simple Gui_2
+  - first:
+      213: -210968688990994537
+    second: Simple Gui_3
+  - first:
+      213: -762517948386522378
+    second: Simple Gui_4
+  - first:
+      213: 7249376417121141491
+    second: Simple Gui_5
+  - first:
+      213: -2505343940721014881
+    second: Simple Gui_6
+  - first:
+      213: -3981229572323381792
+    second: Simple Gui_7
+  - first:
+      213: -6603596049757531576
+    second: Simple Gui_8
+  - first:
+      213: 1011373850607147564
+    second: Simple Gui_9
+  - first:
+      213: -1413118123937679623
+    second: Simple Gui_10
+  - first:
+      213: 8275188079756399418
+    second: Simple Gui_11
+  - first:
+      213: 2291935111381796
+    second: Simple Gui_12
+  - first:
+      213: -6546431338383513752
+    second: Simple Gui_13
+  - first:
+      213: 812924450514489390
+    second: Simple Gui_14
+  - first:
+      213: 3151702521065015049
+    second: Simple Gui_15
+  - first:
+      213: -6804296412520946623
+    second: Simple Gui_16
+  - first:
+      213: -1224621159319188429
+    second: Simple Gui_17
+  - first:
+      213: 8209674014034541428
+    second: Simple Gui_18
+  - first:
+      213: 7419083073976859006
+    second: Simple Gui_19
+  - first:
+      213: -5699121895496956678
+    second: Simple Gui_20
+  - first:
+      213: -4329165625571869013
+    second: Simple Gui_21
+  - first:
+      213: 2739073179907991810
+    second: Simple Gui_22
+  - first:
+      213: 3603057400136367734
+    second: Simple Gui_23
+  - first:
+      213: 4116705580123707553
+    second: Simple Gui_24
+  - first:
+      213: -1486536401652915556
+    second: Simple Gui_25
+  - first:
+      213: -1297655997196875157
+    second: Simple Gui_26
+  - first:
+      213: -2833734621755802701
+    second: Simple Gui_27
+  - first:
+      213: 2626189860129298736
+    second: Simple Gui_28
+  - first:
+      213: 5452247505041277352
+    second: Simple Gui_29
+  - first:
+      213: 4731376172959214713
+    second: Simple Gui_30
+  - first:
+      213: -6007651348237135310
+    second: Simple Gui_31
+  - first:
+      213: 9103412478585585748
+    second: Simple Gui_32
+  - first:
+      213: -1334111828961225098
+    second: Simple Gui_33
+  - first:
+      213: 8175689507507164320
+    second: Simple Gui_34
+  - first:
+      213: -8429208136447227264
+    second: Simple Gui_35
+  - first:
+      213: 4564152078187913076
+    second: Simple Gui_36
+  - first:
+      213: -950386557358450963
+    second: Simple Gui_37
+  - first:
+      213: 7618213520747388497
+    second: Simple Gui_38
+  - first:
+      213: 2903388004844308518
+    second: Simple Gui_39
+  - first:
+      213: -8208086803893350017
+    second: Simple Gui_40
+  - first:
+      213: -2283923811641839370
+    second: Simple Gui_41
+  - first:
+      213: 4786821764116284750
+    second: Simple Gui_42
+  - first:
+      213: -1443002738678952350
+    second: Simple Gui_43
+  - first:
+      213: -1851784713127195124
+    second: Simple Gui_44
+  - first:
+      213: 7738325704750929770
+    second: Simple Gui_45
+  - first:
+      213: -7044315250356813560
+    second: Simple Gui_46
+  - first:
+      213: 8981122186662524044
+    second: Simple Gui_47
+  - first:
+      213: -4526370657088128225
+    second: Simple Gui_48
+  - first:
+      213: 6173313356374025002
+    second: Simple Gui_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Simple Gui_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1404
+        width: 192
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eb82cc6c88012610800000000000000
+      internalID: 1594565142278999016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_1
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 1404
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77cfcbc3139c2ef80800000000000000
+      internalID: -8078673568239649673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_2
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 1308
+        width: 192
+        height: 192
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ba7995cfa02cbe0800000000000000
+      internalID: -1458591250363471024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_3
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1404
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f36f9581d721df0800000000000000
+      internalID: -210968688990994537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_4
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1404
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6facf8747fdfa65f0800000000000000
+      internalID: -762517948386522378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_5
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1404
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f289994175fa9460800000000000000
+      internalID: 7249376417121141491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_6
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1404
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f978525b5fa3b3dd0800000000000000
+      internalID: -2505343940721014881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_7
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1404
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ed62642cc4dfb8c0800000000000000
+      internalID: -3981229572323381792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_8
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1309
+        width: 173
+        height: 88
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842970e41605b54a0800000000000000
+      internalID: -6603596049757531576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_9
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1340
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ade8c982f190e00800000000000000
+      internalID: 1011373850607147564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_10
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1340
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f63705ad88936ce0800000000000000
+      internalID: -1413118123937679623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_11
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1340
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a335d67f6bf57d270800000000000000
+      internalID: 8275188079756399418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_12
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1340
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 423892ab084280000800000000000000
+      internalID: 2291935111381796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_13
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1340
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8676a29d1676625a0800000000000000
+      internalID: -6546431338383513752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1212
+        width: 160
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20552e0b76184b00800000000000000
+      internalID: 812924450514489390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_16
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1446939a6784291a0800000000000000
+      internalID: -6804296412520946623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_17
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33c4a5e3b85410fe0800000000000000
+      internalID: -1224621159319188429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_18
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47bb840e40f9ee170800000000000000
+      internalID: 8209674014034541428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_19
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1276
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e79f08f6fb0e5f660800000000000000
+      internalID: 7419083073976859006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_20
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1212
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af4c04fc4d6a8e0b0800000000000000
+      internalID: -5699121895496956678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_21
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1212
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baef4f9ecc6bbe3c0800000000000000
+      internalID: -4329165625571869013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_22
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1212
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 209273e7b84230620800000000000000
+      internalID: 2739073179907991810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_23
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1212
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67e78789d91a00230800000000000000
+      internalID: 3603057400136367734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_24
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 1228
+        width: 192
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a85424f9e9712930800000000000000
+      internalID: 4116705580123707553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_27
+      rect:
+        serializedVersion: 2
+        x: 1110
+        y: 1196
+        width: 154
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbf482106d8ca8d0800000000000000
+      internalID: -2833734621755802701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_28
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1148
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0395dbd73c9127420800000000000000
+      internalID: 2626189860129298736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_29
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1148
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1ce75f7364aab40800000000000000
+      internalID: 5452247505041277352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_30
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1148
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97c2bf7bf8939a140800000000000000
+      internalID: 4731376172959214713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_31
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1148
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 232ddedbde880aca0800000000000000
+      internalID: -6007651348237135310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_32
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1155
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 450c3f5da61d55e70800000000000000
+      internalID: 9103412478585585748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_33
+      rect:
+        serializedVersion: 2
+        x: 999
+        y: 1123
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6769e182c584c7de0800000000000000
+      internalID: -1334111828961225098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_34
+      rect:
+        serializedVersion: 2
+        x: 1031
+        y: 1123
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a45ad85a42e57170800000000000000
+      internalID: 8175689507507164320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_35
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 1116
+        width: 96
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08a0b391cdf650b80800000000000000
+      internalID: -8429208136447227264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_36
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1084
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47f50491220275f30800000000000000
+      internalID: 4564152078187913076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_37
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 1084
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6d751267c8fc2f0800000000000000
+      internalID: -950386557358450963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_38
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1084
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ed93785d459b960800000000000000
+      internalID: 7618213520747388497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_39
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1084
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62800e1f108ea4820800000000000000
+      internalID: 2903388004844308518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_40
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1106
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f719d584a84071e80800000000000000
+      internalID: -8208086803893350017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_41
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1106
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f03801e46fdd40e0800000000000000
+      internalID: -2283923811641839370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_42
+      rect:
+        serializedVersion: 2
+        x: 1105
+        y: 1095
+        width: 26
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45824568053e6240800000000000000
+      internalID: 4786821764116284750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_43
+      rect:
+        serializedVersion: 2
+        x: 1138
+        y: 1094
+        width: 89
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e002f87ac69fbe0800000000000000
+      internalID: -1443002738678952350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_44
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1084
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e0e855d932d46e0800000000000000
+      internalID: -1851784713127195124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_45
+      rect:
+        serializedVersion: 2
+        x: 1014
+        y: 1084
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6714f3aa3e046b60800000000000000
+      internalID: 7738325704750929770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_51
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1212
+        width: 16
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3528a37a3c4b094b9794768da9630d5
+      internalID: 1005511551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_52
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1212
+        width: 16
+        height: 96
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce1893be2ed5484cbbe415aa43532f3
+      internalID: -651297693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_50
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 1022
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8307f01b37225fe4ca71657253c58f7e
+      internalID: 536937604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_54
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 304
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e584e4a184e5b8439a393a674684cbd
+      internalID: -1363413276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 396
+        width: 64
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0474b2c7928f46443b8275fd46a73e85
+      internalID: 1405612301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_55
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 540
+        width: 304
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902d9bc2b4ded92499d32eaeded26d95
+      internalID: -1733718178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_56
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 540
+        width: 160
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cee33dd35cfb0b048b7ddd57d3b3f318
+      internalID: 293144196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_57
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 588
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f80dedf5bf4e34f8fdced65cd93405
+      internalID: -1430468759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 348
+        width: 304
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dba1a6fa6dfc6ae4faac9f52c9f47867
+      internalID: -2088727008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_59
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 540
+        width: 160
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e96464f4d1e3294da06bc2410733867
+      internalID: -1333420361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_60
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 348
+        width: 192
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19897b2c22b94f148a7cd84d91debd87
+      internalID: 1015458182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_61
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1244
+        width: 160
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e32802f5080f9142ac9144b470dfc4b
+      internalID: 351498043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_62
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 636
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33885dc5a4c324f478da048e428dc463
+      internalID: 2098030722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_63
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 1292
+        width: 176
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39064073f085ce54ea1de21bd9a60377
+      internalID: -195927261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_64
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1420
+        width: 96
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e115621d3d46bbd44a2ec9fe3df5a3b8
+      internalID: 144160418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_65
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 748
+        width: 384
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 178ea0668c37c9d47b70be440b075c00
+      internalID: 887063614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_66
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 588
+        width: 160
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af45b774b3612ad429cdd573b7837fe1
+      internalID: 1822103360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_15
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 747
+        width: 469
+        height: 98
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e152d006e3106d498fc9297f88b46f4
+      internalID: 3151702521065015049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_25
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 348
+        width: 304
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d87f653ca1c6464f9e00c771aab47a7
+      internalID: -1486536401652915556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_26
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 156
+        width: 304
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de23045d6e7fd2f4393ace5d0db17233
+      internalID: -1297655997196875157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 320
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e8ec0e9056a264792a8cbba26456cf
+      internalID: -7044315250356813560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 732
+        width: 240
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1aca6e4e13d9a469e627b737696729
+      internalID: 8981122186662524044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_48
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1036
+        width: 256
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11442e9f54bd0d647a426585a70ed851
+      internalID: -4526370657088128225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_49
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 844
+        width: 144
+        height: 176
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d90ab72183d8c224d99abe9f43ad298c
+      internalID: 6173313356374025002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Simple Gui_67
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 156
+        width: 160
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc1f372643336b4f80574f0987a246a
+      internalID: 741708979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1f1b2b9a093112a419560944019c45e7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":64.0,"y":64.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":2,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":0,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      Simple Gui_0: 1594565142278999016
+      Simple Gui_1: -8078673568239649673
+      Simple Gui_10: -1413118123937679623
+      Simple Gui_11: 8275188079756399418
+      Simple Gui_12: 2291935111381796
+      Simple Gui_13: -6546431338383513752
+      Simple Gui_14: 812924450514489390
+      Simple Gui_15: 3151702521065015049
+      Simple Gui_16: -6804296412520946623
+      Simple Gui_17: -1224621159319188429
+      Simple Gui_18: 8209674014034541428
+      Simple Gui_19: 7419083073976859006
+      Simple Gui_2: -1458591250363471024
+      Simple Gui_20: -5699121895496956678
+      Simple Gui_21: -4329165625571869013
+      Simple Gui_22: 2739073179907991810
+      Simple Gui_23: 3603057400136367734
+      Simple Gui_24: 4116705580123707553
+      Simple Gui_25: -1486536401652915556
+      Simple Gui_26: -1297655997196875157
+      Simple Gui_27: -2833734621755802701
+      Simple Gui_28: 2626189860129298736
+      Simple Gui_29: 5452247505041277352
+      Simple Gui_3: -210968688990994537
+      Simple Gui_30: 4731376172959214713
+      Simple Gui_31: -6007651348237135310
+      Simple Gui_32: 9103412478585585748
+      Simple Gui_33: -1334111828961225098
+      Simple Gui_34: 8175689507507164320
+      Simple Gui_35: -8429208136447227264
+      Simple Gui_36: 4564152078187913076
+      Simple Gui_37: -950386557358450963
+      Simple Gui_38: 7618213520747388497
+      Simple Gui_39: 2903388004844308518
+      Simple Gui_4: -762517948386522378
+      Simple Gui_40: -8208086803893350017
+      Simple Gui_41: -2283923811641839370
+      Simple Gui_42: 4786821764116284750
+      Simple Gui_43: -1443002738678952350
+      Simple Gui_44: -1851784713127195124
+      Simple Gui_45: 7738325704750929770
+      Simple Gui_46: -7044315250356813560
+      Simple Gui_47: 8981122186662524044
+      Simple Gui_48: -4526370657088128225
+      Simple Gui_49: 6173313356374025002
+      Simple Gui_5: 7249376417121141491
+      Simple Gui_50: 536937604
+      Simple Gui_51: 1005511551
+      Simple Gui_52: -651297693
+      Simple Gui_53: 1405612301
+      Simple Gui_54: -1363413276
+      Simple Gui_55: -1733718178
+      Simple Gui_56: 293144196
+      Simple Gui_57: -1430468759
+      Simple Gui_58: -2088727008
+      Simple Gui_59: -1333420361
+      Simple Gui_6: -2505343940721014881
+      Simple Gui_60: 1015458182
+      Simple Gui_61: 351498043
+      Simple Gui_62: 2098030722
+      Simple Gui_63: -195927261
+      Simple Gui_64: 144160418
+      Simple Gui_65: 887063614
+      Simple Gui_66: 1822103360
+      Simple Gui_67: 741708979
+      Simple Gui_7: -3981229572323381792
+      Simple Gui_8: -6603596049757531576
+      Simple Gui_9: 1011373850607147564
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

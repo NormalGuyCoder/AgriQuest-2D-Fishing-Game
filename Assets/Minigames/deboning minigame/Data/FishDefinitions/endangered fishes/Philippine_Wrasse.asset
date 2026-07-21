@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 94ffd712ae9ff5542987662196fc462b, type: 3}
+  m_Name: Philippine_Wrasse
+  m_EditorClassIdentifier: Assembly-CSharp::EndangeredFishDefinition
+  fishName: Philippine Wrasse
+  scientificName: Labroides dimidiatus
+  description: Cleaner wrasse that removes parasites from other fish. Important for
+    reef ecosystem health and fish health maintenance.
+  status: 0
+  iucnStatus: Vulnerable
+  populationTrend: Stable to Decreasing
+  habitat: Coral reefs, particularly areas with cleaning stations
+  distribution: Indo-Pacific region including Philippines, from Red Sea to Pacific
+    islands
+  threats: Collection for aquarium trade, habitat destruction, coral reef degradation,
+    pollution
+  importance: Essential for reef fish health (removes parasites), maintains reef
+    ecosystem balance, important symbiotic relationships
+  conservationEfforts: Marine protected areas, sustainable collection practices,
+    reef conservation, protection of cleaning stations
+  fishImage: {fileID: 0}
+  fishIcon: {fileID: 0}

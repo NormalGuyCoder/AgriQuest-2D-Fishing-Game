@@ -1,0 +1,46 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: Tree Animated Tile
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -6162030346484487730, guid: 1d4984186246599419f14cf669828537, type: 3}
+  - {fileID: 5655842896633579380, guid: 1d4984186246599419f14cf669828537, type: 3}
+  - {fileID: -8778627658308985084, guid: 1d4984186246599419f14cf669828537, type: 3}
+  - {fileID: -2794819127562146330, guid: 1d4984186246599419f14cf669828537, type: 3}
+  - {fileID: 3102718176999253833, guid: 1d4984186246599419f14cf669828537, type: 3}
+  - {fileID: -890366764266728677, guid: 1d4984186246599419f14cf669828537, type: 3}
+  - {fileID: 1470837291171935655, guid: 1d4984186246599419f14cf669828537, type: 3}
+  - {fileID: 1117835316, guid: 1d4984186246599419f14cf669828537, type: 3}
+  - {fileID: -143014188, guid: 1d4984186246599419f14cf669828537, type: 3}
+  - {fileID: -991147062, guid: 1d4984186246599419f14cf669828537, type: 3}
+  - {fileID: 501310110, guid: 1d4984186246599419f14cf669828537, type: 3}
+  - {fileID: 271312559, guid: 1d4984186246599419f14cf669828537, type: 3}
+  - {fileID: 290543964, guid: 1d4984186246599419f14cf669828537, type: 3}
+  - {fileID: 36253878, guid: 1d4984186246599419f14cf669828537, type: 3}
+  - {fileID: 167049617, guid: 1d4984186246599419f14cf669828537, type: 3}
+  - {fileID: 1440974539, guid: 1d4984186246599419f14cf669828537, type: 3}
+  - {fileID: 1600378437, guid: 1d4984186246599419f14cf669828537, type: 3}
+  - {fileID: 545046654, guid: 1d4984186246599419f14cf669828537, type: 3}
+  - {fileID: 1904542627, guid: 1d4984186246599419f14cf669828537, type: 3}
+  - {fileID: -765552491, guid: 1d4984186246599419f14cf669828537, type: 3}
+  - {fileID: -224946379, guid: 1d4984186246599419f14cf669828537, type: 3}
+  - {fileID: 843255778, guid: 1d4984186246599419f14cf669828537, type: 3}
+  - {fileID: 717351646, guid: 1d4984186246599419f14cf669828537, type: 3}
+  - {fileID: 59539645, guid: 1d4984186246599419f14cf669828537, type: 3}
+  - {fileID: -261310461, guid: 1d4984186246599419f14cf669828537, type: 3}
+  m_MinSpeed: 15
+  m_MaxSpeed: 25
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 1
+  m_TileAnimationFlags: 0

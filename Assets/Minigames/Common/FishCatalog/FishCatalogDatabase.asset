@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bc8f62792a35b654c9cb8c6e1ae1b75f, type: 3}
+  m_Name: FishCatalogDatabase
+  m_EditorClassIdentifier: Assembly-CSharp::FishCatalogDatabase
+  entries:
+  - {fileID: 11400000, guid: ce4a63e959fc78642af380c0754dcebc, type: 2}
+  - {fileID: 11400000, guid: 315b5c6cc1293fe46a41e061240d197d, type: 2}
+  - {fileID: 11400000, guid: 7197548333fb27d4eab89d2c4cdbcc7c, type: 2}
+  - {fileID: 11400000, guid: e5545ba90c41e964f9600c858a5ada70, type: 2}
+  - {fileID: 11400000, guid: e5545ba90c41e964f9600c858a5ada70, type: 2}
+  - {fileID: 11400000, guid: 6e9fa1ac8a5bdef4f8b8968ead764715, type: 2}
+  - {fileID: 11400000, guid: 1470ba64c47eb45448c813406402e77f, type: 2}
+  - {fileID: 11400000, guid: db72826b2451f5d46b3c97a22f5195a5, type: 2}
+  - {fileID: 11400000, guid: 1fb535c46087ebc43b1f430abb446ae1, type: 2}
+  - {fileID: 11400000, guid: c5655e15b170e58458c2feec4c60f847, type: 2}
+  - {fileID: 11400000, guid: 961bb593dbcf9be4caff26db5795c5f2, type: 2}
+  - {fileID: 11400000, guid: 8672155bdc3915e41872f8aff71265e1, type: 2}
+  - {fileID: 11400000, guid: 382281fb3046f55468dc9893770a7102, type: 2}
+  - {fileID: 11400000, guid: da0e4652ea8d9da41979428fe423a744, type: 2}
+  - {fileID: 11400000, guid: 06fd6a365427e7948af12581014199e2, type: 2}

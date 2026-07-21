@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f3ad6191c4bd9b459be18ca60df94de, type: 3}
+  m_Name: Sapsap
+  m_EditorClassIdentifier: Assembly-CSharp::FishDefinition
+  fishType: Sapsap
+  displayName: Ponyfish
+  difficulty: 1
+  educationalInfo: Small flat fish; straightforward ribs and few pins.
+  description: Often fried or dried.
+  timeLimitSeconds: 90
+  spineBoneCount: 3
+  ribBoneCount: 15
+  pinBoneCount: 0
+  habitat: Coastal and estuarine waters
+  cookingTips: Use small tweezers for fine pins.
+  fishSprite: {fileID: -3326513424805777801, guid: 4070542009a32324384791f020b07f2a, type: 3}
+  fishIcon: {fileID: -3326513424805777801, guid: 4070542009a32324384791f020b07f2a, type: 3}
+  fishPrefab: {fileID: 7434062677667821415, guid: 47ebeab4c15907b42933ba6f9a0377e2, type: 3}
+  sharedCatalogEntry: {fileID: 11400000, guid: 382281fb3046f55468dc9893770a7102, type: 2}
+  sharedFishId: s
+  bones:
+  - name: spine
+    x: 10818.921
+    y: -3290.8599
+    width: 209.7428
+    height: 96.1677
+    boneType: 0
+    isRemoved: 1
+  - name: spine (1)
+    x: 34672.05
+    y: -4040.5366
+    width: 209.7428
+    height: 96.1677
+    boneType: 0
+    isRemoved: 1
+  - name: Bone Upper
+    x: -5727.916
+    y: -16032.406
+    width: 69.5115
+    height: 186.9402
+    boneType: 1
+    isRemoved: 1
+  - name: Bone 2 (2)
+    x: 938.7566
+    y: -16328.819
+    width: 76.0719
+    height: 195.1751
+    boneType: 1
+    isRemoved: 1
+  - name: Bone 2 (4)
+    x: 6785.597
+    y: -16279.26
+    width: 77.2583
+    height: 191.9522
+    boneType: 1
+    isRemoved: 1
+  - name: Bone 2 (6)
+    x: 12018.0205
+    y: -15268.459
+    width: 61.5985
+    height: 197.8065
+    boneType: 1
+    isRemoved: 1
+  - name: Bone 2 (8)
+    x: 16274.979
+    y: -14064.429
+    width: 58.3086
+    height: 150.6045
+    boneType: 1
+    isRemoved: 1
+  - name: Bone 2 (10)
+    x: 20019.01
+    y: -13387.932
+    width: 57.2745
+    height: 130.1125
+    boneType: 1
+    isRemoved: 1
+  - name: Bone 2 (12)
+    x: 23631.943
+    y: -12537.601
+    width: 44.7563
+    height: 108.9725
+    boneType: 1
+    isRemoved: 1
+  - name: Bone lower
+    x: -5086.4653
+    y: 7791.8867
+    width: 76.0418
+    height: 291.4477
+    boneType: 1
+    isRemoved: 1
+  - name: Bone 2 (2)
+    x: 190.42816
+    y: 7766.9663
+    width: 83.0954
+    height: 220.2379
+    boneType: 1
+    isRemoved: 1
+  - name: Bone 2 (4)
+    x: 5397.753
+    y: 7677.356
+    width: 78.6023
+    height: 218.9137
+    boneType: 1
+    isRemoved: 1
+  - name: Bone 2 (6)
+    x: 9659.475
+    y: 7563.959
+    width: 102.522
+    height: 201.3058
+    boneType: 1
+    isRemoved: 1
+  - name: Bone 2 (8)
+    x: 13981.904
+    y: 6712.2476
+    width: 123.9977
+    height: 186.6038
+    boneType: 1
+    isRemoved: 1
+  - name: Bone 2 (10)
+    x: 16972.975
+    y: 5314.407
+    width: 70.3138
+    height: 153.4274
+    boneType: 1
+    isRemoved: 1
+  - name: Bone 2 (12)
+    x: 21135.135
+    y: 3976.5774
+    width: 88.5994
+    height: 142.3152
+    boneType: 1
+    isRemoved: 1
+  - name: Bone 2 (13)
+    x: 24914.832
+    y: 2999.0486
+    width: 88.4855
+    height: 130.0885
+    boneType: 1
+    isRemoved: 1
+  - name: Caudal Fin
+    x: 46990.062
+    y: -4486.476
+    width: 228.7367
+    height: 230.3546
+    boneType: 0
+    isRemoved: 1

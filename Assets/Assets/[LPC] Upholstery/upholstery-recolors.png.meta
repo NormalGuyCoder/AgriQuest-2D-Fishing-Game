@@ -1,0 +1,5109 @@
+fileFormatVersion: 2
+guid: 1ca620c0fd71a2943855074017ce73b3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7756650444679951180
+    second: upholstery-recolors_0
+  - first:
+      213: 37983331474936566
+    second: upholstery-recolors_1
+  - first:
+      213: -4610321887681967911
+    second: upholstery-recolors_2
+  - first:
+      213: 6302418596103733300
+    second: upholstery-recolors_3
+  - first:
+      213: -1565098724705805236
+    second: upholstery-recolors_4
+  - first:
+      213: -7452998551547667884
+    second: upholstery-recolors_5
+  - first:
+      213: 8167566024937398889
+    second: upholstery-recolors_6
+  - first:
+      213: -7354877575012988395
+    second: upholstery-recolors_7
+  - first:
+      213: -2516244284859201845
+    second: upholstery-recolors_8
+  - first:
+      213: 4686595305498162130
+    second: upholstery-recolors_9
+  - first:
+      213: -9212369953510150428
+    second: upholstery-recolors_10
+  - first:
+      213: -6235478482478203596
+    second: upholstery-recolors_11
+  - first:
+      213: -2865103342714582585
+    second: upholstery-recolors_12
+  - first:
+      213: -6441188973162465235
+    second: upholstery-recolors_13
+  - first:
+      213: -3825072626361696954
+    second: upholstery-recolors_14
+  - first:
+      213: -5125380881247568462
+    second: upholstery-recolors_15
+  - first:
+      213: -7382838856327513461
+    second: upholstery-recolors_16
+  - first:
+      213: -1779100772987962406
+    second: upholstery-recolors_17
+  - first:
+      213: 8131739586179190530
+    second: upholstery-recolors_18
+  - first:
+      213: 4813183862754251550
+    second: upholstery-recolors_19
+  - first:
+      213: -7139165232714900892
+    second: upholstery-recolors_20
+  - first:
+      213: -6463296472082118237
+    second: upholstery-recolors_21
+  - first:
+      213: -6918482018813265562
+    second: upholstery-recolors_22
+  - first:
+      213: 2283394662862696405
+    second: upholstery-recolors_23
+  - first:
+      213: 2188185004907881030
+    second: upholstery-recolors_24
+  - first:
+      213: 6857594168948417229
+    second: upholstery-recolors_25
+  - first:
+      213: -6674450018668935581
+    second: upholstery-recolors_26
+  - first:
+      213: 3329726248512655367
+    second: upholstery-recolors_27
+  - first:
+      213: 3227606806100330778
+    second: upholstery-recolors_28
+  - first:
+      213: 5244050149708957418
+    second: upholstery-recolors_29
+  - first:
+      213: -932203760950095783
+    second: upholstery-recolors_30
+  - first:
+      213: -9085962012800097922
+    second: upholstery-recolors_31
+  - first:
+      213: -8342136553035690260
+    second: upholstery-recolors_32
+  - first:
+      213: 4201820234821211357
+    second: upholstery-recolors_33
+  - first:
+      213: -595380769522816021
+    second: upholstery-recolors_34
+  - first:
+      213: -230996556506172154
+    second: upholstery-recolors_35
+  - first:
+      213: -2703348045009025578
+    second: upholstery-recolors_36
+  - first:
+      213: -3958059813856620553
+    second: upholstery-recolors_37
+  - first:
+      213: 1823332120933730399
+    second: upholstery-recolors_38
+  - first:
+      213: 7176975899300156161
+    second: upholstery-recolors_39
+  - first:
+      213: -1668377383099395956
+    second: upholstery-recolors_40
+  - first:
+      213: -2920165719661166731
+    second: upholstery-recolors_41
+  - first:
+      213: 1219572248098185403
+    second: upholstery-recolors_42
+  - first:
+      213: -3058376503959345980
+    second: upholstery-recolors_43
+  - first:
+      213: 6481253076045390294
+    second: upholstery-recolors_44
+  - first:
+      213: 6047763864184035631
+    second: upholstery-recolors_45
+  - first:
+      213: 6198668899278473787
+    second: upholstery-recolors_46
+  - first:
+      213: 1803230670172698157
+    second: upholstery-recolors_47
+  - first:
+      213: -2305613832930619676
+    second: upholstery-recolors_48
+  - first:
+      213: -29646530899790915
+    second: upholstery-recolors_49
+  - first:
+      213: -982254057932571876
+    second: upholstery-recolors_50
+  - first:
+      213: 2910222229408347986
+    second: upholstery-recolors_51
+  - first:
+      213: -5992640634608028881
+    second: upholstery-recolors_52
+  - first:
+      213: -6892318032257839202
+    second: upholstery-recolors_53
+  - first:
+      213: 5874106563753124261
+    second: upholstery-recolors_54
+  - first:
+      213: -5300228611769459514
+    second: upholstery-recolors_55
+  - first:
+      213: 4367289119254498515
+    second: upholstery-recolors_56
+  - first:
+      213: 1202001847416104567
+    second: upholstery-recolors_57
+  - first:
+      213: 1984399181935124572
+    second: upholstery-recolors_58
+  - first:
+      213: 990032435854358290
+    second: upholstery-recolors_59
+  - first:
+      213: 7051598111730066340
+    second: upholstery-recolors_60
+  - first:
+      213: -8625692341103296840
+    second: upholstery-recolors_61
+  - first:
+      213: 8308590338301972380
+    second: upholstery-recolors_62
+  - first:
+      213: -3818741241426498934
+    second: upholstery-recolors_63
+  - first:
+      213: -5314594352485628920
+    second: upholstery-recolors_64
+  - first:
+      213: 1464804764020267536
+    second: upholstery-recolors_65
+  - first:
+      213: -5797849541805672394
+    second: upholstery-recolors_66
+  - first:
+      213: 269869150655596779
+    second: upholstery-recolors_67
+  - first:
+      213: 6233060231844604257
+    second: upholstery-recolors_68
+  - first:
+      213: 3479911526471907985
+    second: upholstery-recolors_69
+  - first:
+      213: 3194084110539778867
+    second: upholstery-recolors_70
+  - first:
+      213: -4645210494944619884
+    second: upholstery-recolors_71
+  - first:
+      213: 7606579862256397004
+    second: upholstery-recolors_72
+  - first:
+      213: 2562407553927459449
+    second: upholstery-recolors_73
+  - first:
+      213: 5012580967691894141
+    second: upholstery-recolors_74
+  - first:
+      213: 4754040322739626735
+    second: upholstery-recolors_75
+  - first:
+      213: -3941955036124365755
+    second: upholstery-recolors_76
+  - first:
+      213: -468186349473859636
+    second: upholstery-recolors_77
+  - first:
+      213: -5996617440699038328
+    second: upholstery-recolors_78
+  - first:
+      213: 3641759192879223053
+    second: upholstery-recolors_79
+  - first:
+      213: 6032719044982652319
+    second: upholstery-recolors_80
+  - first:
+      213: 8610599177044207218
+    second: upholstery-recolors_81
+  - first:
+      213: 7660347196239591483
+    second: upholstery-recolors_82
+  - first:
+      213: -2277443184398595381
+    second: upholstery-recolors_83
+  - first:
+      213: -7252753202774425938
+    second: upholstery-recolors_84
+  - first:
+      213: -551129938626753887
+    second: upholstery-recolors_85
+  - first:
+      213: -9114117998873214134
+    second: upholstery-recolors_86
+  - first:
+      213: 4469429527725900917
+    second: upholstery-recolors_87
+  - first:
+      213: 5988964547845994278
+    second: upholstery-recolors_88
+  - first:
+      213: -779493528269942616
+    second: upholstery-recolors_89
+  - first:
+      213: 4899560433231811106
+    second: upholstery-recolors_90
+  - first:
+      213: -809595888615679062
+    second: upholstery-recolors_91
+  - first:
+      213: 9101872255731030200
+    second: upholstery-recolors_92
+  - first:
+      213: 146330960572040681
+    second: upholstery-recolors_93
+  - first:
+      213: -115942917511465804
+    second: upholstery-recolors_94
+  - first:
+      213: 3451298384879789565
+    second: upholstery-recolors_95
+  - first:
+      213: 7025044145407997485
+    second: upholstery-recolors_96
+  - first:
+      213: 2598590799866376139
+    second: upholstery-recolors_97
+  - first:
+      213: 1123139266529361798
+    second: upholstery-recolors_98
+  - first:
+      213: 8102750405273863791
+    second: upholstery-recolors_99
+  - first:
+      213: -5680928617671355167
+    second: upholstery-recolors_100
+  - first:
+      213: -2276578478161320382
+    second: upholstery-recolors_101
+  - first:
+      213: -7987880382664737584
+    second: upholstery-recolors_102
+  - first:
+      213: 239738638587391654
+    second: upholstery-recolors_103
+  - first:
+      213: 2747493159910531871
+    second: upholstery-recolors_104
+  - first:
+      213: 7614356287885376457
+    second: upholstery-recolors_105
+  - first:
+      213: -3545170710635554277
+    second: upholstery-recolors_106
+  - first:
+      213: -7141132520533331376
+    second: upholstery-recolors_107
+  - first:
+      213: -5979812937207372901
+    second: upholstery-recolors_108
+  - first:
+      213: -6895937335256231592
+    second: upholstery-recolors_109
+  - first:
+      213: -7350510581163631062
+    second: upholstery-recolors_110
+  - first:
+      213: -5401968878114346936
+    second: upholstery-recolors_111
+  - first:
+      213: 5944982137652624588
+    second: upholstery-recolors_112
+  - first:
+      213: 3452434607980649050
+    second: upholstery-recolors_113
+  - first:
+      213: -4317242036978519859
+    second: upholstery-recolors_114
+  - first:
+      213: -8082112486386562485
+    second: upholstery-recolors_115
+  - first:
+      213: 2844568498490028919
+    second: upholstery-recolors_116
+  - first:
+      213: 3469667181187671815
+    second: upholstery-recolors_117
+  - first:
+      213: -6954641763106572769
+    second: upholstery-recolors_118
+  - first:
+      213: -2299073037026544215
+    second: upholstery-recolors_119
+  - first:
+      213: 2448064868218550672
+    second: upholstery-recolors_120
+  - first:
+      213: -184232658003266426
+    second: upholstery-recolors_121
+  - first:
+      213: 2366780171789959349
+    second: upholstery-recolors_122
+  - first:
+      213: -8210375736268010056
+    second: upholstery-recolors_123
+  - first:
+      213: 521146952601870522
+    second: upholstery-recolors_124
+  - first:
+      213: -7890097460384007212
+    second: upholstery-recolors_125
+  - first:
+      213: 6600062436707594812
+    second: upholstery-recolors_126
+  - first:
+      213: -8623945927015143333
+    second: upholstery-recolors_127
+  - first:
+      213: 3450771441974976835
+    second: upholstery-recolors_128
+  - first:
+      213: 1792473192022753859
+    second: upholstery-recolors_129
+  - first:
+      213: -1561275406888274858
+    second: upholstery-recolors_130
+  - first:
+      213: 6025458182474815493
+    second: upholstery-recolors_131
+  - first:
+      213: 614714099453110411
+    second: upholstery-recolors_132
+  - first:
+      213: 6389309401015805969
+    second: upholstery-recolors_133
+  - first:
+      213: 2931804214117876547
+    second: upholstery-recolors_134
+  - first:
+      213: 3290838572876590688
+    second: upholstery-recolors_135
+  - first:
+      213: -9218732218600987324
+    second: upholstery-recolors_136
+  - first:
+      213: -2613284080798469319
+    second: upholstery-recolors_137
+  - first:
+      213: 5317912793764820133
+    second: upholstery-recolors_138
+  - first:
+      213: 1595248239045762816
+    second: upholstery-recolors_139
+  - first:
+      213: -2572074946456715440
+    second: upholstery-recolors_140
+  - first:
+      213: 5111889719861133699
+    second: upholstery-recolors_141
+  - first:
+      213: -7707804728136831578
+    second: upholstery-recolors_142
+  - first:
+      213: 8736316718617642898
+    second: upholstery-recolors_143
+  - first:
+      213: 6957304094765206736
+    second: upholstery-recolors_144
+  - first:
+      213: 5055218571205591118
+    second: upholstery-recolors_145
+  - first:
+      213: 402217592329297595
+    second: upholstery-recolors_146
+  - first:
+      213: 5304237360825552670
+    second: upholstery-recolors_147
+  - first:
+      213: 3504824356192778455
+    second: upholstery-recolors_148
+  - first:
+      213: -4896652510220062315
+    second: upholstery-recolors_149
+  - first:
+      213: 3526846274733549713
+    second: upholstery-recolors_150
+  - first:
+      213: -2945099029158830071
+    second: upholstery-recolors_151
+  - first:
+      213: 5080360012888146530
+    second: upholstery-recolors_152
+  - first:
+      213: -8832398589196441068
+    second: upholstery-recolors_153
+  - first:
+      213: 2060383066381516734
+    second: upholstery-recolors_154
+  - first:
+      213: -5672798200822503991
+    second: upholstery-recolors_155
+  - first:
+      213: 5708773747462961730
+    second: upholstery-recolors_156
+  - first:
+      213: 6564006140326840075
+    second: upholstery-recolors_157
+  - first:
+      213: -1585211325565966635
+    second: upholstery-recolors_158
+  - first:
+      213: -8747948192439712590
+    second: upholstery-recolors_159
+  - first:
+      213: 3395592600093163353
+    second: upholstery-recolors_160
+  - first:
+      213: -4004355260943319548
+    second: upholstery-recolors_161
+  - first:
+      213: 5970062044487101214
+    second: upholstery-recolors_162
+  - first:
+      213: 6635910172841732724
+    second: upholstery-recolors_163
+  - first:
+      213: 2111134644978864907
+    second: upholstery-recolors_164
+  - first:
+      213: -8963917940291405830
+    second: upholstery-recolors_165
+  - first:
+      213: 738802212202297764
+    second: upholstery-recolors_166
+  - first:
+      213: -504562780957509462
+    second: upholstery-recolors_167
+  - first:
+      213: -2950672363773415947
+    second: upholstery-recolors_168
+  - first:
+      213: 5991530537613436048
+    second: upholstery-recolors_169
+  - first:
+      213: 6268963118460089280
+    second: upholstery-recolors_170
+  - first:
+      213: -8965778274591490413
+    second: upholstery-recolors_171
+  - first:
+      213: -3895432499643168987
+    second: upholstery-recolors_172
+  - first:
+      213: 8813679633413571634
+    second: upholstery-recolors_173
+  - first:
+      213: 8146314595024245282
+    second: upholstery-recolors_174
+  - first:
+      213: 6258278989144638113
+    second: upholstery-recolors_175
+  - first:
+      213: -2375227046257926599
+    second: upholstery-recolors_176
+  - first:
+      213: 5421366365611474401
+    second: upholstery-recolors_177
+  - first:
+      213: -4042392019854744388
+    second: upholstery-recolors_178
+  - first:
+      213: -1633049055957731652
+    second: upholstery-recolors_179
+  - first:
+      213: -6257500300616337749
+    second: upholstery-recolors_180
+  - first:
+      213: -8187214552241636954
+    second: upholstery-recolors_181
+  - first:
+      213: -4738959080355056150
+    second: upholstery-recolors_182
+  - first:
+      213: -220855106470433678
+    second: upholstery-recolors_183
+  - first:
+      213: -9173330323651440632
+    second: upholstery-recolors_184
+  - first:
+      213: 2222632054025722797
+    second: upholstery-recolors_185
+  - first:
+      213: 8984145090695225426
+    second: upholstery-recolors_186
+  - first:
+      213: 5142396040605510036
+    second: upholstery-recolors_187
+  - first:
+      213: -8065067510598960880
+    second: upholstery-recolors_188
+  - first:
+      213: 739273427094853629
+    second: upholstery-recolors_189
+  - first:
+      213: -5526568559916590644
+    second: upholstery-recolors_190
+  - first:
+      213: -2330648712513611234
+    second: upholstery-recolors_191
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: upholstery-recolors_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 959
+        width: 97
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bcc9fd5487da5490800000000000000
+      internalID: -7756650444679951180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 928
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f213f383a1f68000800000000000000
+      internalID: 37983331474936566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_2
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 927
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d802807ba8d400c0800000000000000
+      internalID: -4610321887681967911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_3
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 960
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430449e4250b67750800000000000000
+      internalID: 6302418596103733300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_4
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 929
+        width: 34
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c5e7b8007a74ae0800000000000000
+      internalID: -1565098724705805236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_5
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 927
+        width: 56
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a10871e41a19890800000000000000
+      internalID: -7452998551547667884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_6
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 959
+        width: 98
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96261fba606095170800000000000000
+      internalID: 8167566024937398889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_7
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 928
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a4dd630d93ee990800000000000000
+      internalID: -7354877575012988395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_8
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 927
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc64cd09721841dd0800000000000000
+      internalID: -2516244284859201845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_9
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 960
+        width: 48
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d33b3689912a0140800000000000000
+      internalID: 4686595305498162130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_10
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 929
+        width: 34
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eeab852656172080800000000000000
+      internalID: -9212369953510150428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_11
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 927
+        width: 56
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d7b4f6b512779a0800000000000000
+      internalID: -6235478482478203596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_12
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 928
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c986b490bb1d38d0800000000000000
+      internalID: -2865103342714582585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_13
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 928
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28fc7b71cc4c96a0800000000000000
+      internalID: -6441188973162465235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_14
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 863
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64df3a166bc9aeac0800000000000000
+      internalID: -3825072626361696954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_15
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 893
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bdf8a27e3dfed8b0800000000000000
+      internalID: -5125380881247568462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_16
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 928
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ab5a61d23ea8990800000000000000
+      internalID: -7382838856327513461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_17
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 928
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adbfd66e54d5f47e0800000000000000
+      internalID: -1779100772987962406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_18
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 863
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20f4130e11eb9d070800000000000000
+      internalID: 8131739586179190530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_19
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 895
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e131c1ac83ddbc240800000000000000
+      internalID: 4813183862754251550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_20
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 895
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a9537bb079cec90800000000000000
+      internalID: -7139165232714900892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_21
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 895
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a982874a12cd46a0800000000000000
+      internalID: -6463296472082118237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_22
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 895
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66935b3724d9cff90800000000000000
+      internalID: -6918482018813265562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_23
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 703
+        width: 28
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df24f1195f30bf10800000000000000
+      internalID: 2283394662862696405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_24
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 831
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 642ee502baefd5e10800000000000000
+      internalID: 2188185004907881030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_25
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 703
+        width: 26
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2e5f540911b2f50800000000000000
+      internalID: 6857594168948417229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_26
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 703
+        width: 28
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 366832e12179f53a0800000000000000
+      internalID: -6674450018668935581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_27
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 831
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70014e1a160953e20800000000000000
+      internalID: 3329726248512655367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_28
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 832
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a194e302a43cacc20800000000000000
+      internalID: 3227606806100330778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_29
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 800
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae68cb5b3db96c840800000000000000
+      internalID: 5244050149708957418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_30
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 831
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95059425e952013f0800000000000000
+      internalID: -932203760950095783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_31
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 703
+        width: 28
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e716b5850bd28e180800000000000000
+      internalID: -9085962012800097922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_32
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 831
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cee8188e007ca3c80800000000000000
+      internalID: -8342136553035690260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_33
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 703
+        width: 26
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd4119acd3ddf4a30800000000000000
+      internalID: 4201820234821211357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_34
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 703
+        width: 28
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beb6e763858ccb7f0800000000000000
+      internalID: -595380769522816021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_35
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 831
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6057c111bd55bccf0800000000000000
+      internalID: -230996556506172154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_36
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 832
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d58df8a647cb7ad0800000000000000
+      internalID: -2703348045009025578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_37
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 800
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ffc35be1952219c0800000000000000
+      internalID: -3958059813856620553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_38
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 831
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5880df47e6cd4910800000000000000
+      internalID: 1823332120933730399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_39
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 799
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103535f1e8db99360800000000000000
+      internalID: 7176975899300156161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_40
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 800
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8090190c9bb8d8e0800000000000000
+      internalID: -1668377383099395956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_41
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 804
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57fb25aefbc7977d0800000000000000
+      internalID: -2920165719661166731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_42
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 799
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb021d18f7acce010800000000000000
+      internalID: 1219572248098185403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_43
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 800
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c42a1c06c67e85d0800000000000000
+      internalID: -3058376503959345980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_44
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 804
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d1e711655902f950800000000000000
+      internalID: 6481253076045390294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_45
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 767
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29122a2139fde350800000000000000
+      internalID: 6047763864184035631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_46
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 767
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a41cd9588160650800000000000000
+      internalID: 6198668899278473787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_47
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 735
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26bbb79dbc560910800000000000000
+      internalID: 1803230670172698157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_48
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 671
+        width: 34
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee81f24f60d000e0800000000000000
+      internalID: -2305613832930619676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_49
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 735
+        width: 29
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db335e023aca69ff0800000000000000
+      internalID: -29646530899790915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_50
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 767
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b3eb573255e52f0800000000000000
+      internalID: -982254057932571876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_51
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 767
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2577459d2bf236820800000000000000
+      internalID: 2910222229408347986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_52
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 735
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23fd9bd71dd5dca0800000000000000
+      internalID: -5992640634608028881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_53
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 671
+        width: 34
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9f804844419950a0800000000000000
+      internalID: -6892318032257839202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_54
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 735
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a1ab412cc4058150800000000000000
+      internalID: 5874106563753124261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_55
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 735
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc9e1fc82ec176b0800000000000000
+      internalID: -5300228611769459514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_56
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 735
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dcc798a05abb9c30800000000000000
+      internalID: 4367289119254498515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_57
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 703
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776a99ecf4e5ea010800000000000000
+      internalID: 1202001847416104567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_58
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 709
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c50a1dbca800a8b10800000000000000
+      internalID: 1984399181935124572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_59
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 710
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217b637414d4dbd00800000000000000
+      internalID: 990032435854358290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_60
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 706
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a36c742f1f4cd160800000000000000
+      internalID: 7051598111730066340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_61
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 703
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8befab244826b4880800000000000000
+      internalID: -8625692341103296840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_62
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 709
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f4bb254ea0e4370800000000000000
+      internalID: 8308590338301972380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_63
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 710
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8aa3afc21b110bc0800000000000000
+      internalID: -3818741241426498934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_64
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 706
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8040cc62894ce36b0800000000000000
+      internalID: -5314594352485628920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_65
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 655
+        width: 64
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a5ab80c28045410800000000000000
+      internalID: 1464804764020267536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_66
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 575
+        width: 64
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638f28f5f86e98fa0800000000000000
+      internalID: -5797849541805672394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_67
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 654
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be8c9ac0094ceb300800000000000000
+      internalID: 269869150655596779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_68
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 640
+        width: 97
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16926b6b147408650800000000000000
+      internalID: 6233060231844604257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_69
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 677
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a352198112b4030800000000000000
+      internalID: 3479911526471907985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_70
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 575
+        width: 64
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b6177539aa35c20800000000000000
+      internalID: 3194084110539778867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_71
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 654
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492d8ed8aa5e88fb0800000000000000
+      internalID: -4645210494944619884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_72
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 677
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccaae655510009960800000000000000
+      internalID: 7606579862256397004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_73
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 607
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 972bf9518108f8320800000000000000
+      internalID: 2562407553927459449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_74
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 608
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7db82315d3409540800000000000000
+      internalID: 5012580967691894141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_75
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 575
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe267cc4c7eb9f140800000000000000
+      internalID: 4754040322739626735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_76
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 575
+        width: 60
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54cbe3fa7cc5b49c0800000000000000
+      internalID: -3941955036124365755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_77
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 607
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc77ce6eefaa089f0800000000000000
+      internalID: -468186349473859636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_78
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 608
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885c839853cb7cca0800000000000000
+      internalID: -5996617440699038328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_79
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 575
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d015419e0b02a8230800000000000000
+      internalID: 3641759192879223053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_80
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 575
+        width: 60
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9dbce9320688b350800000000000000
+      internalID: 6032719044982652319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_81
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 640
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 276adf2a45efe7770800000000000000
+      internalID: 8610599177044207218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_82
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 479
+        width: 97
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38350050350f4a60800000000000000
+      internalID: 7660347196239591483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_83
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 576
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca89cd7d75e460e0800000000000000
+      internalID: -2277443184398595381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_84
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 544
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaebd09836b095b90800000000000000
+      internalID: -7252753202774425938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_85
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 544
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aac117ad3ef958f0800000000000000
+      internalID: -551129938626753887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_86
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 544
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a430b2cf7f5248180800000000000000
+      internalID: -9114117998873214134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_87
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 479
+        width: 98
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5748eb4b97a960e30800000000000000
+      internalID: 4469429527725900917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_88
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 576
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 627b4ce76831d1350800000000000000
+      internalID: 5988964547845994278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_89
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 544
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a011c614ceae25f0800000000000000
+      internalID: -779493528269942616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_90
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 544
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222575a414cbef340800000000000000
+      internalID: 4899560433231811106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_91
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 544
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab127724dcb3c4f0800000000000000
+      internalID: -809595888615679062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_92
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 480
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8d4d1c798505e70800000000000000
+      internalID: 9101872255731030200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_93
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 544
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e5c98cbb3fd70200800000000000000
+      internalID: 146330960572040681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_94
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 449
+        width: 34
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4b183e786146ef0800000000000000
+      internalID: -115942917511465804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_95
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 544
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df5a3a4689975ef20800000000000000
+      internalID: 3451298384879789565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_96
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 447
+        width: 56
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d263b721e68fd7160800000000000000
+      internalID: 7025044145407997485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_97
+      rect:
+        serializedVersion: 2
+        x: 360
+        y: 480
+        width: 48
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf22a6809c001420800000000000000
+      internalID: 2598590799866376139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_98
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 544
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f76c65631369f00800000000000000
+      internalID: 1123139266529361798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_99
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 449
+        width: 34
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66400a3090c27070800000000000000
+      internalID: 8102750405273863791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_100
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 544
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4195565894921b0800000000000000
+      internalID: -5680928617671355167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_101
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 447
+        width: 56
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24625e99fe7f760e0800000000000000
+      internalID: -2276578478161320382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_102
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 448
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dcf4f21d19552190800000000000000
+      internalID: -7987880382664737584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_103
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 447
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aeefe78509b35300800000000000000
+      internalID: 239738638587391654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_104
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 415
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13684bd87e012620800000000000000
+      internalID: 2747493159910531871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_105
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 448
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb7ba483b0aba960800000000000000
+      internalID: 7614356287885376457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_106
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 448
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ad27495060dcec0800000000000000
+      internalID: -3545170710635554277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_107
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 383
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 052fe93dec995ec90800000000000000
+      internalID: -7141132520533331376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_108
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 448
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b932876e0df630da0800000000000000
+      internalID: -5979812937207372901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_109
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 447
+        width: 28
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851d2b2a785bc40a0800000000000000
+      internalID: -6895937335256231592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_110
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 448
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2eddf3329dbdf990800000000000000
+      internalID: -7350510581163631062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_111
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 448
+        width: 22
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 848674c1de95805b0800000000000000
+      internalID: -5401968878114346936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_112
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 383
+        width: 34
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cccb3de91c1d08250800000000000000
+      internalID: 5944982137652624588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_113
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 415
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5a93f2fbf289ef20800000000000000
+      internalID: 3452434607980649050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_114
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 415
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc0f288bd331614c0800000000000000
+      internalID: -4317242036978519859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_115
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 415
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4a0e26b38196df80800000000000000
+      internalID: -8082112486386562485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_116
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 415
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 773b3cb6affe97720800000000000000
+      internalID: 2844568498490028919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_117
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 223
+        width: 28
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707a58f0bebb62030800000000000000
+      internalID: 3469667181187671815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_118
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 351
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16bfe9e9262c7f90800000000000000
+      internalID: -6954641763106572769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_119
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 223
+        width: 26
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a5ba5bf04d0810e0800000000000000
+      internalID: -2299073037026544215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_120
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 223
+        width: 28
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 099b749f60649f120800000000000000
+      internalID: 2448064868218550672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_121
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 351
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68470b7af59717df0800000000000000
+      internalID: -184232658003266426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_122
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 352
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b08af8c60e78d020800000000000000
+      internalID: 2366780171789959349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_123
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 320
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bd424fa4c2ee0e80800000000000000
+      internalID: -8210375736268010056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_124
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 351
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0ac99646c7b3700800000000000000
+      internalID: 521146952601870522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_125
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 223
+        width: 28
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4db799ec92eb08290800000000000000
+      internalID: -7890097460384007212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_126
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 351
+        width: 24
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32fa5b41d1289b50800000000000000
+      internalID: 6600062436707594812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_127
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 223
+        width: 26
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58e51afed6915880800000000000000
+      internalID: -8623945927015143333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_128
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 223
+        width: 28
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3412bffe75a93ef20800000000000000
+      internalID: 3450771441974976835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_129
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 351
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3424de70fd420e810800000000000000
+      internalID: 1792473192022753859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_130
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 352
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654fed71a4c355ae0800000000000000
+      internalID: -1561275406888274858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_131
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 320
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 508d16fea4abe9350800000000000000
+      internalID: 6025458182474815493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_132
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 351
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88a3507737e78800800000000000000
+      internalID: 614714099453110411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_133
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 319
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1186c975c036ba850800000000000000
+      internalID: 6389309401015805969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_134
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 320
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3434d7d366cdfa820800000000000000
+      internalID: 2931804214117876547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_135
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 324
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e66751f386bad20800000000000000
+      internalID: 3290838572876590688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_136
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 319
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445e6ded3eb701080800000000000000
+      internalID: -9218732218600987324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_137
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 320
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933f2da69ffbbbbd0800000000000000
+      internalID: -2613284080798469319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_138
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 324
+        width: 59
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a47bdaa2850dc940800000000000000
+      internalID: 5317912793764820133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_139
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 287
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00fd3e842d5732610800000000000000
+      internalID: 1595248239045762816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_140
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 287
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ff3c0b6772e4cd0800000000000000
+      internalID: -2572074946456715440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_141
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 255
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3814b43cd9411f640800000000000000
+      internalID: 5111889719861133699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_142
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 191
+        width: 34
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ade35dff60680590800000000000000
+      internalID: -7707804728136831578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_143
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 255
+        width: 29
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297c282c4c1ad3970800000000000000
+      internalID: 8736316718617642898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_144
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 287
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dcc9da763f4d8060800000000000000
+      internalID: 6957304094765206736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_145
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 287
+        width: 66
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e40caaeb18eb72640800000000000000
+      internalID: 5055218571205591118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_146
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 255
+        width: 66
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe5339e4c6f49500800000000000000
+      internalID: 402217592329297595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_147
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 191
+        width: 34
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fcc50d6cf6c9940800000000000000
+      internalID: 5304237360825552670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_148
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 255
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8f10fbe23a3a030800000000000000
+      internalID: 3504824356192778455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_149
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 255
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591fecb4c789b0cb0800000000000000
+      internalID: -4896652510220062315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_150
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 255
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19827e63000e1f030800000000000000
+      internalID: 3526846274733549713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_151
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 223
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900e3aa6908e027d0800000000000000
+      internalID: -2945099029158830071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_152
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 229
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2620c4bc380118640800000000000000
+      internalID: 5080360012888146530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_153
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 230
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ae84877440d6580800000000000000
+      internalID: -8832398589196441068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_154
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 226
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf76e48b73f79c10800000000000000
+      internalID: 2060383066381516734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_155
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 223
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5ef75971c2641b0800000000000000
+      internalID: -5672798200822503991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_156
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 229
+        width: 26
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24afa981a73a93f40800000000000000
+      internalID: 5708773747462961730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_157
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 230
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b070aa99ec8081b50800000000000000
+      internalID: 6564006140326840075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_158
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 226
+        width: 26
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d6e6bdb2b2300ae0800000000000000
+      internalID: -1585211325565966635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 175
+        width: 64
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b44c14b77b099680800000000000000
+      internalID: -8747948192439712590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_160
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 95
+        width: 64
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95f7f7aaa719f1f20800000000000000
+      internalID: 3395592600093163353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_161
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 174
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40eb10d2b1cad68c0800000000000000
+      internalID: -4004355260943319548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_162
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 160
+        width: 97
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b22b87ccbe9d250800000000000000
+      internalID: 5970062044487101214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_163
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 197
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ae1a5c42d771c50800000000000000
+      internalID: 6635910172841732724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_164
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 95
+        width: 64
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b035cfa36c14c4d10800000000000000
+      internalID: 2111134644978864907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_165
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 174
+        width: 66
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af7fd2d4024c99380800000000000000
+      internalID: -8963917940291405830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_166
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 197
+        width: 26
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a9379992b0c04a00800000000000000
+      internalID: 738802212202297764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_167
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 127
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa8f422f2de6ff8f0800000000000000
+      internalID: -504562780957509462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_168
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 128
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fd29b45e1b1d07d0800000000000000
+      internalID: -2950672363773415947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_169
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 95
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 094aa5b8741362350800000000000000
+      internalID: 5991530537613436048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_170
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 95
+        width: 60
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c3b6d9edb4dff650800000000000000
+      internalID: 6268963118460089280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_171
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 127
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e3f087928239380800000000000000
+      internalID: -8965778274591490413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_172
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 128
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 527c14cc7c4a0f9c0800000000000000
+      internalID: -3895432499643168987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_173
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 95
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23406b10eea705a70800000000000000
+      internalID: 8813679633413571634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_174
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 95
+        width: 60
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 222100196f58d0170800000000000000
+      internalID: 8146314595024245282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_175
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 160
+        width: 33
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a2c145359fd9d650800000000000000
+      internalID: 6258278989144638113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_176
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 63
+        width: 59
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e55eef59f790fd0800000000000000
+      internalID: -2375227046257926599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_177
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 96
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1edb5836cff8c3b40800000000000000
+      internalID: 5421366365611474401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_178
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 64
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb42fad10e986e7c0800000000000000
+      internalID: -4042392019854744388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_179
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 64
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb63ade298e3659e0800000000000000
+      internalID: -1633049055957731652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_180
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 64
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba6fcd751a4e829a0800000000000000
+      internalID: -6257500300616337749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_181
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 63
+        width: 60
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a97ab11ebb216e80800000000000000
+      internalID: -8187214552241636954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_182
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 96
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae5335213d5db3eb0800000000000000
+      internalID: -4738959080355056150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_183
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 64
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27caff7637d5fecf0800000000000000
+      internalID: -220855106470433678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_184
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 64
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800df6b4ca8c1b080800000000000000
+      internalID: -9173330323651440632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_185
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 64
+        width: 23
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab999eb31068de10800000000000000
+      internalID: 2222632054025722797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_186
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 64
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25065752c581eac70800000000000000
+      internalID: 8984145090695225426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_187
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 64
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499aaae04f57d5740800000000000000
+      internalID: 5142396040605510036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_188
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 64
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019743564df131090800000000000000
+      internalID: -8065067510598960880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_189
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 64
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df7dfddd34d624a00800000000000000
+      internalID: 739273427094853629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_190
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 64
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc9545ffc2fad43b0800000000000000
+      internalID: -5526568559916590644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upholstery-recolors_191
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 64
+        width: 34
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a9762285fd7afd0800000000000000
+      internalID: -2330648712513611234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      upholstery-recolors_0: -7756650444679951180
+      upholstery-recolors_1: 37983331474936566
+      upholstery-recolors_10: -9212369953510150428
+      upholstery-recolors_100: -5680928617671355167
+      upholstery-recolors_101: -2276578478161320382
+      upholstery-recolors_102: -7987880382664737584
+      upholstery-recolors_103: 239738638587391654
+      upholstery-recolors_104: 2747493159910531871
+      upholstery-recolors_105: 7614356287885376457
+      upholstery-recolors_106: -3545170710635554277
+      upholstery-recolors_107: -7141132520533331376
+      upholstery-recolors_108: -5979812937207372901
+      upholstery-recolors_109: -6895937335256231592
+      upholstery-recolors_11: -6235478482478203596
+      upholstery-recolors_110: -7350510581163631062
+      upholstery-recolors_111: -5401968878114346936
+      upholstery-recolors_112: 5944982137652624588
+      upholstery-recolors_113: 3452434607980649050
+      upholstery-recolors_114: -4317242036978519859
+      upholstery-recolors_115: -8082112486386562485
+      upholstery-recolors_116: 2844568498490028919
+      upholstery-recolors_117: 3469667181187671815
+      upholstery-recolors_118: -6954641763106572769
+      upholstery-recolors_119: -2299073037026544215
+      upholstery-recolors_12: -2865103342714582585
+      upholstery-recolors_120: 2448064868218550672
+      upholstery-recolors_121: -184232658003266426
+      upholstery-recolors_122: 2366780171789959349
+      upholstery-recolors_123: -8210375736268010056
+      upholstery-recolors_124: 521146952601870522
+      upholstery-recolors_125: -7890097460384007212
+      upholstery-recolors_126: 6600062436707594812
+      upholstery-recolors_127: -8623945927015143333
+      upholstery-recolors_128: 3450771441974976835
+      upholstery-recolors_129: 1792473192022753859
+      upholstery-recolors_13: -6441188973162465235
+      upholstery-recolors_130: -1561275406888274858
+      upholstery-recolors_131: 6025458182474815493
+      upholstery-recolors_132: 614714099453110411
+      upholstery-recolors_133: 6389309401015805969
+      upholstery-recolors_134: 2931804214117876547
+      upholstery-recolors_135: 3290838572876590688
+      upholstery-recolors_136: -9218732218600987324
+      upholstery-recolors_137: -2613284080798469319
+      upholstery-recolors_138: 5317912793764820133
+      upholstery-recolors_139: 1595248239045762816
+      upholstery-recolors_14: -3825072626361696954
+      upholstery-recolors_140: -2572074946456715440
+      upholstery-recolors_141: 5111889719861133699
+      upholstery-recolors_142: -7707804728136831578
+      upholstery-recolors_143: 8736316718617642898
+      upholstery-recolors_144: 6957304094765206736
+      upholstery-recolors_145: 5055218571205591118
+      upholstery-recolors_146: 402217592329297595
+      upholstery-recolors_147: 5304237360825552670
+      upholstery-recolors_148: 3504824356192778455
+      upholstery-recolors_149: -4896652510220062315
+      upholstery-recolors_15: -5125380881247568462
+      upholstery-recolors_150: 3526846274733549713
+      upholstery-recolors_151: -2945099029158830071
+      upholstery-recolors_152: 5080360012888146530
+      upholstery-recolors_153: -8832398589196441068
+      upholstery-recolors_154: 2060383066381516734
+      upholstery-recolors_155: -5672798200822503991
+      upholstery-recolors_156: 5708773747462961730
+      upholstery-recolors_157: 6564006140326840075
+      upholstery-recolors_158: -1585211325565966635
+      upholstery-recolors_159: -8747948192439712590
+      upholstery-recolors_16: -7382838856327513461
+      upholstery-recolors_160: 3395592600093163353
+      upholstery-recolors_161: -4004355260943319548
+      upholstery-recolors_162: 5970062044487101214
+      upholstery-recolors_163: 6635910172841732724
+      upholstery-recolors_164: 2111134644978864907
+      upholstery-recolors_165: -8963917940291405830
+      upholstery-recolors_166: 738802212202297764
+      upholstery-recolors_167: -504562780957509462
+      upholstery-recolors_168: -2950672363773415947
+      upholstery-recolors_169: 5991530537613436048
+      upholstery-recolors_17: -1779100772987962406
+      upholstery-recolors_170: 6268963118460089280
+      upholstery-recolors_171: -8965778274591490413
+      upholstery-recolors_172: -3895432499643168987
+      upholstery-recolors_173: 8813679633413571634
+      upholstery-recolors_174: 8146314595024245282
+      upholstery-recolors_175: 6258278989144638113
+      upholstery-recolors_176: -2375227046257926599
+      upholstery-recolors_177: 5421366365611474401
+      upholstery-recolors_178: -4042392019854744388
+      upholstery-recolors_179: -1633049055957731652
+      upholstery-recolors_18: 8131739586179190530
+      upholstery-recolors_180: -6257500300616337749
+      upholstery-recolors_181: -8187214552241636954
+      upholstery-recolors_182: -4738959080355056150
+      upholstery-recolors_183: -220855106470433678
+      upholstery-recolors_184: -9173330323651440632
+      upholstery-recolors_185: 2222632054025722797
+      upholstery-recolors_186: 8984145090695225426
+      upholstery-recolors_187: 5142396040605510036
+      upholstery-recolors_188: -8065067510598960880
+      upholstery-recolors_189: 739273427094853629
+      upholstery-recolors_19: 4813183862754251550
+      upholstery-recolors_190: -5526568559916590644
+      upholstery-recolors_191: -2330648712513611234
+      upholstery-recolors_2: -4610321887681967911
+      upholstery-recolors_20: -7139165232714900892
+      upholstery-recolors_21: -6463296472082118237
+      upholstery-recolors_22: -6918482018813265562
+      upholstery-recolors_23: 2283394662862696405
+      upholstery-recolors_24: 2188185004907881030
+      upholstery-recolors_25: 6857594168948417229
+      upholstery-recolors_26: -6674450018668935581
+      upholstery-recolors_27: 3329726248512655367
+      upholstery-recolors_28: 3227606806100330778
+      upholstery-recolors_29: 5244050149708957418
+      upholstery-recolors_3: 6302418596103733300
+      upholstery-recolors_30: -932203760950095783
+      upholstery-recolors_31: -9085962012800097922
+      upholstery-recolors_32: -8342136553035690260
+      upholstery-recolors_33: 4201820234821211357
+      upholstery-recolors_34: -595380769522816021
+      upholstery-recolors_35: -230996556506172154
+      upholstery-recolors_36: -2703348045009025578
+      upholstery-recolors_37: -3958059813856620553
+      upholstery-recolors_38: 1823332120933730399
+      upholstery-recolors_39: 7176975899300156161
+      upholstery-recolors_4: -1565098724705805236
+      upholstery-recolors_40: -1668377383099395956
+      upholstery-recolors_41: -2920165719661166731
+      upholstery-recolors_42: 1219572248098185403
+      upholstery-recolors_43: -3058376503959345980
+      upholstery-recolors_44: 6481253076045390294
+      upholstery-recolors_45: 6047763864184035631
+      upholstery-recolors_46: 6198668899278473787
+      upholstery-recolors_47: 1803230670172698157
+      upholstery-recolors_48: -2305613832930619676
+      upholstery-recolors_49: -29646530899790915
+      upholstery-recolors_5: -7452998551547667884
+      upholstery-recolors_50: -982254057932571876
+      upholstery-recolors_51: 2910222229408347986
+      upholstery-recolors_52: -5992640634608028881
+      upholstery-recolors_53: -6892318032257839202
+      upholstery-recolors_54: 5874106563753124261
+      upholstery-recolors_55: -5300228611769459514
+      upholstery-recolors_56: 4367289119254498515
+      upholstery-recolors_57: 1202001847416104567
+      upholstery-recolors_58: 1984399181935124572
+      upholstery-recolors_59: 990032435854358290
+      upholstery-recolors_6: 8167566024937398889
+      upholstery-recolors_60: 7051598111730066340
+      upholstery-recolors_61: -8625692341103296840
+      upholstery-recolors_62: 8308590338301972380
+      upholstery-recolors_63: -3818741241426498934
+      upholstery-recolors_64: -5314594352485628920
+      upholstery-recolors_65: 1464804764020267536
+      upholstery-recolors_66: -5797849541805672394
+      upholstery-recolors_67: 269869150655596779
+      upholstery-recolors_68: 6233060231844604257
+      upholstery-recolors_69: 3479911526471907985
+      upholstery-recolors_7: -7354877575012988395
+      upholstery-recolors_70: 3194084110539778867
+      upholstery-recolors_71: -4645210494944619884
+      upholstery-recolors_72: 7606579862256397004
+      upholstery-recolors_73: 2562407553927459449
+      upholstery-recolors_74: 5012580967691894141
+      upholstery-recolors_75: 4754040322739626735
+      upholstery-recolors_76: -3941955036124365755
+      upholstery-recolors_77: -468186349473859636
+      upholstery-recolors_78: -5996617440699038328
+      upholstery-recolors_79: 3641759192879223053
+      upholstery-recolors_8: -2516244284859201845
+      upholstery-recolors_80: 6032719044982652319
+      upholstery-recolors_81: 8610599177044207218
+      upholstery-recolors_82: 7660347196239591483
+      upholstery-recolors_83: -2277443184398595381
+      upholstery-recolors_84: -7252753202774425938
+      upholstery-recolors_85: -551129938626753887
+      upholstery-recolors_86: -9114117998873214134
+      upholstery-recolors_87: 4469429527725900917
+      upholstery-recolors_88: 5988964547845994278
+      upholstery-recolors_89: -779493528269942616
+      upholstery-recolors_9: 4686595305498162130
+      upholstery-recolors_90: 4899560433231811106
+      upholstery-recolors_91: -809595888615679062
+      upholstery-recolors_92: 9101872255731030200
+      upholstery-recolors_93: 146330960572040681
+      upholstery-recolors_94: -115942917511465804
+      upholstery-recolors_95: 3451298384879789565
+      upholstery-recolors_96: 7025044145407997485
+      upholstery-recolors_97: 2598590799866376139
+      upholstery-recolors_98: 1123139266529361798
+      upholstery-recolors_99: 8102750405273863791
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

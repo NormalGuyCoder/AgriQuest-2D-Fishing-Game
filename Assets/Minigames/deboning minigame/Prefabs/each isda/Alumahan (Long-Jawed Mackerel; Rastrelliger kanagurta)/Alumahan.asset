@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f3ad6191c4bd9b459be18ca60df94de, type: 3}
+  m_Name: Alumahan
+  m_EditorClassIdentifier: Assembly-CSharp::FishDefinition
+  fishType: Alumahan
+  displayName: Alumahan
+  difficulty: 1
+  educationalInfo: Classic market fish; learn consistent deboning flow.
+  description: Great for paksiw and fry.
+  timeLimitSeconds: 95
+  spineBoneCount: 1
+  ribBoneCount: 3
+  pinBoneCount: 2
+  habitat: Nearshore tropical waters
+  cookingTips: After spine cut, lift rib bones cleanly before tweezing pins.
+  fishSprite: {fileID: 8042525141550810133, guid: 22121fafddf39414882ff685f74560ea, type: 3}
+  fishIcon: {fileID: 8042525141550810133, guid: 22121fafddf39414882ff685f74560ea, type: 3}
+  fishPrefab: {fileID: 7434062677667821415, guid: aed4e73ea01aa76469236ee2a4156f5e, type: 3}
+  sharedCatalogEntry: {fileID: 0}
+  sharedFishId: alumahan
+  bones:
+  - name: Main Spine
+    x: 300
+    y: 200
+    width: 20
+    height: 300
+    boneType: 0
+    isRemoved: 0
+  - name: Rib 1
+    x: 282
+    y: 148
+    width: 15
+    height: 78
+    boneType: 1
+    isRemoved: 0
+  - name: Rib 2
+    x: 318
+    y: 148
+    width: 15
+    height: 78
+    boneType: 1
+    isRemoved: 0
+  - name: Pin Bone 1
+    x: 255
+    y: 178
+    width: 8
+    height: 15
+    boneType: 2
+    isRemoved: 0
+  - name: Pin Bone 2
+    x: 345
+    y: 178
+    width: 8
+    height: 15
+    boneType: 2
+    isRemoved: 0

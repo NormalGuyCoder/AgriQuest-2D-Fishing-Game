@@ -1,0 +1,107 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f3ad6191c4bd9b459be18ca60df94de, type: 3}
+  m_Name: Mackerel
+  m_EditorClassIdentifier: 
+  fishType: Mackerel
+  displayName: Mackerel
+  difficulty: 3
+  educationalInfo: Oily fish with many small bones. Requires expert-level deboning
+    skills. The pin bones are numerous and must be removed carefully.
+  description: Oily fish with many small bones. Requires expert-level deboning skills.
+  timeLimitSeconds: 140
+  spineBoneCount: 1
+  ribBoneCount: 5
+  pinBoneCount: 5
+  habitat: Temperate and tropical seas
+  cookingTips: Mackerel is best grilled or smoked. The oily flesh is rich in flavor.
+    Remove all small pin bones before cooking.
+  fishSprite: {fileID: 0}
+  fishIcon: {fileID: 0}
+  bones:
+  - name: Main Spine
+    x: 300
+    y: 200
+    width: 24
+    height: 315
+    boneType: 0
+    isRemoved: 0
+  - name: Rib 1
+    x: 276
+    y: 138
+    width: 19
+    height: 88
+    boneType: 1
+    isRemoved: 0
+  - name: Rib 2
+    x: 324
+    y: 138
+    width: 19
+    height: 88
+    boneType: 1
+    isRemoved: 0
+  - name: Rib 3
+    x: 266
+    y: 108
+    width: 19
+    height: 68
+    boneType: 1
+    isRemoved: 0
+  - name: Rib 4
+    x: 334
+    y: 108
+    width: 19
+    height: 68
+    boneType: 1
+    isRemoved: 0
+  - name: Rib 5
+    x: 256
+    y: 83
+    width: 19
+    height: 58
+    boneType: 1
+    isRemoved: 0
+  - name: Pin Bone 1
+    x: 246
+    y: 168
+    width: 11
+    height: 19
+    boneType: 2
+    isRemoved: 0
+  - name: Pin Bone 2
+    x: 354
+    y: 168
+    width: 11
+    height: 19
+    boneType: 2
+    isRemoved: 0
+  - name: Pin Bone 3
+    x: 236
+    y: 148
+    width: 11
+    height: 19
+    boneType: 2
+    isRemoved: 0
+  - name: Pin Bone 4
+    x: 364
+    y: 148
+    width: 11
+    height: 19
+    boneType: 2
+    isRemoved: 0
+  - name: Pin Bone 5
+    x: 231
+    y: 128
+    width: 11
+    height: 19
+    boneType: 2
+    isRemoved: 0

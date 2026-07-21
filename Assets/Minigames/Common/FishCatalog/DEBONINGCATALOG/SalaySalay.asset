@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7651e250fea4e664396b28b6b87cf878, type: 3}
+  m_Name: SalaySalay
+  m_EditorClassIdentifier: Assembly-CSharp::FishCatalogEntry
+  fishId: salaysalay
+  displayName: SalaySalay
+  scientificName: 
+  description: Often dried or fried fresh.
+  mainSprite: {fileID: 3709737839173511001, guid: 75c4130ab1a69a842ba11a7f07fef4a8, type: 3}
+  iconSprite: {fileID: 3709737839173511001, guid: 75c4130ab1a69a842ba11a7f07fef4a8, type: 3}
+  tags: []
+  aliases: []

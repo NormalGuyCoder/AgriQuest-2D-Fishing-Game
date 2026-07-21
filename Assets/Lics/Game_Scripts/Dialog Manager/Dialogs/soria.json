@@ -1,0 +1,308 @@
+{
+  "npcDialogs": [
+    {
+      "npcName": "Soria",
+      "dialogs": [
+        {
+          "key": "first_meeting",
+          "value": {
+            "speakerName": "Soria",
+            "text": "Well, well, well! Look what the catfish dragged in!\n\nA brand-new face, and with that determined look of someone who's just been handed a fishing rod!\n\nI'm Soria. Am I right about the fishing rod?",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 10,
+                "conditionKey": "Soria",
+                "conditionValue": "false",
+                "expectedBool": true
+              }
+            ],
+            "triggersOnShow": [
+              "RecordTalkedToNPC:Soria"
+            ],
+            "choices": [
+              {
+                "choiceText": "How did you know that?",
+                "resultDialogId": "shop_intro",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Are you Soria? Ruben sent me.",
+                "resultDialogId": "shop_intro",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "I'm just looking around.",
+                "resultDialogId": "shop_intro",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "shop_intro",
+          "value": {
+            "speakerName": "Soria",
+            "text": "In a town like Riversong, news swims faster than a trout!\n\nI'm Soria, and I usually sell gear, but for now, focus on your skills.\n\nVincent and Ruben are your best teachers right now.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [
+              "StartQuest:TOOLS_OF_TRADE"
+            ],
+            "choices": [
+              {
+                "choiceText": "What should I focus on first?",
+                "resultDialogId": "qa_important",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Tell me about gear and processing",
+                "resultDialogId": "qa_kit_combined",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Thanks for the advice, goodbye!",
+                "resultDialogId": "qa_end",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "qa_kit_combined",
+          "value": {
+            "speakerName": "Soria",
+            "text": "For gear, start with basics like a better cooler or backpack when available.\n\nFor processing, Ruben's right about the Processor's Kit - it makes all the difference!\n\nBut it's not available yet. For now, focus on the technique he taught you.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "What else should I focus on?",
+                "resultDialogId": "qa_important",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "General advice for balancing things?",
+                "resultDialogId": "qa_advice",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Thanks, I'll get back to fishing",
+                "resultDialogId": "qa_end",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "post_rhysbryn",
+          "value": {
+            "speakerName": "Soria",
+            "text": "I heard about what you did for Rhysbryn. That was good of you.\n\nA town remembers kindness. Now, what can I help you with?",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 1,
+                "conditionKey": "HelpedRhysbryn",
+                "conditionValue": "true"
+              }
+            ],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "What should I focus on?",
+                "resultDialogId": "qa_important",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Gear and processing advice",
+                "resultDialogId": "qa_kit_combined",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Just saying hello, goodbye!",
+                "resultDialogId": "qa_end",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "fined_by_nash",
+          "value": {
+            "speakerName": "Soria",
+            "text": "Word travels fast in a small town. Nash isn't one to fine lightly.\n\nMaybe spend some time fishing responsibly? I've got advice if you need it.",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 1,
+                "conditionKey": "RecentlyFined",
+                "conditionValue": "true"
+              }
+            ],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "What should I focus on?",
+                "resultDialogId": "qa_important",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Advice for fishing responsibly",
+                "resultDialogId": "qa_advice",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "I'll be more careful, thanks",
+                "resultDialogId": "qa_end",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "qa_important",
+          "value": {
+            "speakerName": "Soria",
+            "text": "For now, just practice. When tools are available, start with a better cooler or backpack.\n\nYou can't make money if you can't carry your catch to market fresh!\n\nAfter that, specialize in what you love—fishing and processing.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "Tell me about gear and processing",
+                "resultDialogId": "qa_kit_combined",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "General balancing advice?",
+                "resultDialogId": "qa_advice",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Thanks, that helps! Goodbye",
+                "resultDialogId": "qa_end",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "qa_advice",
+          "value": {
+            "speakerName": "Soria",
+            "text": "Balance, sweetie. Don't pour all your coin into one thing.\n\nListen to the town—if Nash is worried about the fish, maybe ease up.\n\nIf Cassandra's begging for tilapia, maybe fish more. You're part of an ecosystem now.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "What gear should I focus on?",
+                "resultDialogId": "qa_important",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Tell me about processing gear",
+                "resultDialogId": "qa_kit_combined",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Thanks for the wisdom!",
+                "resultDialogId": "qa_end",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "hello_response",
+          "value": {
+            "speakerName": "Soria",
+            "text": "Hello! Always good to see a friendly face.\n\nNow, don't let me keep you! Those fish aren't going to catch themselves.\n\nCome back anytime!",
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "qa_end",
+          "value": {
+            "speakerName": "Soria",
+            "text": "Good luck out there! Remember:\n\n• Practice makes perfect\n• Listen to the town\n• Balance is key\n\nMy door is always open when you need more advice!",
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "default",
+          "value": {
+            "speakerName": "Soria",
+            "text": "Welcome back! What can I help you with today?\n\nNeed advice, or just visiting?",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 10,
+                "conditionKey": "Soria",
+                "conditionValue": "true"
+              }
+            ],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "I need some advice",
+                "resultDialogId": "shop_intro",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Just wanted to say hello!",
+                "resultDialogId": "hello_response",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Nothing right now, thanks!",
+                "resultDialogId": "qa_end",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        }
+      ]
+    }
+  ]
+}

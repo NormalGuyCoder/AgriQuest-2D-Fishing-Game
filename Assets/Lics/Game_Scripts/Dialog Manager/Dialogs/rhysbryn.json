@@ -1,0 +1,230 @@
+{
+  "npcDialogs": [
+    {
+      "npcName": "Rhysbryn",
+      "dialogs": [
+        {
+          "key": "first_meeting",
+          "value": {
+            "speakerName": "Rhysbryn",
+            "text": "The math doesn't lie. Interest compounds faster than fish breed.\n\nI'm in a hole I can't fish my way out of with a single rod.\n\nYou're the steward. You're learning about balance, right?",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 3,
+                "conditionKey": "MARKET_INTRODUCTION",
+                "conditionValue": "COMPLETED"
+              },
+              {
+                "conditionType": 10,
+                "conditionKey": "Rhysbryn",
+                "conditionValue": "false",
+                "expectedBool": true
+              }
+            ],
+            "triggersOnShow": [
+              "RecordTalkedToNPC:Rhysbryn"
+            ],
+            "choices": [
+              {
+                "choiceText": "Are you okay? You look troubled.",
+                "resultDialogId": "crisis_explanation",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "What's wrong?",
+                "resultDialogId": "crisis_explanation",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "crisis_explanation",
+          "value": {
+            "speakerName": "Rhysbryn",
+            "text": "I'm Rhysbryn. I need a large sum of gold, fast.\n\nI could push the fishing limits for quick cash.\n\nBut that would stress the population. It feels wrong.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "There has to be another way.",
+                "resultDialogId": "choice_presentation",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "choice_presentation",
+          "value": {
+            "speakerName": "Rhysbryn",
+            "text": "The other way is slower. Fish sustainably, sell to the co-op.\n\nIt's careful, honest work. But it might not be fast enough.\n\nThis is what stewardship looks like in the real world.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "So, what will you do?",
+                "resultDialogId": "help_request",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "help_request",
+          "value": {
+            "speakerName": "Rhysbryn",
+            "text": "I don't know. My head says push, my gut says be responsible.\n\nBut if you help me—fish sustainably together—it changes everything.\n\nWill you help me do this the right way?",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "I'll help you. We'll do it the right way.",
+                "resultDialogId": "help_accepted",
+                "triggersOnShow": [
+                  "StartQuest:HELP_RHYSSBRYN"
+                ],
+                "showConditions": []
+              },
+              {
+                "choiceText": "I'm sorry, I have my own journal to focus on.",
+                "resultDialogId": "help_declined",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "help_accepted",
+          "value": {
+            "speakerName": "Rhysbryn",
+            "text": "Thank you. You've shown what true stewardship means.\n\nWe'll fish clean, sell to the co-op, and do this right.\n\n(Achievement Unlocked: A Debt of Gratitude)",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [
+              "CompleteQuest:HELP_RHYSSBRYN",
+              "SetFlag:HelpedRhysbryn:true",
+              "UnlockAchievement:A Debt of Gratitude"
+            ],
+            "choices": [],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "help_declined",
+          "value": {
+            "speakerName": "Rhysbryn",
+            "text": "I understand. We all have our own burdens to carry.\n\nGood luck with your journal.\n\nMaybe we'll cross paths again.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [
+              "SetFlag:HelpedRhysbryn:false"
+            ],
+            "choices": [],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "post_help_return",
+          "value": {
+            "speakerName": "Rhysbryn",
+            "text": "The co-op manager sends his thanks. Your help made the sustainable path possible.\n\nHow's your stewardship journey going?",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 1,
+                "conditionKey": "HelpedRhysbryn",
+                "conditionValue": "true"
+              }
+            ],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "It's going well. Thanks for asking.",
+                "resultDialogId": "post_help_advice",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "post_decline_return",
+          "value": {
+            "speakerName": "Rhysbryn",
+            "text": "Still working on your journal, I see.\n\nRemember, true stewardship is about more than just logging fish.\n\nIt's about the choices you make when it matters.",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 1,
+                "conditionKey": "HelpedRhysbryn",
+                "conditionValue": "false"
+              }
+            ],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "I understand. Thank you.",
+                "resultDialogId": "",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "post_help_advice",
+          "value": {
+            "speakerName": "Rhysbryn",
+            "text": "Keep making smart choices. A town that feels exploited stops buying.\n\nBalance, always balance.\n\nGood luck with your journal.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "default",
+          "value": {
+            "speakerName": "Rhysbryn",
+            "text": "How's your stewardship journey going?\n\nMaking smart choices, I hope.",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 10,
+                "conditionKey": "Rhysbryn",
+                "conditionValue": "true"
+              }
+            ],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "It's going well.",
+                "resultDialogId": "",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        }
+      ]
+    }
+  ]
+}

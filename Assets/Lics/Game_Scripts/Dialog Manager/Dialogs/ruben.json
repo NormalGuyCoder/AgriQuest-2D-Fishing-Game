@@ -1,0 +1,372 @@
+{
+  "npcDialogs": [
+    {
+      "npcName": "Ruben",
+      "dialogs": [
+        {
+          "key": "first_meeting_low_health",
+          "value": {
+            "speakerName": "Ruben",
+            "text": "I've seen what's coming to my table. Thin catches, stressed fish.\n\nA processor's art begins with what the fisher provides. Remember that.",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 7,
+                "conditionKey": "SafeportHealth",
+                "conditionValue": "40",
+                "comparison": "LESS_THAN"
+              },
+              {
+                "conditionType": 10,
+                "conditionKey": "Ruben",
+                "conditionValue": "false",
+                "expectedBool": true
+              }
+            ],
+            "triggersOnShow": [],
+            "choices": [],
+            "nextDialogId": "first_meeting_standard"
+          }
+        },
+        {
+          "key": "first_meeting_high_skill",
+          "value": {
+            "speakerName": "Ruben",
+            "text": "Your fillets have been drawing compliments from the inn's chef.\n\nEfficiency approaches artistry. Do you have work, or are you here to learn more?",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 5,
+                "conditionKey": "Processing",
+                "conditionValue": "8",
+                "comparison": "GREATER_OR_EQUAL"
+              },
+              {
+                "conditionType": 10,
+                "conditionKey": "Ruben",
+                "conditionValue": "false",
+                "expectedBool": true
+              }
+            ],
+            "triggersOnShow": [
+              "RecordTalkedToNPC:Ruben"
+            ],
+            "choices": [
+              {
+                "choiceText": "Cassandra sent me to learn about processing.",
+                "resultDialogId": "processing_tutorial_intro",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "I'm here to process fish.",
+                "resultDialogId": "",
+                "triggersOnChoose": ["RecordFishProcessed:1", "CompleteQuest:ART_OF_VALUE_4", "LoadScene:DeboningMainScene", "PlayMusic:DeboningBGM"],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "first_meeting_standard",
+          "value": {
+            "speakerName": "Ruben",
+            "text": "Queue's to the left. Standard processing fee is 10% of market value.\n\nIf you're not here with fish, state your business. Time is freshness.",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 10,
+                "conditionKey": "Ruben",
+                "conditionValue": "false",
+                "expectedBool": true
+              },
+              {
+                "conditionType": 3,
+                "conditionKey": "FIRST_MARKET_SALE",
+                "conditionValue": "COMPLETED"
+              }
+            ],
+            "triggersOnShow": [
+              "RecordTalkedToNPC:Ruben"
+            ],
+            "choices": [
+              {
+                "choiceText": "Cassandra sent me to learn processing.",
+                "resultDialogId": "processing_tutorial_intro",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "I want to process my fish.",
+                "resultDialogId": "",
+                "triggersOnChoose": ["RecordFishProcessed:1", "CompleteQuest:ART_OF_VALUE_4", "LoadScene:DeboningMainScene", "PlayMusic:DeboningBGM"],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "processing_tutorial_intro",
+          "value": {
+            "speakerName": "Ruben",
+            "text": "Cassandra sent you? Good. I'm Ruben.\n\nProcessing isn't a hobby. It's a discipline. You waste less, earn more, and honor the catch.\n\nIf you're serious, I'll teach you deboning.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "I want to learn properly. I'm a stewardship student.",
+                "resultDialogId": "processing_tutorial_step1",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Cassandra said it would help me earn more.",
+                "resultDialogId": "processing_tutorial_step1",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "processing_tutorial_step1",
+          "value": {
+            "speakerName": "Ruben",
+            "text": "Good. We'll use a common farmed tilapia. It's forgiving for learning.\n\nFirst, the tweezers. Use them for the small bones.\n\nPull gently and carefully. Every bone removed means a better product.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "What's next?",
+                "resultDialogId": "processing_tutorial_step2",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "processing_tutorial_step2",
+          "value": {
+            "speakerName": "Ruben",
+            "text": "Now, the knife. Follow the spine with steady, confident strokes.\n\nClean cuts mean more meat, less waste, better value.\n\nThis is where skill separates the processor from the butcher.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "What now?",
+                "resultDialogId": "processing_tutorial_complete",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "processing_tutorial_complete",
+          "value": {
+            "speakerName": "Ruben",
+            "text": "You've got the basics. Now you can debone your own catch.\n\nProcessed fish sell for twice the price. It's worth the effort.\n\n(Achievement Unlocked: Processor's Apprentice)",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [
+              "CompleteQuest:PROCESSING_TUTORIAL",
+              "UnlockAchievement:Processor's Apprentice",
+              "SetSkill:Processing:1"
+            ],
+            "choices": [
+              {
+                "choiceText": "Thank you for teaching me.",
+                "resultDialogId": "post_tutorial_qa",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "post_tutorial_qa",
+          "value": {
+            "speakerName": "Ruben",
+            "text": "Is there a point of technique you wish to clarify?\n\nOr are you ready to process your own catch?",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 3,
+                "conditionKey": "PROCESSING_TUTORIAL",
+                "conditionValue": "COMPLETED"
+              }
+            ],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "I want to process my fish.",
+                "resultDialogId": "",
+                "triggersOnChoose": ["RecordFishProcessed:1", "CompleteQuest:ART_OF_VALUE_4", "LoadScene:DeboningMainScene", "PlayMusic:DeboningBGM"],
+                "showConditions": []
+              },
+              {
+                "choiceText": "What's the most important rule in processing?",
+                "resultDialogId": "qa_rule",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Can you tell me more about getting better tools?",
+                "resultDialogId": "qa_tools",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Any final advice before I start on my own?",
+                "resultDialogId": "qa_advice",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Thanks, that's all I needed.",
+                "resultDialogId": "qa_end",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "qa_rule",
+          "value": {
+            "speakerName": "Ruben",
+            "text": "Respect the life that was given.\n\nEvery cut should be purposeful, every part considered.\n\nThis isn't just business; it's a form of stewardship.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "What else should I know?",
+                "resultDialogId": "post_tutorial_qa",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "qa_tools",
+          "value": {
+            "speakerName": "Ruben",
+            "text": "Focus on skill first. Tools come later.\n\nWhen you're ready, Soria at Local Galore may have a Processor's Starter Kit.\n\nA master with a simple knife is better than a novice with a golden one.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "What else should I know?",
+                "resultDialogId": "post_tutorial_qa",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "qa_advice",
+          "value": {
+            "speakerName": "Ruben",
+            "text": "Start with what you know—your tilapia or mackerel.\n\nKeep your technique precise. A careless cut is wasteful.\n\nRemember: the better you care for your craft, the better you honor the catch.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "What else should I know?",
+                "resultDialogId": "post_tutorial_qa",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "qa_end",
+          "value": {
+            "speakerName": "Ruben",
+            "text": "The queue is waiting. But so is your future.\n\nUse what you've learned. And remember: the knife reveals character.\n\nWhat kind of steward will yours show you to be?",
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "post_tutorial_default",
+          "value": {
+            "speakerName": "Ruben",
+            "text": "Do you have fish to process, or do you need advice on technique?",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 3,
+                "conditionKey": "PROCESSING_TUTORIAL",
+                "conditionValue": "COMPLETED"
+              }
+            ],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "I want to process my fish.",
+                "resultDialogId": "",
+                "triggersOnChoose": ["RecordFishProcessed:1", "CompleteQuest:ART_OF_VALUE_4", "LoadScene:DeboningMainScene", "PlayMusic:DeboningBGM"],
+                "showConditions": []
+              },
+              {
+                "choiceText": "I have questions about processing.",
+                "resultDialogId": "post_tutorial_qa",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "default",
+          "value": {
+            "speakerName": "Ruben",
+            "text": "Welcome back. Do you have fish to process, or do you need advice on technique?",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "I want to process my fish.",
+                "resultDialogId": "",
+                "triggersOnChoose": ["RecordFishProcessed:1", "CompleteQuest:ART_OF_VALUE_4", "LoadScene:DeboningMainScene", "PlayMusic:DeboningBGM"],
+                "showConditions": []
+              },
+              {
+                "choiceText": "I have questions about processing.",
+                "resultDialogId": "post_tutorial_qa",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        }
+      ]
+    }
+  ]
+}

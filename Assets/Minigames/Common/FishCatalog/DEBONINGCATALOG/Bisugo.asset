@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7651e250fea4e664396b28b6b87cf878, type: 3}
+  m_Name: Bisugo
+  m_EditorClassIdentifier: Assembly-CSharp::FishCatalogEntry
+  fishId: bisugo
+  displayName: Bisugo
+  scientificName: 
+  description: Mild and versatile; great fried or steamed.
+  mainSprite: {fileID: -7089566116827866940, guid: f8f03ef8a54330742bc880f35303f82b, type: 3}
+  iconSprite: {fileID: -7089566116827866940, guid: f8f03ef8a54330742bc880f35303f82b, type: 3}
+  tags: []
+  isEndangered: 0
+  aliases: []
+  baseSellPrice: 40
+  processedValueMultiplier: 1
+  endangeredValueMultiplier: 2

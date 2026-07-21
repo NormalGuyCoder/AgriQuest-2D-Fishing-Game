@@ -1,0 +1,157 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3f3ad6191c4bd9b459be18ca60df94de, type: 3}
+  m_Name: Hito
+  m_EditorClassIdentifier: Assembly-CSharp::FishDefinition
+  fishType: Hito
+  displayName: Catfish
+  difficulty: 2
+  educationalInfo: Freshwater fish with tough skin and firm rib bones.
+  description: Common in ponds; used for inihaw and adobo.
+  timeLimitSeconds: 80
+  spineBoneCount: 13
+  ribBoneCount: 14
+  pinBoneCount: 3
+  habitat: Rivers, ponds, and lakes
+  cookingTips: Score skin carefully; ribs detach cleanly when traced.
+  fishSprite: {fileID: 129708357, guid: 30d13590eb101bc40be64db1770d2da4, type: 3}
+  fishIcon: {fileID: 129708357, guid: 30d13590eb101bc40be64db1770d2da4, type: 3}
+  fishPrefab: {fileID: 7434062677667821415, guid: 3eea931c0f70904439c314a944d37023, type: 3}
+  sharedCatalogEntry: {fileID: 0}
+  sharedFishId: hito
+  bones:
+  - name: spine
+    x: 16432.395
+    y: -5974.537
+    width: 708.4399
+    height: 278.1835
+    boneType: 0
+    isRemoved: 0
+  - name: Bone Upper
+    x: -14185.211
+    y: -10861.178
+    width: 40.1641
+    height: 83.2514
+    boneType: 1
+    isRemoved: 0
+  - name: Bone 2 (2)
+    x: -3274.3896
+    y: -11213.656
+    width: 33.1444
+    height: 69.0451
+    boneType: 1
+    isRemoved: 0
+  - name: Bone 2 (4)
+    x: 5729.8706
+    y: -11566.141
+    width: 35.7101
+    height: 75.414
+    boneType: 1
+    isRemoved: 0
+  - name: Bone 2 (6)
+    x: 15487.125
+    y: -11101.512
+    width: 46.4597
+    height: 80.0262
+    boneType: 1
+    isRemoved: 0
+  - name: Bone 2 (8)
+    x: 23978.668
+    y: -10332.459
+    width: 47.9966
+    height: 75.1201
+    boneType: 1
+    isRemoved: 0
+  - name: Bone 2 (10)
+    x: 32646.453
+    y: -9018.677
+    width: 46.0032
+    height: 58.2315
+    boneType: 1
+    isRemoved: 0
+  - name: Bone 2 (12)
+    x: 41507.94
+    y: -7466.5283
+    width: 35.3336
+    height: 41.6398
+    boneType: 1
+    isRemoved: 0
+  - name: Bone lower
+    x: -13684.291
+    y: 936.672
+    width: 64.8188
+    height: 119.9387
+    boneType: 1
+    isRemoved: 0
+  - name: Bone 2 (2)
+    x: -2825.7712
+    y: 706.542
+    width: 59.9338
+    height: 117.2675
+    boneType: 1
+    isRemoved: 0
+  - name: Bone 2 (4)
+    x: 6880.739
+    y: -13.247967
+    width: 62.3975
+    height: 106.5821
+    boneType: 1
+    isRemoved: 0
+  - name: Bone 2 (6)
+    x: 15627.68
+    y: -881.1279
+    width: 35.1122
+    height: 89.0737
+    boneType: 1
+    isRemoved: 0
+  - name: Bone 2 (8)
+    x: 24795.764
+    y: -943.6981
+    width: 28.6559
+    height: 84.5974
+    boneType: 1
+    isRemoved: 0
+  - name: Bone 2 (10)
+    x: 32647.959
+    y: -1568.0779
+    width: 23.6912
+    height: 52.6644
+    boneType: 1
+    isRemoved: 0
+  - name: Bone 2 (12)
+    x: 40915.3
+    y: -1922.6879
+    width: 23.6295
+    height: 36.3012
+    boneType: 1
+    isRemoved: 0
+  - name: Anal Fin
+    x: 2685.7178
+    y: 6570.507
+    width: 161.8768
+    height: 59.1974
+    boneType: 0
+    isRemoved: 0
+  - name: Caudal Fin
+    x: 51744.4
+    y: -4135.7695
+    width: 205.0717
+    height: 238.248
+    boneType: 0
+    isRemoved: 0
+  - name: Pectoral fin
+    x: -4043.4219
+    y: -16564.932
+    width: 128.0277
+    height: 100.3325
+    boneType: 0
+    isRemoved: 1

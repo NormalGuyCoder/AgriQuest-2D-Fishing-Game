@@ -1,0 +1,469 @@
+{
+  "npcDialogs": [
+    {
+      "npcName": "Mayor Andrew",
+      "dialogs": [
+        {
+          "key": "first_meeting",
+          "value": {
+            "speakerName": "Mayor Andrew",
+            "text": "Ah, a new face in Riversong! Welcome, welcome. I'm Andrew, the mayor of this wonderful town. You must be the stewardship student Clark told me about.",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 3,
+                "conditionKey": "ORIENTATION_DAY_0",
+                "conditionValue": "COMPLETED"
+              }
+            ],
+            "triggersOnShow": [
+              "RecordTalkedToNPC:Mayor Andrew",
+              "RecordChoice:HasMetMayorAndrew"
+            ],
+            "choices": [
+              {
+                "choiceText": "Yes, Professor Clark sent me.",
+                "resultDialogId": "main_guidance",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "main_guidance",
+          "value": {
+            "speakerName": "Mayor Andrew",
+            "text": "Clark and I were study partners at the Academy. He knows Riversong is perfect for your stewardship work. To complete your journal, you'll need to master fishing and processing. Where would you like to begin?",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 8,
+                "conditionKey": "HasMetMayorAndrew",
+                "conditionValue": "true",
+                "expectedBool": true
+              },
+              {
+                "conditionType": 2,
+                "conditionKey": "FIRST_FISHING_TASK",
+                "conditionValue": "ACTIVE",
+                "expectedBool": false
+              }
+            ],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "Where should I start?",
+                "resultDialogId": "fishing_guide",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "What are my goals here?",
+                "resultDialogId": "goals_explanation",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "I'm ready to begin.",
+                "resultDialogId": "start_fishing",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "fishing_guide",
+          "value": {
+            "speakerName": "Mayor Andrew",
+            "text": "Start with fishing at Safeport docks. Head south from here to Saltshore. Vincent will teach you everything—he's our fishing expert and believes in learning by doing. He'll show you sustainable fishing and the Population Health Meter.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "What are my goals?",
+                "resultDialogId": "goals_explanation",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Back to main questions.",
+                "resultDialogId": "main_guidance",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "goals_explanation",
+          "value": {
+            "speakerName": "Mayor Andrew",
+            "text": "Your goal is to complete your Stewardship Field Journal. This means: 1) Catch fish to catalog them, 2) Debone them to complete entries, and 3) Earn 2,000 gold to pay your tuition. Fishing comes first, then processing.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "Where should I start?",
+                "resultDialogId": "fishing_guide",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Back to main questions.",
+                "resultDialogId": "main_guidance",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "start_fishing",
+          "value": {
+            "speakerName": "Mayor Andrew",
+            "text": "Excellent! Vincent is waiting at Safeport docks. Head south to Saltshore—you can't miss the docks. Tell him I sent you. He'll teach you fishing fundamentals and the Population Health Meter.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [
+              "StartQuest:FIRST_FISHING_TASK"
+            ],
+            "choices": [],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "post_fishing_default",
+          "value": {
+            "speakerName": "Mayor Andrew",
+            "text": "Welcome back! How's your stewardship journey going?",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 2,
+                "conditionKey": "FIRST_FISHING_TASK",
+                "conditionValue": "ACTIVE",
+                "expectedBool": true
+              },
+              {
+                "conditionType": 3,
+                "conditionKey": "MARKET_INTRODUCTION_FISHING_4",
+                "conditionValue": "COMPLETED",
+                "expectedBool": false
+              }
+            ],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "Where should I go next?",
+                "resultDialogId": "market_guidance",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Remind me of my goals.",
+                "resultDialogId": "goals_explanation",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Just checking in.",
+                "resultDialogId": "quick_checkin",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "market_guidance",
+          "value": {
+            "speakerName": "Mayor Andrew",
+            "text": "Now you need to learn the market. Head east to Fresh Finds. Cassandra at Fishy Bargains buys fish, and Ruben next door teaches deboning. Remember: Learn (fishing), Provide (sell), Sustain (responsible fishing).",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [
+              "StartQuest:MARKET_INTRODUCTION_FISHING_4"
+            ],
+            "choices": [],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "quick_checkin",
+          "value": {
+            "speakerName": "Mayor Andrew",
+            "text": "Keep up the good work. Remember the three steps: Learn from Vincent, Provide at the market, Sustain through responsible fishing. The water provides for those who respect it.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "post_market_default",
+          "value": {
+            "speakerName": "Mayor Andrew",
+            "text": "Good to see you! How's your journal coming along?",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 3,
+                "conditionKey": "MARKET_INTRODUCTION_FISHING_4",
+                "conditionValue": "COMPLETED"
+              },
+              {
+                "conditionType": 3,
+                "conditionKey": "FIELD_JOURNAL_COMPLETE",
+                "conditionValue": "COMPLETED",
+                "expectedBool": false
+              }
+            ],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "How do I complete my journal?",
+                "resultDialogId": "journal_completion_guide",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "What about the 2,000 gold?",
+                "resultDialogId": "tuition_reminder",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Just saying hello.",
+                "resultDialogId": "friendly_greeting",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "journal_completion_guide",
+          "value": {
+            "speakerName": "Mayor Andrew",
+            "text": "To complete your journal: 1) Catch all fish types in your catalog, 2) Debone each type to finish entries, 3) Keep the Population Health Meter healthy, and 4) Earn 2,000 gold. Balance fishing and processing.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "What about the 2,000 gold?",
+                "resultDialogId": "tuition_reminder",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Back to main questions.",
+                "resultDialogId": "post_market_default",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "tuition_reminder",
+          "value": {
+            "speakerName": "Mayor Andrew",
+            "text": "The 2,000 gold tuition is separate from your journal. Sell quality fish and deboned fillets at the market. Higher quality = better prices. Remember: Skillful processing earns more.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "How do I complete my journal?",
+                "resultDialogId": "journal_completion_guide",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Back to main questions.",
+                "resultDialogId": "post_market_default",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "friendly_greeting",
+          "value": {
+            "speakerName": "Mayor Andrew",
+            "text": "Good to see you! Keep balancing your fishing and processing. The community notices your responsible work.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "journal_review",
+          "value": {
+            "speakerName": "Mayor Andrew",
+            "text": "Ah, there you are. Professor Clark and I have reviewed your Field Journal. You've made excellent progress. Your journal is complete, and I hear you have the 2,000 gold for tuition?",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 3,
+                "conditionKey": "FIELD_JOURNAL_COMPLETE",
+                "conditionValue": "COMPLETED"
+              }
+            ],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "Yes, I have the gold ready.",
+                "resultDialogId": "graduation_decision",
+                "triggersOnShow": [
+                  "CheckGold:2000"
+                ],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Not yet, I need more time.",
+                "resultDialogId": "not_ready_yet",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "graduation_decision",
+          "value": {
+            "speakerName": "Mayor Andrew",
+            "text": "All requirements met! Your journal shows balance and skill. Now you must decide: graduate now or stay to perfect your work?",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "I'm ready to graduate.",
+                "resultDialogId": "graduate_now",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "I want to stay and improve.",
+                "resultDialogId": "stay_and_improve",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "What's the difference?",
+                "resultDialogId": "graduation_explanation",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "not_ready_yet",
+          "value": {
+            "speakerName": "Mayor Andrew",
+            "text": "Take your time. A steward knows when to wait. Return when you have the 2,000 gold and feel your journal is truly complete.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "graduation_explanation",
+          "value": {
+            "speakerName": "Mayor Andrew",
+            "text": "Graduate now: ceremony at Academy, receive stewardship title, tuition settled, work complete. Stay longer: improve skills, build reputation, perfect journal. There's no rush—choose when your story feels complete.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [
+              {
+                "choiceText": "I'm ready to graduate.",
+                "resultDialogId": "graduate_now",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "I want to stay and improve.",
+                "resultDialogId": "stay_and_improve",
+                "triggersOnShow": [],
+                "showConditions": []
+              },
+              {
+                "choiceText": "Back to decision.",
+                "resultDialogId": "graduation_decision",
+                "triggersOnShow": [],
+                "showConditions": []
+              }
+            ],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "graduate_now",
+          "value": {
+            "speakerName": "Mayor Andrew",
+            "text": "Then it's my honor to accept your Stewardship Field Journal. You've become part of Riversong's story. Professor Clark is waiting at the Academy for your graduation.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [
+              "StartQuest:GRADUATION_DAY"
+            ],
+            "choices": [],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "stay_and_improve",
+          "value": {
+            "speakerName": "Mayor Andrew",
+            "text": "I had a feeling you'd say that. A true steward is never fully satisfied. Continue your work—the water and community await. Return when your journal feels complete.",
+            "showAsAction": true,
+            "showConditions": [],
+            "triggersOnShow": [],
+            "choices": [],
+            "nextDialogId": ""
+          }
+        },
+        {
+          "key": "default",
+          "value": {
+            "speakerName": "Mayor Andrew",
+            "text": "Hello! Keep up the good stewardship work. The water provides for those who respect it.",
+            "showAsAction": true,
+            "showConditions": [
+              {
+                "conditionType": 0
+              }
+            ],
+            "triggersOnShow": [],
+            "choices": [],
+            "nextDialogId": ""
+          }
+        }
+      ]
+    }
+  ]
+}

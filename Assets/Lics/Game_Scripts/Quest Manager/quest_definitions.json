@@ -1,0 +1,282 @@
+{
+  "quests": [
+    {
+      "questId": "ORIENTATION_DAY_0",
+      "questName": "Orientation Day",
+      "description": "Attend Professor Clark's orientation lecture at DDNSC Academy about the Stewardship Field Journal",
+      "giverNPC": "Professor Clark",
+      "locationHint": "DDNSC Academy Auditorium",
+      "completionTriggers": [
+        {
+          "triggerType": 0,
+          "targetId": "Professor Clark",
+          "requiredAmount": 1,
+          "currentAmount": 0,
+          "sequential": false
+        },
+        {
+          "triggerType": 2,
+          "targetId": "OrientationComplete",
+          "requiredAmount": 1,
+          "currentAmount": 0,
+          "sequential": true
+        }
+      ],
+      "rewardCoins": 0,
+      "state": 1,
+      "requiredQuestIds": [],
+      "prerequisiteLogic": 0,
+      "nextQuestIds": ["STEWARDSHIP_CHALLENGE_1"]
+    },
+    {
+      "questId": "STEWARDSHIP_CHALLENGE_1",
+      "questName": "Meeting the Mayor",
+      "description": "Meet Mayor Andrew in Greenvale to begin your fishing journey",
+      "giverNPC": "Professor Clark",
+      "locationHint": "Greenvale - Mayor's House",
+      "completionTriggers": [
+        {
+          "triggerType": 0,
+          "targetId": "Mayor Andrew",
+          "requiredAmount": 1,
+          "currentAmount": 0
+        }
+      ],
+      "rewardCoins": 0,
+      "state": 0,
+      "requiredQuestIds": ["ORIENTATION_DAY_0"],
+      "prerequisiteLogic": 0,
+      "nextQuestIds": ["FIRST_CAST_2A"]
+    },
+    {
+      "questId": "FIRST_CAST_2A",
+      "questName": "The First Cast",
+      "description": "Learn wild fishing basics from Vincent at Safeport. Catch 3 fish and learn about the Population Health Meter",
+      "giverNPC": "Mayor Andrew",
+      "locationHint": "Saltyshore - Safeport Docks",
+      "completionTriggers": [
+        {
+          "triggerType": 2,
+          "targetId": "Fish",
+          "requiredAmount": 3,
+          "currentAmount": 0
+        },
+        {
+          "triggerType": 0,
+          "targetId": "Vincent",
+          "requiredAmount": 1,
+          "currentAmount": 0,
+          "sequential": true
+        }
+      ],
+      "rewardCoins": 50,
+      "state": 0,
+      "requiredQuestIds": ["STEWARDSHIP_CHALLENGE_1"],
+      "prerequisiteLogic": 0,
+      "nextQuestIds": ["MARKET_DYNAMICS_3"]
+    },
+    {
+      "questId": "MARKET_DYNAMICS_3",
+      "questName": "Market Dynamics",
+      "description": "Learn about the market from Cassandra at Fishy Bargains. Make your first sale",
+      "giverNPC": "Mayor Andrew",
+      "locationHint": "Fresh Finds - Fishy Bargains",
+      "completionTriggers": [
+        {
+          "triggerType": 0,
+          "targetId": "Cassandra",
+          "requiredAmount": 1,
+          "currentAmount": 0
+        },
+        {
+          "triggerType": 2,
+          "targetId": "Sold Fish",
+          "requiredAmount": 1,
+          "currentAmount": 0,
+          "sequential": true
+        }
+      ],
+      "rewardCoins": 0,
+      "state": 0,
+      "requiredQuestIds": ["FIRST_CAST_2A"],
+      "prerequisiteLogic": 0,
+      "nextQuestIds": ["ART_OF_VALUE_4"]
+    },
+    {
+      "questId": "ART_OF_VALUE_4",
+      "questName": "The Art of Value",
+      "description": "Learn fish processing (deboning) from Ruben at Codfather's Processor",
+      "giverNPC": "Cassandra",
+      "locationHint": "Fresh Finds - Codfather's Processor",
+      "completionTriggers": [
+        {
+          "triggerType": 0,
+          "targetId": "Ruben",
+          "requiredAmount": 1,
+          "currentAmount": 0
+        },
+        {
+          "triggerType": 2,
+          "targetId": "Processed Fish",
+          "requiredAmount": 1,
+          "currentAmount": 0,
+          "sequential": true
+        }
+      ],
+      "rewardCoins": 100,
+      "state": 0,
+      "requiredQuestIds": ["MARKET_DYNAMICS_3"],
+      "prerequisiteLogic": 0,
+      "nextQuestIds": ["TOOLS_OF_TRADE_5"]
+    },
+    {
+      "questId": "TOOLS_OF_TRADE_5",
+      "questName": "Tools of the Trade",
+      "description": "Visit Soria at Local Galore for advice on skill development",
+      "giverNPC": "Ruben",
+      "locationHint": "Greenvale - Local Galore",
+      "completionTriggers": [
+        {
+          "triggerType": 0,
+          "targetId": "Soria",
+          "requiredAmount": 1,
+          "currentAmount": 0
+        }
+      ],
+      "rewardCoins": 0,
+      "state": 0,
+      "requiredQuestIds": ["ART_OF_VALUE_4"],
+      "prerequisiteLogic": 0,
+      "nextQuestIds": ["TEST_OF_VALUES_6"]
+    },
+    {
+      "questId": "TEST_OF_VALUES_6",
+      "questName": "A Test of Values",
+      "description": "Help Rhysbryn with his debt crisis by choosing sustainable fishing",
+      "giverNPC": "Soria",
+      "locationHint": "Saltyshore - Docks",
+      "completionTriggers": [
+        {
+          "triggerType": 0,
+          "targetId": "Rhysbryn",
+          "requiredAmount": 1,
+          "currentAmount": 0
+        }
+      ],
+      "rewardCoins": 0,
+      "state": 0,
+      "requiredQuestIds": ["TOOLS_OF_TRADE_5"],
+      "prerequisiteLogic": 0,
+      "nextQuestIds": ["WARDENS_WATCH_7"]
+    },
+    {
+      "questId": "WARDENS_WATCH_7",
+      "questName": "The Warden's Watch",
+      "description": "Meet Nash and learn about responsible fishing practices",
+      "giverNPC": "Rhysbryn",
+      "locationHint": "Saltyshore - Master Baiter",
+      "completionTriggers": [
+        {
+          "triggerType": 0,
+          "targetId": "Nash",
+          "requiredAmount": 1,
+          "currentAmount": 0
+        }
+      ],
+      "rewardCoins": 0,
+      "state": 0,
+      "requiredQuestIds": ["TEST_OF_VALUES_6"],
+      "prerequisiteLogic": 0,
+      "nextQuestIds": ["SEASON_REVIEW_8"]
+    },
+    {
+      "questId": "SEASON_REVIEW_8",
+      "questName": "The Review - A Season's Work",
+      "description": "Meet Mayor Andrew for your progress review. Need 2,000 gold and 50% journal completion",
+      "giverNPC": "Nash",
+      "locationHint": "Greenvale - Mayor's House",
+      "completionTriggers": [
+        {
+          "triggerType": 3,
+          "targetId": "Coins",
+          "requiredAmount": 2000,
+          "currentAmount": 0
+        },
+        {
+          "triggerType": 0,
+          "targetId": "Mayor Andrew",
+          "requiredAmount": 1,
+          "currentAmount": 0,
+          "sequential": true
+        }
+      ],
+      "rewardCoins": 0,
+      "state": 0,
+      "requiredQuestIds": ["WARDENS_WATCH_7"],
+      "prerequisiteLogic": 0,
+      "nextQuestIds": ["GRADUATION_DAY_9"]
+    },
+    {
+      "questId": "GRADUATION_DAY_9",
+      "questName": "Graduation Day",
+      "description": "Return to DDNSC Academy for final evaluation and graduation ceremony",
+      "giverNPC": "Mayor Andrew",
+      "locationHint": "DDNSC Academy Auditorium",
+      "completionTriggers": [
+        {
+          "triggerType": 0,
+          "targetId": "Professor Clark",
+          "requiredAmount": 1,
+          "currentAmount": 0,
+          "sequential": true
+        }
+      ],
+      "rewardCoins": 500,
+      "state": 0,
+      "requiredQuestIds": ["SEASON_REVIEW_8"],
+      "prerequisiteLogic": 0,
+      "nextQuestIds": []
+    },
+    {
+      "questId": "HELP_RHYSSBRYN",
+      "questName": "Helping Rhysbryn",
+      "description": "Help Rhysbryn fish sustainably instead of overfishing for quick cash",
+      "giverNPC": "Rhysbryn",
+      "locationHint": "Saltyshore - Docks",
+      "completionTriggers": [
+        {
+          "triggerType": 2,
+          "targetId": "HelpRhysbryn",
+          "requiredAmount": 1,
+          "currentAmount": 0,
+          "sequential": true
+        }
+      ],
+      "rewardCoins": 0,
+      "state": 0,
+      "requiredQuestIds": ["TEST_OF_VALUES_6"],
+      "prerequisiteLogic": 0,
+      "nextQuestIds": []
+    },
+    {
+      "questId": "PROCESSING_TUTORIAL",
+      "questName": "Processor's Apprentice",
+      "description": "Complete Ruben's processing tutorial to learn how to debone fish",
+      "giverNPC": "Ruben",
+      "locationHint": "Fresh Finds - Codfather's Processor",
+      "completionTriggers": [
+        {
+          "triggerType": 2,
+          "targetId": "ProcessingLessonComplete",
+          "requiredAmount": 1,
+          "currentAmount": 0
+        }
+      ],
+      "rewardCoins": 0,
+      "state": 0,
+      "requiredQuestIds": [],
+      "prerequisiteLogic": 0,
+      "nextQuestIds": []
+    }
+  ]
+}
